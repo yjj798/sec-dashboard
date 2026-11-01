@@ -1,0 +1,61 @@
+name: daily-sec-analysis
+
+# 跑在 GitHub 的机器上，与本人电脑是否开机无关。
+# cron 是 UTC：08:20 = 北京 16:20（收盘后首跑）；13:15 = 北京 21:15（补涨停驱动词）
+on:
+  schedule:
+    - cron: '20 8 * * 1-5'
+    - cron: '15 13 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      skip_reasons:
+        description: '跳过同花顺涨停驱动词抓取（只跑 55188）'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sec-daily
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Collect + analyze
+        env:
+          SEC_DATA_DIR: ${{ github.workspace }}/data
+        run: |
+          ARG=""
+          if [ "${{ inputs.skip_reasons }}" = "true" ]; then ARG="--no-reasons"; fi
+          python scripts/sec_daily.py $ARG
+
+      - name: Publish report to site root
+        run: cp data/report.html index.html
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data index.html
+          if git diff --staged --quiet; then
+            echo "本次无变化（非交易日或数据未更新），跳过提交"
+            exit 0
+          fi
+          D=$(python -c "import json;print(json.load(open('data/series.json'))[-1]['date'])" 2>/dev/null || echo unknown)
+          git commit -m "data: ${D} 复盘快照 + 驱动词"
+          git push
