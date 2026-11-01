@@ -1,7 +1,21 @@
 {
- "generated_at": "2026-11-01T15:38:30",
+ "generated_at": "2026-11-01T15:53:45",
  "reports": 12,
- "latest": "2026-11-01 morning",
+ "latest": "2026-11-01 evening",
+ "reports_seen": [
+  "2026-10-27 evening",
+  "2026-10-27 morning",
+  "2026-10-28 evening",
+  "2026-10-28 morning",
+  "2026-10-29 evening",
+  "2026-10-29 morning",
+  "2026-10-30 evening",
+  "2026-10-30 morning",
+  "2026-10-31 evening",
+  "2026-10-31 morning",
+  "2026-11-01 evening",
+  "2026-11-01 morning"
+ ],
  "indices": {
   "上证指数": {
    "close": 3599.02,
@@ -45,7 +59,7 @@
   },
   "标普500": {
    "close": 7580.07,
-   "pct": -1.82,
+   "pct": null,
    "as_of": "2026-11-01"
   },
   "纳斯达克": {

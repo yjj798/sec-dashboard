@@ -21,9 +21,30 @@ th{color:var(--muted);font-weight:500;font-size:12px}
 tr:last-child td{border-bottom:0}
 .red{color:var(--red)}.green{color:var(--green)}
 .note{font-size:12px;color:var(--muted);margin-top:10px;line-height:1.7}
-</style></head><body><div class="wrap">
+.nav{position:sticky;top:0;z-index:9;background:rgba(18,22,28,.94);
+border-bottom:1px solid var(--line);backdrop-filter:blur(8px)}
+.navin{max-width:960px;margin:0 auto;padding:0 18px;height:50px;display:flex;align-items:center;gap:18px}
+.brand{font-size:13.5px;font-weight:600;letter-spacing:.4px;color:var(--fg);text-decoration:none;white-space:nowrap}
+.brand i{font-style:normal;color:var(--muted);font-weight:400;font-size:12px;margin-left:7px}
+.tabs{display:flex;gap:2px;margin-left:auto}
+.tabs a{font-size:13px;color:var(--muted);text-decoration:none;padding:7px 13px;border-radius:7px;line-height:1.3}
+.tabs a:hover{color:var(--fg);background:#222a34}
+.tabs a.on{color:#fff;background:#2b3542;box-shadow:inset 0 -2px 0 #5b9bd5}
+.xlink{margin:24px 0 0}
+.xlink a{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;
+padding:14px 16px;text-decoration:none;color:var(--fg)}
+.xlink a:hover{border-color:#3c4859;background:#1e242e}
+.xlink b{font-size:13.5px;font-weight:600}
+.xlink span{display:block;color:var(--muted);font-size:12px;margin-top:5px;line-height:1.6}
+@media(max-width:520px){.brand i{display:none}.tabs a{padding:7px 10px;font-size:12.5px}}
+</style></head><body>
+<nav class="nav"><div class="navin">
+<a class="brand" href="./">A 股每日观察<i>sec-dashboard</i></a>
+<div class="tabs"><a class="on" href="./">复盘</a><a href="brief.html">简报 · 事件日历</a></div>
+</div></nav>
+<div class="wrap">
 <h1>2026-10-30 A 股复盘</h1>
-<div class="meta">数据时点 2026-10-30 15:05:36　·　采集于 2026-11-01T23:38:28+08:00　·　口径 经验阈值</div>
+<div class="meta">数据时点 2026-10-30 15:05:36　·　采集于 2026-11-01T23:53:45+08:00　·　口径 经验阈值</div>
 
 <div class="hero">
   <div style="color:var(--muted);font-size:12.5px">情绪温度</div>
@@ -69,6 +90,10 @@ tr:last-child td{border-bottom:0}
 <thead><tr><th>题材</th><th>标题</th><th>累计</th><th>涨停</th></tr></thead>
 <tbody><tr><td>CRO</td><td>CXO捷报频传！高盛集体上调目标价</td><td>-0.67%</td><td>2</td></tr><tr><td>白酒</td><td>白酒股逆势走强 茅台创半年新高 板块出清已渐近尾声？</td><td>1.82%</td><td>4</td></tr><tr><td>减肥药</td><td>礼来业绩超预期！减肥药需求再爆发 多股获双线资金关注(名单)</td><td>-2.30%</td><td>1</td></tr><tr><td>港口航运</td><td>巨头集体提价！航运港口集体走强 2026业绩预测高增股来了</td><td>-5.17%</td><td>1</td></tr><tr><td>银行</td><td>逆势拉升！银行压舱石作用凸显 4股再创历史新高</td><td>3.09%</td><td>0</td></tr></tbody></table>
 <div class="note">该表 trade_date 指向下一交易日，属"明日预案"而非当日表现，切勿用于回测当日涨幅。</div></div>
+
+<div class="xlink"><a href="brief.html"><b>下一栏目：简报 · 事件日历 →</b>
+<span>未来数个交易日的催化事件、跨市场基准（美/港/油/汇率）、券商口径。
+数字由正则抽取、多篇投票合并；因果判断一律不采信，只当排期与校验用。</span></a></div>
 
 <div class="note">本页为盘后快照，非实时行情。数据来自 55188 sec.php 公开接口，仅为个人复盘记录，不构成投资建议。</div>
 </div></body></html>
