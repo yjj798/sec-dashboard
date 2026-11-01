@@ -729,8 +729,8 @@ padding:14px 16px;text-decoration:none;color:var(--fg)}
 @media(max-width:520px){.brand i{display:none}.tabs a{padding:7px 10px;font-size:12.5px}}
 </style></head><body>
 <nav class="nav"><div class="navin">
-<a class="brand" href="./">A 股每日观察<i>sec-dashboard</i></a>
-<div class="tabs"><a class="on" href="./">复盘</a><a href="brief.html">简报 · 事件日历</a></div>
+<a class="brand" href="./">A 股每日观察<i>镜像版 · 含涨停驱动词</i></a>
+<div class="tabs"><a class="on" href="./">复盘</a><a href="brief.html">简报 · 事件日历</a><a href="https://d.legaga.top/attr">涨停归因</a></div>
 </div></nav>
 <div class="wrap">
 <h1>%(date)s A 股复盘</h1>
