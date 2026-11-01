@@ -121,7 +121,7 @@ def main():
         f"<tr><td>{e['date']}</td><td>{e['title']}</td></tr>" for e in ev[:20])
     idx_rows = "".join(
         f"<tr><td>{k}</td><td>{v['close']:.2f}</td>"
-        f"<td class=\"{'red' if (v['pct'] or 0) > 0 else 'green'}\">"
+        f"<td class=\"{'' if v['pct'] is None else ('red' if v['pct'] > 0 else 'green')}\">"
         f"{'' if v['pct'] is None else '%+.2f%%' % v['pct']}</td>"
         f"<td>{v['as_of']}</td></tr>" for k, v in out["indices"].items())
     html = f"""<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
@@ -164,13 +164,13 @@ padding:14px 16px;text-decoration:none;color:var(--fg)}}
 <div class="wrap">
 <h1>简报摘要 · 事件日历</h1>
 <div class="note" style="margin:0 0 20px">来源 finance-auto-gen（AI 生成）。本页数字由纯正则抽取，未经模型改写；
-因果判断不采信，只用事件日历与点位做交叉校验。生成于 {{out['generated_at']}}，共 {{len(got)}} 篇。</div>
+因果判断不采信，只用事件日历与点位做交叉校验。生成于 {out['generated_at']}，共 {len(got)} 篇。</div>
 <div class="card"><h2>指数基准（取最新一篇的收盘值）</h2><table>
 <thead><tr><th>指数</th><th>收盘</th><th>涨跌</th><th>数据日期</th></tr></thead>
-<tbody>{{idx_rows or '<tr><td colspan=4>无</td></tr>'}}</tbody></table></div>
+<tbody>{idx_rows or '<tr><td colspan=4>无</td></tr>'}</tbody></table></div>
 <div class="card"><h2>未来事件日历（程序抽取，按日期排序）</h2><table>
 <thead><tr><th>日期</th><th>事件</th></tr></thead>
-<tbody>{{rows or '<tr><td colspan=2>无</td></tr>'}}</tbody></table>
+<tbody>{rows or '<tr><td colspan=2>无</td></tr>'}</tbody></table>
 <div class="note">这些条目按简报正文「行首日期」规则抽取，标题截断到 40 字，只用于排期提醒，不代表完整表述。</div></div>
 <div class="xlink"><a href="./"><b>← 回到每日复盘</b>
 <span>情绪温度、封板率、首板晋级率、涨停驱动词 TOP20、连板梯队。
