@@ -44,14 +44,22 @@ jobs:
           if [ "${{ inputs.skip_reasons }}" = "true" ]; then ARG="--no-reasons"; fi
           python scripts/sec_daily.py $ARG
 
+      - name: Brief digest (纯规则抽取，失败不阻断主链)
+        continue-on-error: true
+        env:
+          SEC_DATA_DIR: ${{ github.workspace }}/data
+        run: python scripts/finbrief_digest.py --days 4
+
       - name: Publish report to site root
-        run: cp data/report.html index.html
+        run: |
+          cp data/report.html index.html
+          [ -f data/brief.html ] && cp data/brief.html brief.html || true
 
       - name: Commit results
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data index.html
+          git add -A data index.html brief.html
           if git diff --staged --quiet; then
             echo "本次无变化（非交易日或数据未更新），跳过提交"
             exit 0
