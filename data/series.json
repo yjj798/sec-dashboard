@@ -1,0 +1,19 @@
+[
+ {
+  "date": "2026-10-30",
+  "up": 893,
+  "down": 4602,
+  "temp": 39.4,
+  "level": "偏冷",
+  "seal_rate": 60.26,
+  "promotion": null,
+  "limit_up": 49,
+  "limit_down": 93,
+  "broken": 31,
+  "height": 5,
+  "up_ratio": 16.03,
+  "amount": 1635519890000.0,
+  "lhb_net": 2584902836.9000006,
+  "mode": "abs"
+ }
+]
