@@ -1,0 +1,3593 @@
+{
+ "trade_date": "2026-11-06",
+ "as_of": "2026-11-06 15:05:36",
+ "collected_at": "2026-11-06T23:57:53+08:00",
+ "breadth": {
+  "up": 758,
+  "down": 4740,
+  "flat": 74,
+  "limit_up": 33,
+  "limit_down": 15,
+  "broken": 14,
+  "limit_down_open": 8,
+  "suspended": 7,
+  "amount": 1657794470000.0,
+  "prev_amount": 2117953100500.0,
+  "amount_change": -460158630500.0,
+  "coverage": 1.0
+ },
+ "sentiment": {
+  "seal_rate": 68.89,
+  "prev_seal_rate": 63.85,
+  "max_board": 5,
+  "sprint_rate": 13.6,
+  "continue_count": 11,
+  "prev_limit_up": 5,
+  "once_limit_up": 5,
+  "broken_count": 26,
+  "top_board_stock": "闽发铝业",
+  "top_board_count": 17,
+  "main_net": -46114435100.0,
+  "qx_seal_rate": 26.19
+ },
+ "ladder": [
+  {
+   "board": 5,
+   "count": 3,
+   "stocks": [
+    {
+     "code": "600537",
+     "name": "*ST亿晶",
+     "first": 1793929181.0,
+     "last": 1793930552.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002578",
+     "name": "闽发铝业",
+     "first": 1793928300.0,
+     "last": 1793928609.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    },
+    {
+     "code": "601599",
+     "name": "浙文影业",
+     "first": 1793928300.0,
+     "last": 1793930878.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "AI短剧出海及商业化提速"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 4,
+   "count": 2,
+   "stocks": [
+    {
+     "code": "002088",
+     "name": "鲁阳节能",
+     "first": 1793947551.0,
+     "last": 1793948127.0,
+     "plates": [
+      {
+       "name": "锂电池",
+       "reason": "锂电产业开启理性扩产周期"
+      }
+     ]
+    },
+    {
+     "code": "603381",
+     "name": "永臻股份",
+     "first": 1793928300.0,
+     "last": 1793928300.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 3,
+   "count": 3,
+   "stocks": [
+    {
+     "code": "002388",
+     "name": "新亚制程",
+     "first": 1793932044.0,
+     "last": 1793932044.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "小米人形机器人完成8小时不间断产线作业验证"
+      }
+     ]
+    },
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "first": 1793928686.0,
+     "last": 1793942792.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "小米人形机器人完成8小时不间断产线作业验证"
+      }
+     ]
+    },
+    {
+     "code": "301697",
+     "name": "贝特利",
+     "first": 1793928846.0,
+     "last": 1793929140.0,
+     "plates": [
+      {
+       "name": "次新股",
+       "reason": ""
+      },
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 2,
+   "count": 4,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "first": 1793941551.0,
+     "last": 1793943072.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "605339",
+     "name": "南侨食品",
+     "first": 1793928300.0,
+     "last": 1793928300.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "《广东省扩大消费实施方案》印发"
+      }
+     ]
+    },
+    {
+     "code": "002086",
+     "name": "东方海洋",
+     "first": 1793930553.0,
+     "last": 1793934702.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "《广东省扩大消费实施方案》印发"
+      }
+     ]
+    },
+    {
+     "code": "600261",
+     "name": "阳光照明",
+     "first": 1793929799.0,
+     "last": 1793929823.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 1,
+   "count": 21,
+   "stocks": [
+    {
+     "code": "600540",
+     "name": "新赛股份",
+     "first": 1793933920.0,
+     "last": 1793933920.0,
+     "plates": [
+      {
+       "name": "农业种植",
+       "reason": "受厄尔尼诺影响，亚洲大米基准价格已升至近两年来的最高水平"
+      }
+     ]
+    },
+    {
+     "code": "600207",
+     "name": "安彩高科",
+     "first": 1793928725.0,
+     "last": 1793928752.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    },
+    {
+     "code": "001308",
+     "name": "康冠科技",
+     "first": 1793932899.0,
+     "last": 1793932899.0,
+     "plates": [
+      {
+       "name": "智能眼镜/MR头显",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000525",
+     "name": "红太阳",
+     "first": 1793943591.0,
+     "last": 1793943591.0,
+     "plates": [
+      {
+       "name": "农业种植",
+       "reason": "受厄尔尼诺影响，亚洲大米基准价格已升至近两年来的最高水平"
+      }
+     ]
+    },
+    {
+     "code": "603366",
+     "name": "日出东方",
+     "first": 1793929514.0,
+     "last": 1793929514.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    },
+    {
+     "code": "001316",
+     "name": "润贝航科",
+     "first": 1793930244.0,
+     "last": 1793931909.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000595",
+     "name": "新能股份",
+     "first": 1793928696.0,
+     "last": 1793928723.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    },
+    {
+     "code": "601188",
+     "name": "龙江交通",
+     "first": 1793929239.0,
+     "last": 1793946966.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "《广东省扩大消费实施方案》印发"
+      }
+     ]
+    },
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "first": 1793942266.0,
+     "last": 1793946507.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "300686",
+     "name": "智动力",
+     "first": 1793934513.0,
+     "last": 1793941362.0,
+     "plates": [
+      {
+       "name": "光通信",
+       "reason": ""
+      },
+      {
+       "name": "磷化铟",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "300237",
+     "name": "美晨科技",
+     "first": 1793942439.0,
+     "last": 1793943279.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "601595",
+     "name": "上海电影",
+     "first": 1793932050.0,
+     "last": 1793942751.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "AI短剧出海及商业化提速"
+      }
+     ]
+    },
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "first": 1793928608.0,
+     "last": 1793928608.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "AI短剧出海及商业化提速"
+      }
+     ]
+    },
+    {
+     "code": "600371",
+     "name": "万向德农",
+     "first": 1793928988.0,
+     "last": 1793930736.0,
+     "plates": [
+      {
+       "name": "农业种植",
+       "reason": "受厄尔尼诺影响，亚洲大米基准价格已升至近两年来的最高水平"
+      }
+     ]
+    },
+    {
+     "code": "600278",
+     "name": "东方创业",
+     "first": 1793930658.0,
+     "last": 1793941203.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002973",
+     "name": "侨银股份",
+     "first": 1793941884.0,
+     "last": 1793942199.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "小米人形机器人完成8小时不间断产线作业验证"
+      }
+     ]
+    },
+    {
+     "code": "002712",
+     "name": "思美传媒",
+     "first": 1793932944.0,
+     "last": 1793932944.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "AI短剧出海及商业化提速"
+      }
+     ]
+    },
+    {
+     "code": "002310",
+     "name": "东方新能",
+     "first": 1793929725.0,
+     "last": 1793929725.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    },
+    {
+     "code": "600327",
+     "name": "大东方",
+     "first": 1793930240.0,
+     "last": 1793934857.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "《广东省扩大消费实施方案》印发"
+      }
+     ]
+    },
+    {
+     "code": "002889",
+     "name": "东方嘉盛",
+     "first": 1793931738.0,
+     "last": 1793935560.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "001258",
+     "name": "立新能源",
+     "first": 1793928876.0,
+     "last": 1793928891.0,
+     "plates": [
+      {
+       "name": "光伏",
+       "reason": "海外选举落地或影响新能源政策；第三季度中国新增光伏装机同比增长约38%"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "hot_sectors": [
+  {
+   "name": "光伏",
+   "limit_up_count": 8,
+   "max_board": 5,
+   "stock_count": 8
+  },
+  {
+   "name": "其他",
+   "limit_up_count": 4,
+   "max_board": 2,
+   "stock_count": 4
+  },
+  {
+   "name": "大消费",
+   "limit_up_count": 4,
+   "max_board": 2,
+   "stock_count": 4
+  },
+  {
+   "name": "短剧/互动影游",
+   "limit_up_count": 4,
+   "max_board": 5,
+   "stock_count": 4
+  },
+  {
+   "name": "农业种植",
+   "limit_up_count": 3,
+   "max_board": 1,
+   "stock_count": 3
+  },
+  {
+   "name": "机器人",
+   "limit_up_count": 3,
+   "max_board": 3,
+   "stock_count": 3
+  },
+  {
+   "name": "云计算数据中心",
+   "limit_up_count": 2,
+   "max_board": 2,
+   "stock_count": 2
+  },
+  {
+   "name": "ST股",
+   "limit_up_count": 1,
+   "max_board": 5,
+   "stock_count": 1
+  },
+  {
+   "name": "光通信",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "国产芯片",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "智能眼镜/MR头显",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "次新股",
+   "limit_up_count": 1,
+   "max_board": 3,
+   "stock_count": 1
+  },
+  {
+   "name": "磷化铟",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "锂电池",
+   "limit_up_count": 1,
+   "max_board": 4,
+   "stock_count": 1
+  }
+ ],
+ "main_force": [
+  {
+   "code": "600229",
+   "name": "城市传媒",
+   "rank": 1,
+   "price": 6.42,
+   "pct": 9.93,
+   "mf_pct": 54.94,
+   "sector": "出版"
+  },
+  {
+   "code": "002310",
+   "name": "东方新能",
+   "rank": 2,
+   "price": 2.32,
+   "pct": 9.95,
+   "mf_pct": 47.45,
+   "sector": "电力"
+  },
+  {
+   "code": "600207",
+   "name": "安彩高科",
+   "rank": 3,
+   "price": 4.88,
+   "pct": 9.91,
+   "mf_pct": 44.09,
+   "sector": "光伏设备"
+  },
+  {
+   "code": "000595",
+   "name": "新能股份",
+   "rank": 4,
+   "price": 5.38,
+   "pct": 10.02,
+   "mf_pct": 43.03,
+   "sector": "电力"
+  },
+  {
+   "code": "001258",
+   "name": "立新能源",
+   "rank": 5,
+   "price": 9.57,
+   "pct": 10.0,
+   "mf_pct": 40.93,
+   "sector": "电力"
+  },
+  {
+   "code": "605339",
+   "name": "南侨食品",
+   "rank": 6,
+   "price": 15.8,
+   "pct": 10.03,
+   "mf_pct": 39.2,
+   "sector": "休闲食品"
+  },
+  {
+   "code": "601188",
+   "name": "龙江交通",
+   "rank": 7,
+   "price": 3.81,
+   "pct": 10.12,
+   "mf_pct": 34.79,
+   "sector": "铁路公路"
+  },
+  {
+   "code": "603366",
+   "name": "日出东方",
+   "rank": 8,
+   "price": 8.99,
+   "pct": 10.04,
+   "mf_pct": 31.96,
+   "sector": "厨卫电器"
+  },
+  {
+   "code": "003006",
+   "name": "百亚股份",
+   "rank": 9,
+   "price": 23.09,
+   "pct": -1.07,
+   "mf_pct": 31.0,
+   "sector": "个护用品"
+  },
+  {
+   "code": "603381",
+   "name": "永臻股份",
+   "rank": 10,
+   "price": 20.74,
+   "pct": 10.03,
+   "mf_pct": 30.66,
+   "sector": "光伏设备"
+  },
+  {
+   "code": "300555",
+   "name": "ST路通",
+   "rank": 11,
+   "price": 11.22,
+   "pct": 0.18,
+   "mf_pct": 30.37,
+   "sector": "通信设备"
+  },
+  {
+   "code": "001316",
+   "name": "润贝航科",
+   "rank": 12,
+   "price": 27.82,
+   "pct": 10.0,
+   "mf_pct": 28.26,
+   "sector": "炼化及贸易"
+  },
+  {
+   "code": "600371",
+   "name": "万向德农",
+   "rank": 13,
+   "price": 12.39,
+   "pct": 10.04,
+   "mf_pct": 27.57,
+   "sector": "种植业"
+  },
+  {
+   "code": "001308",
+   "name": "康冠科技",
+   "rank": 14,
+   "price": 20.94,
+   "pct": 9.98,
+   "mf_pct": 27.5,
+   "sector": "光学光电子"
+  },
+  {
+   "code": "601595",
+   "name": "上海电影",
+   "rank": 15,
+   "price": 35.76,
+   "pct": 10.0,
+   "mf_pct": 26.12,
+   "sector": "影视院线"
+  },
+  {
+   "code": "300686",
+   "name": "智动力",
+   "rank": 16,
+   "price": 13.68,
+   "pct": 20.0,
+   "mf_pct": 26.05,
+   "sector": "消费电子"
+  },
+  {
+   "code": "600156",
+   "name": "华升股份",
+   "rank": 17,
+   "price": 7.07,
+   "pct": 9.95,
+   "mf_pct": 23.33,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "000525",
+   "name": "红太阳",
+   "rank": 19,
+   "price": 5.02,
+   "pct": 10.09,
+   "mf_pct": 22.28,
+   "sector": "农化制品"
+  },
+  {
+   "code": "600731",
+   "name": "湖南海利",
+   "rank": 20,
+   "price": 5.53,
+   "pct": 0.0,
+   "mf_pct": 22.09,
+   "sector": "农化制品"
+  },
+  {
+   "code": "002712",
+   "name": "思美传媒",
+   "rank": 21,
+   "price": 5.96,
+   "pct": 9.96,
+   "mf_pct": 21.99,
+   "sector": "广告营销"
+  },
+  {
+   "code": "002889",
+   "name": "东方嘉盛",
+   "rank": 23,
+   "price": 14.91,
+   "pct": 10.04,
+   "mf_pct": 21.11,
+   "sector": "物流"
+  },
+  {
+   "code": "600575",
+   "name": "淮河能源",
+   "rank": 24,
+   "price": 3.18,
+   "pct": 0.63,
+   "mf_pct": 20.94,
+   "sector": "电力"
+  },
+  {
+   "code": "600644",
+   "name": "乐山电力",
+   "rank": 25,
+   "price": 8.4,
+   "pct": 8.25,
+   "mf_pct": 20.02,
+   "sector": "电力"
+  },
+  {
+   "code": "000517",
+   "name": "荣安地产",
+   "rank": 26,
+   "price": 1.88,
+   "pct": -2.08,
+   "mf_pct": 19.78,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "002300",
+   "name": "太阳电缆",
+   "rank": 27,
+   "price": 8.53,
+   "pct": 3.02,
+   "mf_pct": 19.72,
+   "sector": "电网设备"
+  },
+  {
+   "code": "600327",
+   "name": "大东方",
+   "rank": 28,
+   "price": 4.91,
+   "pct": 10.09,
+   "mf_pct": 19.35,
+   "sector": "一般零售"
+  },
+  {
+   "code": "000402",
+   "name": "金 融 街",
+   "rank": 29,
+   "price": 2.21,
+   "pct": -0.9,
+   "mf_pct": 19.25,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "000698",
+   "name": "ST沈化",
+   "rank": 30,
+   "price": 3.62,
+   "pct": 1.97,
+   "mf_pct": 18.22,
+   "sector": "炼化及贸易"
+  },
+  {
+   "code": "688526",
+   "name": "科前生物",
+   "rank": 31,
+   "price": 11.64,
+   "pct": -0.51,
+   "mf_pct": 17.41,
+   "sector": "动物保健Ⅱ"
+  },
+  {
+   "code": "605028",
+   "name": "世茂能源",
+   "rank": 32,
+   "price": 21.76,
+   "pct": 1.78,
+   "mf_pct": 17.24,
+   "sector": "电力"
+  },
+  {
+   "code": "605319",
+   "name": "无锡振华",
+   "rank": 33,
+   "price": 21.88,
+   "pct": 4.39,
+   "mf_pct": 16.97,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "600278",
+   "name": "东方创业",
+   "rank": 34,
+   "price": 7.12,
+   "pct": 10.05,
+   "mf_pct": 16.95,
+   "sector": "贸易Ⅱ"
+  },
+  {
+   "code": "001279",
+   "name": "强邦新材",
+   "rank": 35,
+   "price": 24.86,
+   "pct": -0.84,
+   "mf_pct": 16.92,
+   "sector": "包装印刷"
+  },
+  {
+   "code": "002641",
+   "name": "公元股份",
+   "rank": 36,
+   "price": 3.78,
+   "pct": 8.31,
+   "mf_pct": 16.79,
+   "sector": "装修建材"
+  },
+  {
+   "code": "688156",
+   "name": "路德科技",
+   "rank": 37,
+   "price": 20.22,
+   "pct": -3.02,
+   "mf_pct": 16.7,
+   "sector": "环境治理"
+  },
+  {
+   "code": "000720",
+   "name": "新能泰山",
+   "rank": 38,
+   "price": 3.28,
+   "pct": 0.92,
+   "mf_pct": 16.58,
+   "sector": "电网设备"
+  },
+  {
+   "code": "300118",
+   "name": "东方日升",
+   "rank": 39,
+   "price": 10.27,
+   "pct": 15.26,
+   "mf_pct": 16.49,
+   "sector": "光伏设备"
+  },
+  {
+   "code": "300301",
+   "name": "ST长方",
+   "rank": 40,
+   "price": 3.34,
+   "pct": -0.3,
+   "mf_pct": 16.26,
+   "sector": "光学光电子"
+  },
+  {
+   "code": "600289",
+   "name": "ST信通",
+   "rank": 41,
+   "price": 6.21,
+   "pct": 6.15,
+   "mf_pct": 16.19,
+   "sector": "通信服务"
+  },
+  {
+   "code": "603035",
+   "name": "常熟汽饰",
+   "rank": 43,
+   "price": 10.32,
+   "pct": -0.58,
+   "mf_pct": 16.18,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "600716",
+   "name": "凤凰股份",
+   "rank": 44,
+   "price": 3.24,
+   "pct": -0.31,
+   "mf_pct": 16.17,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "603657",
+   "name": "春光科技",
+   "rank": 45,
+   "price": 33.88,
+   "pct": 10.0,
+   "mf_pct": 16.14,
+   "sector": "家电零部件Ⅱ"
+  },
+  {
+   "code": "000531",
+   "name": "穗恒运Ａ",
+   "rank": 46,
+   "price": 5.23,
+   "pct": -0.19,
+   "mf_pct": 16.12,
+   "sector": "电力"
+  },
+  {
+   "code": "600540",
+   "name": "新赛股份",
+   "rank": 47,
+   "price": 4.58,
+   "pct": 10.1,
+   "mf_pct": 16.05,
+   "sector": "种植业"
+  },
+  {
+   "code": "000541",
+   "name": "佛山照明",
+   "rank": 48,
+   "price": 5.18,
+   "pct": 3.19,
+   "mf_pct": 16.01,
+   "sector": "照明设备Ⅱ"
+  },
+  {
+   "code": "300154",
+   "name": "瑞凌股份",
+   "rank": 49,
+   "price": 12.54,
+   "pct": -5.29,
+   "mf_pct": 15.82,
+   "sector": "通用设备"
+  },
+  {
+   "code": "603689",
+   "name": "皖天然气",
+   "rank": 51,
+   "price": 7.62,
+   "pct": 0.13,
+   "mf_pct": 15.78,
+   "sector": "燃气Ⅱ"
+  },
+  {
+   "code": "688558",
+   "name": "国盛智科",
+   "rank": 52,
+   "price": 28.4,
+   "pct": -3.73,
+   "mf_pct": 15.66,
+   "sector": "通用设备"
+  },
+  {
+   "code": "600410",
+   "name": "华胜天成",
+   "rank": 53,
+   "price": 12.68,
+   "pct": 5.32,
+   "mf_pct": 15.65,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "688678",
+   "name": "福立旺",
+   "rank": 54,
+   "price": 20.54,
+   "pct": 3.48,
+   "mf_pct": 15.6,
+   "sector": "消费电子"
+  },
+  {
+   "code": "600370",
+   "name": "*ST三房",
+   "rank": 56,
+   "price": 1.42,
+   "pct": 0.71,
+   "mf_pct": 15.49,
+   "sector": "化学纤维"
+  },
+  {
+   "code": "002899",
+   "name": "英派斯",
+   "rank": 57,
+   "price": 19.3,
+   "pct": 0.84,
+   "mf_pct": 15.48,
+   "sector": "文娱用品"
+  },
+  {
+   "code": "600790",
+   "name": "轻纺城",
+   "rank": 58,
+   "price": 3.24,
+   "pct": -1.52,
+   "mf_pct": 15.22,
+   "sector": "一般零售"
+  },
+  {
+   "code": "688129",
+   "name": "东来技术",
+   "rank": 59,
+   "price": 20.5,
+   "pct": -0.53,
+   "mf_pct": 15.05,
+   "sector": "化学制品"
+  },
+  {
+   "code": "002042",
+   "name": "华孚时尚",
+   "rank": 60,
+   "price": 3.41,
+   "pct": 2.4,
+   "mf_pct": 14.93,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "603500",
+   "name": "祥和实业",
+   "rank": 61,
+   "price": 10.42,
+   "pct": 1.26,
+   "mf_pct": 14.79,
+   "sector": "轨交设备Ⅱ"
+  },
+  {
+   "code": "002032",
+   "name": "苏 泊 尔",
+   "rank": 62,
+   "price": 45.36,
+   "pct": 1.96,
+   "mf_pct": 14.69,
+   "sector": "小家电"
+  },
+  {
+   "code": "601236",
+   "name": "红塔证券",
+   "rank": 64,
+   "price": 6.71,
+   "pct": -0.74,
+   "mf_pct": 14.52,
+   "sector": "证券Ⅱ"
+  },
+  {
+   "code": "601665",
+   "name": "齐鲁银行",
+   "rank": 65,
+   "price": 6.52,
+   "pct": 1.56,
+   "mf_pct": 14.5,
+   "sector": "银行Ⅱ"
+  },
+  {
+   "code": "002689",
+   "name": "ST远智",
+   "rank": 66,
+   "price": 2.79,
+   "pct": 1.09,
+   "mf_pct": 14.45,
+   "sector": "专用设备"
+  }
+ ],
+ "sector_flow": [
+  {
+   "name": "昨日打二板以上表现",
+   "pct": 10.03,
+   "net": 55963008.0,
+   "up": 4,
+   "down": 0,
+   "leader": "永臻股份",
+   "leader_pct": 10.03
+  },
+  {
+   "name": "昨日连板_含一字",
+   "pct": 2.06,
+   "net": -542618880.0,
+   "up": 11,
+   "down": 11,
+   "leader": "永臻股份",
+   "leader_pct": 10.03
+  },
+  {
+   "name": "昨日连板",
+   "pct": 1.34,
+   "net": -578616400.0,
+   "up": 7,
+   "down": 9,
+   "leader": "贝特利",
+   "leader_pct": 20.0
+  },
+  {
+   "name": "转基因",
+   "pct": 1.33,
+   "net": 277043023.0,
+   "up": 11,
+   "down": 7,
+   "leader": "万向德农",
+   "leader_pct": 10.04
+  },
+  {
+   "name": "粮食概念",
+   "pct": 1.16,
+   "net": 308325584.0,
+   "up": 19,
+   "down": 17,
+   "leader": "万向德农",
+   "leader_pct": 10.04
+  },
+  {
+   "name": "可燃冰",
+   "pct": 0.73,
+   "net": -82642973.0,
+   "up": 3,
+   "down": 5,
+   "leader": "鲁阳节能",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "红利破净股",
+   "pct": 0.27,
+   "net": 678305024.0,
+   "up": 26,
+   "down": 17,
+   "leader": "雅戈尔",
+   "leader_pct": 2.43
+  },
+  {
+   "name": "证金持股",
+   "pct": 0.25,
+   "net": -104421632.0,
+   "up": 22,
+   "down": 11,
+   "leader": "国电电力",
+   "leader_pct": 2.87
+  },
+  {
+   "name": "农业种植",
+   "pct": 0.18,
+   "net": 234135776.0,
+   "up": 30,
+   "down": 53,
+   "leader": "万向德农",
+   "leader_pct": 10.04
+  },
+  {
+   "name": "红利股",
+   "pct": 0.16,
+   "net": 432127232.0,
+   "up": 53,
+   "down": 45,
+   "leader": "鲁阳节能",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "水产概念",
+   "pct": 0.16,
+   "net": 28651040.0,
+   "up": 6,
+   "down": 11,
+   "leader": "东方海洋",
+   "leader_pct": 9.97
+  },
+  {
+   "name": "价值股",
+   "pct": 0.06,
+   "net": 225818848.0,
+   "up": 53,
+   "down": 44,
+   "leader": "中国电信",
+   "leader_pct": 3.77
+  },
+  {
+   "name": "草甘膦",
+   "pct": 0.06,
+   "net": 89143748.0,
+   "up": 4,
+   "down": 9,
+   "leader": "红太阳",
+   "leader_pct": 10.09
+  },
+  {
+   "name": "绿色电力",
+   "pct": 0.03,
+   "net": 616466944.0,
+   "up": 70,
+   "down": 97,
+   "leader": "新能股份",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "昨日涨停_含一字",
+   "pct": -0.01,
+   "net": -2043865088.0,
+   "up": 34,
+   "down": 52,
+   "leader": "永臻股份",
+   "leader_pct": 10.03
+  }
+ ],
+ "blocks": [
+  {
+   "id": "801070",
+   "name": "光伏",
+   "inc": -1.626,
+   "strength": 3680.5,
+   "main_net": -857440117.0
+  },
+  {
+   "id": "801120",
+   "name": "电力",
+   "inc": -0.518,
+   "strength": 2335.665,
+   "main_net": 945172785.0
+  },
+  {
+   "id": "803023",
+   "name": "AI应用",
+   "inc": -2.149,
+   "strength": 2279.705,
+   "main_net": -3306614066.0
+  },
+  {
+   "id": "801464",
+   "name": "农业",
+   "inc": -0.884,
+   "strength": 2116.555,
+   "main_net": 227560330.0
+  },
+  {
+   "id": "801004",
+   "name": "锂电池",
+   "inc": -2.2,
+   "strength": 1165.825,
+   "main_net": -3187408503.0
+  },
+  {
+   "id": "801082",
+   "name": "ST摘帽",
+   "inc": -1.449,
+   "strength": 617.409,
+   "main_net": -17782821.0
+  },
+  {
+   "id": "801878",
+   "name": "端侧AI",
+   "inc": -2.844,
+   "strength": 592.018,
+   "main_net": -649628086.0
+  },
+  {
+   "id": "801314",
+   "name": "ST板块",
+   "inc": -0.056,
+   "strength": 519.403,
+   "main_net": 14085043.0
+  },
+  {
+   "id": "801358",
+   "name": "大飞机",
+   "inc": -1.688,
+   "strength": 331.208,
+   "main_net": 29377454.0
+  },
+  {
+   "id": "801159",
+   "name": "机器人概念",
+   "inc": -2.454,
+   "strength": 330.744,
+   "main_net": -1980669884.0
+  },
+  {
+   "id": "801656",
+   "name": "热泵",
+   "inc": -1.73,
+   "strength": 327.001,
+   "main_net": 155665906.0
+  },
+  {
+   "id": "801301",
+   "name": "体育产业",
+   "inc": -1.705,
+   "strength": 317.211,
+   "main_net": 371159404.0
+  },
+  {
+   "id": "801250",
+   "name": "并购重组",
+   "inc": -1.799,
+   "strength": 307.925,
+   "main_net": 122094629.0
+  },
+  {
+   "id": "801114",
+   "name": "外贸",
+   "inc": -2.097,
+   "strength": 279.422,
+   "main_net": -23083947.0
+  },
+  {
+   "id": "801046",
+   "name": "医疗器械",
+   "inc": -2.083,
+   "strength": 241.742,
+   "main_net": -409135010.0
+  }
+ ],
+ "themes": {
+  "date": "2026-11-09",
+  "items": [
+   {
+    "code": "00242",
+    "name": "粮食概念",
+    "rank": 1,
+    "title": "粮食安全催化不断！粮价周期筑底 这9股获融资客加仓(名单)",
+    "summary": "粮食安全保障法迎执法检查，秋粮收购已超1亿吨，粮食概念持续走强。机构认为，粮价周期正处于筑底阶段。粮食安全保障法迎执法检查六省启动中晚稻托市收购11月4日，十四届全国人大常委会第二十五次会议听取全国人大常委会执法检查组关于粮食安全保障法实施情况的报告。",
+    "change_pct": 0.8,
+    "cum_pct": -12.75,
+    "limit_up_count": 1,
+    "is_hot": true,
+    "is_new": false
+   },
+   {
+    "code": "00792",
+    "name": "电力行业",
+    "rank": 2,
+    "title": "红利资产韧性凸显 算力用电打开行业增长空间 电力需求曲线或迎重估",
+    "summary": "11月6日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。“‘十五五’时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到6000亿度左右，相当于每年新增3个上海市的用电量。”国家能源局发展规划司副司长葛炬在发布会上介绍。葛炬表示，为做好电力保供，我国建立了电力供应充裕",
+    "change_pct": 0.71,
+    "cum_pct": -6.33,
+    "limit_up_count": 1,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00690",
+    "name": "光伏",
+    "rank": 3,
+    "title": "从拼出货到拼利润！光伏业环比减亏 行业拐点真的到了吗？",
+    "summary": "光伏行业仍处于深度调整期，上市公司三季报却释放出边际回暖信号。爱旭股份第三季度实现单季度扭亏，晶科能源等企业环比大幅减亏，储能业务也开始成为部分企业新的利润来源。不过，组件价格尚未出现明显反弹，企业盈利修复更多来自产品结构调整和业务多元化。光伏行业是否已经迎来拐点？",
+    "change_pct": -0.89,
+    "cum_pct": -9.27,
+    "limit_up_count": 5,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00090",
+    "name": "银行",
+    "rank": 4,
+    "title": "多家银行理财子公司发声：理性看待波动 坚守长期配置",
+    "summary": "面对近期市场波动，银行理财子公司迅速响应，相继发布投资策略。例如，11月5日，广银理财发文称，公司坚持“稳中求进、动态优化”，在久期管理上，灵活调整组合久期，根据市场收益率曲线的变化动态调节久期暴露。在信用结构方面，严守风险底线，主动规避地产链等高风险敞口，聚焦高等级信用债，优化票息收益与资本利得的平衡。",
+    "change_pct": 0.99,
+    "cum_pct": 3.85,
+    "limit_up_count": 0,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "01759",
+    "name": "AI影视",
+    "rank": 5,
+    "title": "世界媒体峰会释放AI赋能传媒新信号，AI短剧出海提速，传媒板块关注度持续升温",
+    "summary": "近期，AI短剧出海提速，传媒板块关注度持续升温，表现活跃。据报道，目前国内已有约10家中国企业建立海外短剧平台，另有十余个出海短剧App上线了AI漫剧专属频道，海外市场AI漫剧活跃用户整体已超1.5亿。在海外短剧付费应用前十名中，中国厂商占据九席。",
+    "change_pct": -1.33,
+    "cum_pct": 20.08,
+    "limit_up_count": 1,
+    "is_hot": true,
+    "is_new": false
+   }
+  ]
+ },
+ "lhb": {
+  "date": "2026-11-06",
+  "count": 63,
+  "org_count": 36,
+  "seat_count": 204,
+  "up": 39,
+  "down": 24,
+  "net_total": -976257640.6300001,
+  "stocks": [
+   {
+    "code": "600641",
+    "name": "先导基电",
+    "pct": 1.23,
+    "net": -576837965.46,
+    "turnover": 17.98,
+    "board": "昨2连板",
+    "org": 0
+   },
+   {
+    "code": "002384",
+    "name": "东山精密",
+    "pct": -10.0,
+    "net": -221543650.0,
+    "turnover": 11.0,
+    "board": "",
+    "org": 5
+   },
+   {
+    "code": "002696",
+    "name": "百洋股份",
+    "pct": 1.19,
+    "net": 186508442.0,
+    "turnover": 27.43,
+    "board": "",
+    "org": 1
+   },
+   {
+    "code": "002343",
+    "name": "慈文传媒",
+    "pct": -3.49,
+    "net": -177920595.0,
+    "turnover": 40.4,
+    "board": "昨日首板",
+    "org": 2
+   },
+   {
+    "code": "300118",
+    "name": "东方日升",
+    "pct": 15.26,
+    "net": 160002934.0,
+    "turnover": 24.02,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "002827",
+    "name": "高争民爆",
+    "pct": -10.0,
+    "net": -147015563.0,
+    "turnover": 8.61,
+    "board": "",
+    "org": 3
+   },
+   {
+    "code": "002353",
+    "name": "杰瑞股份",
+    "pct": -10.0,
+    "net": -143113706.0,
+    "turnover": 4.93,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "601595",
+    "name": "上海电影",
+    "pct": 10.0,
+    "net": 119164158.85,
+    "turnover": 4.95,
+    "board": "首板",
+    "org": 1
+   },
+   {
+    "code": "600327",
+    "name": "大东方",
+    "pct": 10.09,
+    "net": 107984642.68,
+    "turnover": 20.75,
+    "board": "4天2板",
+    "org": 0
+   },
+   {
+    "code": "600127",
+    "name": "金健米业",
+    "pct": 6.88,
+    "net": -104572760.01,
+    "turnover": 40.55,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "600354",
+    "name": "敦煌种业",
+    "pct": 4.2,
+    "net": -102550377.08,
+    "turnover": 28.58,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "002172",
+    "name": "澳洋健康",
+    "pct": -7.11,
+    "net": -102497130.0,
+    "turnover": 26.41,
+    "board": "",
+    "org": 5
+   },
+   {
+    "code": "000525",
+    "name": "红太阳",
+    "pct": 10.09,
+    "net": 98694263.0,
+    "turnover": 11.34,
+    "board": "首板",
+    "org": 0
+   },
+   {
+    "code": "000995",
+    "name": "皇台酒业",
+    "pct": -8.72,
+    "net": -97704396.0,
+    "turnover": 35.8,
+    "board": "昨日首板",
+    "org": 4
+   },
+   {
+    "code": "601599",
+    "name": "浙文影业",
+    "pct": 9.96,
+    "net": 94926295.28,
+    "turnover": 21.97,
+    "board": "5连板",
+    "org": 0
+   }
+  ]
+ },
+ "sources": {
+  "overview": "2026-11-06 15:05:36",
+  "snapshot_id": "sec-20261106150536-47649064",
+  "qxzb": "2026-11-06 23:40:16",
+  "fry": "2026-11-06 23:34:31",
+  "lhb": "2026-11-06 23:52:41",
+  "blocks": "2026-11-06 15:57:46"
+ },
+ "degraded": [],
+ "drivers": [
+  {
+   "keyword": "“羊”字辈",
+   "count": 4,
+   "max_board": 4,
+   "generic": false,
+   "score": 6.0,
+   "stocks": [
+    {
+     "code": "002088",
+     "name": "鲁阳节能",
+     "board": 4
+    },
+    {
+     "code": "002086",
+     "name": "东方海洋",
+     "board": 2
+    },
+    {
+     "code": "600261",
+     "name": "阳光照明",
+     "board": 2
+    },
+    {
+     "code": "000525",
+     "name": "红太阳",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "“东方”",
+   "count": 5,
+   "max_board": 1,
+   "generic": false,
+   "score": 5.5,
+   "stocks": [
+    {
+     "code": "603366",
+     "name": "日出东方",
+     "board": 1
+    },
+    {
+     "code": "600278",
+     "name": "东方创业",
+     "board": 1
+    },
+    {
+     "code": "002310",
+     "name": "东方新能",
+     "board": 1
+    },
+    {
+     "code": "600327",
+     "name": "大东方",
+     "board": 1
+    },
+    {
+     "code": "002889",
+     "name": "东方嘉盛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光伏",
+   "count": 3,
+   "max_board": 4,
+   "generic": false,
+   "score": 5.0,
+   "stocks": [
+    {
+     "code": "603381",
+     "name": "永臻股份",
+     "board": 4
+    },
+    {
+     "code": "603366",
+     "name": "日出东方",
+     "board": 1
+    },
+    {
+     "code": "002310",
+     "name": "东方新能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "人形机器人",
+   "count": 3,
+   "max_board": 4,
+   "generic": false,
+   "score": 5.0,
+   "stocks": [
+    {
+     "code": "603381",
+     "name": "永臻股份",
+     "board": 4
+    },
+    {
+     "code": "300686",
+     "name": "智动力",
+     "board": 1
+    },
+    {
+     "code": "002973",
+     "name": "侨银股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "AI漫剧",
+   "count": 2,
+   "max_board": 5,
+   "generic": false,
+   "score": 4.5,
+   "stocks": [
+    {
+     "code": "601599",
+     "name": "浙文影业",
+     "board": 5
+    },
+    {
+     "code": "002712",
+     "name": "思美传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报扭亏",
+   "count": 4,
+   "max_board": 5,
+   "generic": true,
+   "score": 3.9,
+   "stocks": [
+    {
+     "code": "002578",
+     "name": "闽发铝业",
+     "board": 5
+    },
+    {
+     "code": "600540",
+     "name": "新赛股份",
+     "board": 1
+    },
+    {
+     "code": "000525",
+     "name": "红太阳",
+     "board": 1
+    },
+    {
+     "code": "002310",
+     "name": "东方新能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报增长",
+   "count": 4,
+   "max_board": 5,
+   "generic": true,
+   "score": 3.9,
+   "stocks": [
+    {
+     "code": "601599",
+     "name": "浙文影业",
+     "board": 5
+    },
+    {
+     "code": "603381",
+     "name": "永臻股份",
+     "board": 4
+    },
+    {
+     "code": "001316",
+     "name": "润贝航科",
+     "board": 1
+    },
+    {
+     "code": "001258",
+     "name": "立新能源",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "固态电池",
+   "count": 2,
+   "max_board": 3,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002388",
+     "name": "新亚制程",
+     "board": 3
+    },
+    {
+     "code": "300686",
+     "name": "智动力",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光伏边框",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002578",
+     "name": "闽发铝业",
+     "board": 5
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "液冷铝材",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002578",
+     "name": "闽发铝业",
+     "board": 5
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "机器人布局",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002578",
+     "name": "闽发铝业",
+     "board": 5
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "微短剧",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "601599",
+     "name": "浙文影业",
+     "board": 5
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "陶瓷纤维",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002088",
+     "name": "鲁阳节能",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "锂电隔热",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002088",
+     "name": "鲁阳节能",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "电池铝箔",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "603381",
+     "name": "永臻股份",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "电解液",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002388",
+     "name": "新亚制程",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "启元气体收购",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002388",
+     "name": "新亚制程",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI服务器电源",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002388",
+     "name": "新亚制程",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "扫地机器人",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "家庭具身机器人",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "清洁电器代工",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光伏银粉",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "301697",
+     "name": "贝特利",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "低温光伏浆料",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "301697",
+     "name": "贝特利",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "电子皮肤",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "301697",
+     "name": "贝特利",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "次新股",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "301697",
+     "name": "贝特利",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "词元出海",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力网络",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "机器人",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "烘焙油脂",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "605339",
+     "name": "南侨食品",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "乳制品",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "605339",
+     "name": "南侨食品",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "预制烘焙",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "605339",
+     "name": "南侨食品",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "海洋养殖",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002086",
+     "name": "东方海洋",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "体外诊断",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002086",
+     "name": "东方海洋",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "商业航天",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600261",
+     "name": "阳光照明",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "激光通信",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600261",
+     "name": "阳光照明",
+     "board": 2
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "照明",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600261",
+     "name": "阳光照明",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "棉花全产业链",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600540",
+     "name": "新赛股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "棉蛋白",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600540",
+     "name": "新赛股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "新疆兵团国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600540",
+     "name": "新赛股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光伏玻璃",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600207",
+     "name": "安彩高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "高透产品",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600207",
+     "name": "安彩高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "河南国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600207",
+     "name": "安彩高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "端侧AI",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001308",
+     "name": "康冠科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI眼镜",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001308",
+     "name": "康冠科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智能显示",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001308",
+     "name": "康冠科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "百草枯",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000525",
+     "name": "红太阳",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "农业无人机",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000525",
+     "name": "红太阳",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "储能",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603366",
+     "name": "日出东方",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "空气能热泵",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603366",
+     "name": "日出东方",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "航材国产化",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001316",
+     "name": "润贝航科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI航检眼镜",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001316",
+     "name": "润贝航科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "储能并网",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000595",
+     "name": "新能股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "风光储一体化",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000595",
+     "name": "新能股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "宁夏国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000595",
+     "name": "新能股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "冰雪旅游保障",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601188",
+     "name": "龙江交通",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "高速公路运营",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601188",
+     "name": "龙江交通",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "黑龙江国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601188",
+     "name": "龙江交通",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力租赁",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "重组推进",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "苎麻纺织",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "消费电子",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300686",
+     "name": "智动力",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报亏损收窄",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300686",
+     "name": "智动力",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "摘帽",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300237",
+     "name": "美晨科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "复牌",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300237",
+     "name": "美晨科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "资产剥离",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300237",
+     "name": "美晨科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "汽车零部件",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300237",
+     "name": "美晨科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI影视",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601595",
+     "name": "上海电影",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "即梦合作",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601595",
+     "name": "上海电影",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "院线",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601595",
+     "name": "上海电影",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "IP",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "601595",
+     "name": "上海电影",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AIGC",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "IP运营",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "教育出版",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "青岛国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "玉米种业",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600371",
+     "name": "万向德农",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "转基因玉米",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600371",
+     "name": "万向德农",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "新品研发",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600371",
+     "name": "万向德农",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "贸易",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600278",
+     "name": "东方创业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "现代物流",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600278",
+     "name": "东方创业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "上海国企",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600278",
+     "name": "东方创业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力服务",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002973",
+     "name": "侨银股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "应收账款回款",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002973",
+     "name": "侨银股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "城市服务",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002973",
+     "name": "侨银股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI营销",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002712",
+     "name": "思美传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "四川国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002712",
+     "name": "思美传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "重组",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002310",
+     "name": "东方新能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "百货零售",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600327",
+     "name": "大东方",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "儿科医疗",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600327",
+     "name": "大东方",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光刻机保税维修",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002889",
+     "name": "东方嘉盛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智慧仓",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002889",
+     "name": "东方嘉盛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "风电光伏",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001258",
+     "name": "立新能源",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "疆电外送",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "001258",
+     "name": "立新能源",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购注销",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "600327",
+     "name": "大东方",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  }
+ ],
+ "driver_coverage": {
+  "pool": 33,
+  "hit_same_day": 32,
+  "hit_any": 33,
+  "stale_skipped": 1,
+  "no_record": 0,
+  "rate": 97.0
+ },
+ "reason_records": [
+  {
+   "code": "002578",
+   "name": "闽发铝业",
+   "board": 5,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光伏边框",
+    "液冷铝材",
+    "机器人布局",
+    "三季报扭亏"
+   ],
+   "reason": "1、据2026年8月5日互动易，光伏边框、储能托架类铝型材均为公司工业型材板块成熟产品，2026年以来公司持续深耕新能源配套铝材市场。\n2、据2026年8月5日互动易，公司液冷服务器用铝型材已开始小批量供货，正积极推进相关领域市场拓展与技术优化，稳步提升产品交付能力。\n3、据2026年4月30日业绩说明会，公司表示将重点拓展机器人等工业铝型材及高端装备铝型材赛道。\n4、据2025年年报，公司控股股东为上饶产投，实际控制人为上饶市国有资产监督管理委员会；据2026年10月28日三季报，公司前三季度营收15.71亿元，同比增长22.43%；归母净利润268.06万元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "601599",
+   "name": "浙文影业",
+   "board": 5,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI漫剧",
+    "微短剧",
+    "三季报增长"
+   ],
+   "reason": "1、据2026年3月31日2025年年度报告，公司探索主题微短剧、AI漫剧等多元化内容形态；据2026年8月27日半年度报告，自有AI内容评估平台“帧想”已赋能多个项目，普法微短剧《江南机动队》于6月30日上线，多日登顶平台微短剧新剧榜及热播榜双榜第一。\n2、据2026年10月29日三季报，公司前三季度营收29.78亿元，同比增长8.57%；归母净利润1.43亿元，同比增长4.21%。\n3、据2026年8月4日公告，公司控股股东为浙江省文化产业投资集团，实际控制人为浙江省财政厅，依托控股股东资源储备优质影视项目。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002088",
+   "name": "鲁阳节能",
+   "board": 4,
+   "sec_plates": [
+    "锂电池"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“羊”字辈",
+    "陶瓷纤维",
+    "锂电隔热"
+   ],
+   "reason": "1、据中证报10月27日报道，近几年，每到四季度，市场经常掀起一波生肖行情。2027年为羊年，最近部分A股名称中带有“羊、洋、阳”的个股频频异动。\n2、据2026年8月27日半年报，公司具备年产约58万吨陶瓷纤维产品生产能力，拥有山东、内蒙古、贵州陶瓷纤维生产基地，产品用于耐火、保温、防火及环保处理等领域。\n3、据2026年9月10日互动易，公司纤维纸产品主要向新能源电池防火材料加工厂家供货，新能源电池防火市场是公司重点拓展市场之一，正推进客户需求对接、产品设计及送样。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603381",
+   "name": "永臻股份",
+   "board": 4,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光伏",
+    "电池铝箔",
+    "人形机器人",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n11月4日美国中期选举民主党赢得中期选举后，市场预期IRA框架下光伏、储能、风电的税收激励有望保持完整，美国新能源装机预期有望上修，美股光伏板块走强。\n公司原因：\n1、据2026年半年报，公司主要从事绿色能源结构材料的研发、生产、销售及应用，主要产品包括光伏边框产品、光伏支架结构件，产品主要应用于光伏领域。\n2、据2026年10月13日互动易，公司拟投资建设年产6万吨成品电池铝箔项目，系公司围绕主营业务相关的铝深加工领域、由传统铝挤压型材向高端铝板带箔产品延伸的战略举措。\n3、据2025年11月7日投资者关系活动记录表，公司向智元机器人批量交付核心铝合金部件，并拟联合研发镁合金轻量化应用。\n4、据2026年10月29日公告，公司前三季度实现营业收入约65.93亿元，同比下降27.14%；归属于上市公司股东的净利润约5286万元，同比增长2313.16%\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002388",
+   "name": "新亚制程",
+   "board": 3,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "电解液",
+    "固态电池",
+    "启元气体收购",
+    "AI服务器电源"
+   ],
+   "reason": "1、据2026年4月28日年报，公司拥有六氟磷酸锂自主产线，产品覆盖高纯晶体六氟磷酸锂、硅碳负极、半固态电池等体系电解液，电解液板块四季度实现扭亏。\n2、据2026年10月23日互动易，公司拟以现金收购启元气体51.27%股权与发行股份购买15.86%股权相互独立，交易完成后将合计控制启元气体67.13%股权，标的主营电子大宗气体与电子特气。\n3、据2026年6月25日投资者关系活动记录表，公司胶粘剂重点布局AI服务器电源热管理，可用于高功率电源粘接固定与导热散热，客户包括光宝、中达电子、天宝电子等。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603657",
+   "name": "春光科技",
+   "board": 3,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "扫地机器人",
+    "家庭具身机器人",
+    "清洁电器代工"
+   ],
+   "reason": "1、据2026年8月29日半年报，公司主营清洁电器整机代工和核心零部件，整机产品包括吸尘器、洗地机、扫地机器人等；据2026年6月10日募集说明书，公司与苏州乐享智能科技达成战略合作，为其家庭具身机器人提供整机代工。\n2、据2026年8月4日预案修订稿，公司清洁电器软管、配件及整机产品应用于小米、美的、追觅等品牌。\n3、据2025年12月25日公告，公司获乐享科技机器人产品采购订单4326.28万元，预计对2026年净利润影响约600万元。\n4、据2026年10月30日三季报，公司前三季度营收23.65亿元，同比增长26.63%，归母净利润-1.19亿元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301697",
+   "name": "贝特利",
+   "board": 3,
+   "sec_plates": [
+    "次新股",
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光伏银粉",
+    "低温光伏浆料",
+    "电子皮肤",
+    "次新股"
+   ],
+   "reason": "行业原因：\n11月4日美国中期选举民主党赢得中期选举后，市场预期IRA框架下光伏、储能、风电的税收激励有望保持完整，美国新能源装机预期有望上修，美股光伏板块走强。\n公司原因：\n1、据2026年11月4日投资者关系管理信息，公司重点推进贱金属浆料在光伏领域的应用，并加快导热凝胶、导热硅脂等导热散热材料在光模块、数据中心、汽车电子等场景的应用。\n2、公司于2026-09-01日上市。据2026年8月11日招股意向书，公司主营光伏银粉、HJT浆料等导电材料，低温光伏浆料已完成小批量生产并具备产业化条件。\n3、据2026年11月4日投资者关系管理信息，公司的电子浆料、硅橡胶和肤感涂料在人形机器人电子皮肤领域均有良好的应用前景，已与部分电子皮肤领域企业开展业务接触与交流。\n4、据2026年10月29日三季报，公司前三季度营收39.68亿元，同比增长61.93%；归母净利润1.08亿元，同比增长32.23%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002929",
+   "name": "润建股份",
+   "board": 2,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "词元出海",
+    "算力网络",
+    "机器人"
+   ],
+   "reason": "1、据2026年11月5日财闻报道，深圳润见星晖科技有限公司近日成立，经营范围包含智能机器人的研发、智能机器人销售、人工智能硬件销售等，该公司由润建股份等共同持股。\n2、据2026年11月3日投资者关系活动记录表，公司依托南宁国际通信出入口局区位优势推动Token产能跨境流通，构建面向全球的AI算力服务通道，并持续深化东盟市场布局；据2026年10月19日公告，全资子公司签订金额2亿美元的词元跨境销售服务合同，合同期一年，按实际消耗量结算。\n3、据2026年10月21日投资者关系活动记录表，公司确立“Token为核、绿算协同、智维百业”发展战略，设立Token事业群，2026年上半年算力网络业务同比增长超过50%，五象云谷获国标A级数据中心认证。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "605339",
+   "name": "南侨食品",
+   "board": 2,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "烘焙油脂",
+    "乳制品",
+    "预制烘焙"
+   ],
+   "reason": "1、据2026年6月15日互动易，公司深耕烘焙油脂领域近30年，是国内烘焙原料行业领军企业之一，发力自研自产黄油、稀奶油等乳制品烘焙原料，顺应烘焙原料国产化替代需求增长，同时扩充预制烘焙品类丰富产品线。\n2、据2026年8月13日半年度报告，公司持续推进全面布局烘焙、餐/饮、零售市场战略，烘焙油脂为核心产品系列，与大部分客户保持长期稳定合作关系，并积极与烘焙老字号品牌开展一城一饼合作。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002086",
+   "name": "东方海洋",
+   "board": 2,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“羊”字辈",
+    "海洋养殖",
+    "体外诊断"
+   ],
+   "reason": "1、据中国基金报2026年11月3日报道，近期证券简称中带“羊”“阳”“洋”等字样的个股关注度提升，11月3日东方海洋开盘涨停实现10日6板；据2026年11月4日股票交易异常波动暨风险提示公告，自2026年10月21日起公司股价累计上涨57.60%，非理性波动特征突出。\n2、据2026年8月26日半年报，公司海洋事业部拥有适合海参养殖国家一类水质标准海域4.85万亩，水产品加工涵盖调理食品、冷冻鱼片、海参系列等，工厂产能居行业前列。\n3、据2025年年报，公司大健康事业部以体外诊断产品为基础，推动免疫诊断、质谱诊断和分子诊断新产品研发，建设第三方医学检验服务及健康管理平台。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600261",
+   "name": "阳光照明",
+   "board": 2,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "商业航天",
+    "激光通信",
+    "照明",
+    "“羊”字辈"
+   ],
+   "reason": "1、据2026年8月22日半年报，公司使用自有资金3000万元参与蓝星光域融资，完成后持有其1.0989%股权；蓝星光域专注全场景激光通信解决方案，核心产品包括星载同轨/异轨激光通信终端、机载平流层激光通信终端等，应用于卫星间、星地间高速率通信。\n2、据2026年4月21日年报，公司年生产能力达4亿盏照明光源和1.2亿套灯具，构建国内+海外双循环产能格局，国内拥有浙江上虞、福建厦门、江西余江、安徽金寨四大生产基地。\n3、据中证报2026年10月27日报道，2027年为羊年，近期部分股票名称中带“羊、洋、阳”的个股频频异动。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600540",
+   "name": "新赛股份",
+   "board": 1,
+   "sec_plates": [
+    "农业种植"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "棉花全产业链",
+    "棉蛋白",
+    "三季报扭亏",
+    "新疆兵团国资"
+   ],
+   "reason": "行业原因：\n1、中国气象局判断夏秋季形成强到超强厄尔尼诺、秋冬季达峰，世界气象组织确认持续至2027年2月。\n2、受AI数据中心监管担忧影响，隔夜美股重挫，费城半导体指数大跌12%，亚太股市早盘集体承压，资金转向防御性板块。\n公司原因：\n1、据2026年8月27日半年报，公司以棉业为主业，涉及棉花初加工业务的子企业共14家，籽棉加工能力达20万吨。\n2、据2026年6月26日互动易，棉籽精深加工为增值配套板块，2025年度棉蛋白产销量分别同比增长74.63%、418.87%，行业盈利实现扭亏为盈。\n3、据2026年10月30日三季报，公司前三季度营收27.55亿元，同比增长66.31%；归母净利润1.61亿元，同比扭亏为盈。\n4、公司属于国有企业。公司的最终控制人为新疆生产建设兵团国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600207",
+   "name": "安彩高科",
+   "board": 1,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光伏玻璃",
+    "高透产品",
+    "河南国资"
+   ],
+   "reason": "行业原因：\n11月4日美国中期选举民主党赢得中期选举后，市场预期IRA框架下光伏、储能、风电的税收激励有望保持完整，美国新能源装机预期有望上修，美股光伏板块走强。\n公司原因：\n1、据2026年11月6日报道，光伏设备板块短线拉升，永臻股份4连板，贝特利涨超10%，时创能源、金刚光伏、赛伍技术、钧达股份跟涨；据2026年9月16日业绩说明会，公司光伏玻璃业务具备高透产品能力，行业主动控产、库存出清，三四季度价格呈底部企稳回升态势。\n2、据2026年8月26日半年报，公司光伏玻璃前板透光率提升至94.5%，在产窑炉日熔量1800吨，拥有安阳、焦作、许昌三大生产基地，产品实现1.6-5.0mm全厚度全系列覆盖。\n3、据2026年8月26日半年度评估报告，公司已形成光伏玻璃、光热玻璃、药用玻璃、天然气等多业务协同发展的产业格局，石英管业务与行业头部企业签订合作协议并获取首批订单。\n4、公司控股股东为河南投资集团有限公司，实际控制人为河南省财政厅。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "001308",
+   "name": "康冠科技",
+   "board": 1,
+   "sec_plates": [
+    "智能眼镜/MR头显"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "端侧AI",
+    "AI眼镜",
+    "智能显示"
+   ],
+   "reason": "1、据2026年10月26日三季报及2026年10月13日互动易，公司围绕端侧AI硬件全链条布局，投资阶跃星辰、嘉立创、爱培科，双方已推出搭载阶跃星辰大模型的闺蜜机、首款mini AI PC等产品，并拟设立联合实验室探索Token服务收入分成模式。\n2、据2026年9月11日互动易，公司多款AI眼镜产品处于研发阶段，规划搭载近眼显示模块，融合多模态AI交互能力，计划于2026年下半年至2027年陆续推向市场。\n3、据2026年8月25日半年报，公司以智能交互平板、创新显示、专业显示、智能电视四大产品线为核心，构建KTC、皓丽、FPD三大品牌矩阵，覆盖AI+办公、教育、医疗、娱乐等赛道。\n4、据2026年10月26日三季报，公司前三季度营收113.41亿元，同比增长5.20%；归母净利润5.09亿元，同比增长1.28%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000525",
+   "name": "红太阳",
+   "board": 1,
+   "sec_plates": [
+    "农业种植"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“羊”字辈",
+    "百草枯",
+    "农业无人机",
+    "三季报扭亏"
+   ],
+   "reason": "1、据中证报2026年10月27日报道，2027年为羊年，近期部分股票名称中带“羊、洋、阳”的个股频频异动。 \n2、据2026年9月4日业绩说明会，公司为全球最大百草枯原药供应商，先正达已于2026年6月底前全面停止全球百草枯生产，国内无新增产能，公司订单能见度良好。\n3、据2026年9月4日业绩说明会，公司于2026年7月15日与安徽云枢智航签署战略合作协议，围绕农业无人机植保、农用药械适配、精准农业服务开展联合测试与示范应用，相关合作仍处前期阶段。\n4、据2026年10月24日三季报，公司前三季度营收21.82亿元，同比下降6.26%，归母净利润6157.82万元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603366",
+   "name": "日出东方",
+   "board": 1,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“东方”",
+    "储能",
+    "空气能热泵",
+    "光伏"
+   ],
+   "reason": "1、据财闻2026年11月6日报道，上午A股证券代码中带有“东方”字样的个股受到资金热捧。\n2、据2026年8月19日半年报，公司储能板块覆盖户用、工商业及大型储能系统，并配套储能钣金结构件，应用于家庭备电、峰谷套利及新能源电站并网储能。\n3、据2026年11月4日互动易，公司持续推进海外热泵业务布局，深耕欧洲核心市场，积极拓展法国、德国等区域市场。\n4、据2025年年度报告，公司太阳雨品牌深耕空气能、太阳能光热领域，已落地清洁热水、清洁冷暖、清洁发电项目2万余个。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "001316",
+   "name": "润贝航科",
+   "board": 1,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "航材国产化",
+    "AI航检眼镜",
+    "三季报增长"
+   ],
+   "reason": "1、据2026年8月24日半年报，公司推出AI航检眼镜，可按机型设计检查流程，通过语音引导、激光指示和红外测温辅助飞机巡检维修；公司坚持航材分销与航材国产化双轮驱动，截至2026年6月30日共有超3500个件号通过中国民航局适航审定，部分自研产品已写入中国商飞工艺材料产品批准书。\n2、据2026年4月23日募集说明书，公司自2011年起服务中国商飞，曾获C919大型客机首飞先进集体奖和TC取证先进集体奖，与中国商飞、中航工业建立稳定合作关系，客户覆盖南航、东航、海航等航空公司及主流MRO企业。\n3、据2026年10月28日三季报，公司前三季度营收8.49亿元，同比增长12.79%；归母净利润1.56亿元，同比增长32.71%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000595",
+   "name": "新能股份",
+   "board": 1,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "储能并网",
+    "风光储一体化",
+    "宁夏国资"
+   ],
+   "reason": "1、据2026年11月5日公告，公司控股子公司投建的灵武马家滩240MW/480MWh、盐池高沙窝320MW/640MWh储能电站项目均已完成设备安装调试并网运行，动态总投资分别为3.73亿元和4.92亿元，有助于扩大储能业务规模、推进风光储一体化布局。\n2、据2026年8月15日半年报，公司主营风力发电、光伏发电及储能电站的投资开发和运营管理，已形成风光储共进的多元化发展格局。\n3、据2026年8月15日半年报，公司直接控股股东为宁夏电投，实际控制人为宁夏回族自治区人民政府。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "601188",
+   "name": "龙江交通",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "冰雪旅游保障",
+    "高速公路运营",
+    "黑龙江国资"
+   ],
+   "reason": "1、据2026年11月5日互动易，面对即将到来的冰雪季，公司将持续深化路警企三方联动机制，提前检修除雪设备、预置物资，及时高效开展精细化除雪作业，收费端优化智慧云收费和视频监控保障通行效率，子公司龙运现代完善巡网租+车辆调度，做好关键时期保通保畅工作。\n2、据2026年8月28日半年报，公司所辖哈大分公司圆满完成冰雪旅游季等关键时期保畅任务，实现零拥堵、零差错；公司是黑龙江省内唯一高速公路板块上市公司，拥有哈大高速特许经营权，主营收费运营管理及日常养护。\n3、据2026年5月13日互动易，公司确立一体两翼战略，培育清洁能源与石墨新材料产业，控股萝北县工农村石墨矿；据2026年9月29日互动易，该石墨矿采选联合项目建设期为24个月，目前处于前期准备阶段。\n4、据2026年10月30日三季报，公司前三季度营收5.26亿元，同比下降9.53%，归母净利润1.72亿元，同比下降10.40%；公司实控人为黑龙江省国资委。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600156",
+   "name": "华升股份",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "重组推进",
+    "苎麻纺织"
+   ],
+   "reason": "1、据2026年10月1日公告，公司拟发行股份及支付现金购买易信科技97.40%股份，标的主营绿色智算中心建设运营及算力租赁服务，重组尚处审核阶段；据2026年11月3日互动易，因标的财务资料过有效期需更新，公司正加快推进资料更新并报送交易所。\n2、据2026年8月28日半年报，公司具备从纺纱、织造、染整到终端产品销售的全产业链布局，上半年新增授权专利6项，累计授权专利52项。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300686",
+   "name": "智动力",
+   "board": 1,
+   "sec_plates": [
+    "光通信",
+    "磷化铟"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "消费电子",
+    "固态电池",
+    "人形机器人",
+    "三季报亏损收窄"
+   ],
+   "reason": "1、据2026年5月20日投资者关系活动记录表，公司固液混合电池产品未来将重点围绕eVTOL、人形机器人和特种机器人及可穿戴设备等领域进行应用拓展，能量密度可达350Wh/kg以上。\n2、据2026年5月20日投资者关系活动记录表，公司正加速拓展新能源汽车业务，主要产品为新能源电池包模块、液冷板加热膜等，已与头部车企建立合作并完成多品类样品验证与小批量供货。\n3、据2025年年报，公司主营消费电子功能性器件、结构性器件，与三星、OPPO、vivo等全球头部客户保持稳定合作；据2026年10月30日三季报，前三季度营收10.21亿元，归母净利润亏损5283万元，亏损同比收窄18.03%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300237",
+   "name": "美晨科技",
+   "board": 1,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "摘帽",
+    "复牌",
+    "资产剥离",
+    "汽车零部件"
+   ],
+   "reason": "1、据2026年11月5日公告，公司撤销其他风险警示申请获深交所审核同意，股票于11月6日开市起复牌并撤销其他风险警示，证券简称由ST美晨变更为美晨科技。\n2、据2026年9月14日公告，公司拟通过山东产权交易中心公开挂牌转让全资子公司赛石园林100%股权，加快彻底剥离非主营亏损业务，集中资源发展非轮胎橡胶汽配主业。\n3、据2026年8月29日半年报，公司主营汽车流体输送、减振橡胶及悬架减振系统，已形成新能源汽车及氢能源管路全系列产品布局，氢能源管路实现技术攻关与批量供货。\n4、据2026年10月28日三季报，公司前三季度营收14.04亿元，同比增长4.43%；归母净利润亏损3204.57万元，亏损同比收窄82.78%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "601595",
+   "name": "上海电影",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI影视",
+    "即梦合作",
+    "院线",
+    "IP"
+   ],
+   "reason": "1、据2026年9月28日半年度业绩说明会记录，公司联合出品的AIGC漫改武侠电影《山竹刀》上线首日位列腾讯热播榜第五、武侠榜第一；公司持续深化与即梦AI及火山引擎合作，内测首发Seedance2.5并推出AIGC短片。\n2、据2026年9月28日半年度业绩说明会记录，上影元上半年营收9972.70万元、净利润3005.44万元，同比分别增长148.92%、129.47%；新增百事、伊利等品牌授权项目19个，带动终端GMV约9.5亿元。\n3、据2026年8月27日半年报，公司聚焦电影宣发、院线经营、IP运营三大核心主业，联和院线加盟影院规模与票房稳居全国前列。\n4、据2026年11月4日东吴证券研报，公司AIGC全流程生产链路初步跑通，全球首部双人互动电影《新世界：暗影成双》于2026年9月23日上线，维持“买入”评级。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600229",
+   "name": "城市传媒",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AIGC",
+    "IP运营",
+    "教育出版",
+    "青岛国资"
+   ],
+   "reason": "1、据2026年8月29日半年报，公司布局VR/AR、AIGC、影视等文化科技融合业务，开发数字科普数字文博VR、3D产品及LBE数字文化沉浸式大空间体验产品，开发AIGC人工智能生成内容应用产品。\n2、据2026年8月29日半年报，公司聚焦以IP深度开发运营为核心的VR/AR、AIGC、影视制作、数字出版等新型技术应用产品开发，形成各板块良性互动、协同发展的业务体系。\n3、据2026年4月30日年报，公司拥有出版、发行、文化科技融合、文化空间运营等多元业态，所属青岛出版社是国家一级出版社、全国百佳图书出版单位。\n4、据2026年10月30日三季报，公司前三季度营收14.62亿元，同比下降9.82%；归母净利润-6901万元，同比止盈转亏。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600371",
+   "name": "万向德农",
+   "board": 1,
+   "sec_plates": [
+    "农业种植"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "玉米种业",
+    "转基因玉米",
+    "新品研发"
+   ],
+   "reason": "行业原因：\n1、中国气象局判断夏秋季形成强到超强厄尔尼诺、秋冬季达峰，世界气象组织确认持续至2027年2月。\n2、受AI数据中心监管担忧影响，隔夜美股重挫，费城半导体指数大跌12%，亚太股市早盘集体承压，资金转向防御性板块。\n公司原因：\n1、据2026年8月20日业绩说明会，公司转基因品种推广面积已达100余万亩，4个玉米转基因品种通过国家审定。\n2、据2026年4月22日年度股东会材料，公司主营玉米杂交种子研发、生产、销售，品种覆盖东北、黄淮、西北三大玉米主产区，种业综合实力处于全国前列。\n3、据2026年8月20日业绩说明会，公司围绕抗倒伏、耐密植、高抗性等性状开展定向选育，加快新品种研发、审定及渠道推广。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600278",
+   "name": "东方创业",
+   "board": 1,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“东方”",
+    "贸易",
+    "现代物流",
+    "上海国企"
+   ],
+   "reason": "1、据财闻2026年11月6日报道，上午A股证券代码中带有“东方”字样的个股受到资金热捧。\n2、据2026年8月28日半年报，公司在进口和内贸领域连续八年参加进博会，开展境外直采，拓展国内推广、分销与零售渠道，深耕动物蛋白、咖啡、酒类及食品进口供应链管理。\n3、据2025年年报，公司现代物流板块从单一货代向综合供应链解决方案提供商转型，不断拓展大客户和新业务。\n4、公司属于上海国有企业，最终控制人为上海市国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002973",
+   "name": "侨银股份",
+   "board": 1,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "人形机器人",
+    "算力服务",
+    "应收账款回款",
+    "城市服务"
+   ],
+   "reason": "1、据2026年9月23日投资者关系活动记录表，公司深度布局城市服务具身智能赛道，与国家地方共建人形机器人创新中心联合研发环卫人形机器人侨银威龙，已完成两代整机研发及全场景可靠性验证，首批实景实训落地广州荔湾、茂名等项目。\n2、据2026年9月23日投资者关系活动记录表，公司算力项目总投资约2.65亿元，前三批1.98亿元采购合同已签署，设备正分批交付验收，全部交付后启动算力服务。\n3、据2026年11月4日公告，公司对部分应收账款进行债务豁免及回款安排，以锁定回款金额与时点，加快应收账款回笼，改善经营性现金流。\n4、据2025年年度报告，公司是中国首家A股上市的城市管理服务企业，主营城乡环卫保洁等人居环境综合提升服务。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002712",
+   "name": "思美传媒",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI营销",
+    "AI漫剧",
+    "四川国资"
+   ],
+   "reason": "1、据2026年8月27日半年报，公司自主搭建聚灵AI创意引擎，对接百度、DeepSeek、即梦等外部AI能力接口，建成AI生成至批量生产全流程创意链路；美股AppLovin第三财季业绩超预期盘后大涨17%，AI营销题材受关注。\n2、据2026年8月27日半年报，子公司掌维科技搭建AI短剧创作平台并试运行，已有多部AI真人演绎剧及AI 3D漫剧完成制作，尚未正式上线及规模化落地。\n3、据2026年10月27日三季报，公司前三季度营收59.58亿元同比增长8.67%，归母净利润亏损342.47万元，亏损同比缩小76.84%。\n4、据2026年8月13日互动易，公司聚焦新传媒与新文旅两大核心业务，控股股东为四川省旅游投资集团，实控人为四川省国资委。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002310",
+   "name": "东方新能",
+   "board": 1,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“东方”",
+    "光伏",
+    "重组",
+    "三季报扭亏"
+   ],
+   "reason": "行业原因：\n1、11月6日，AI算力板块大跌，农业、电力、银行等防御性板块逆市走强。\n2、机构分析指出，美国中期选举民主党大胜后，IRA框架下光伏、储能、风电税收激励有望保持完整，美国新能源装机预期有望上修，绿电运营商中长期资本开支预期夯实。\n公司原因：\n1、据财闻2026年11月6日报道，上午A股证券代码中带有“东方”字样的个股受到资金热捧。\n2、据2025年年报，公司主营业务为新能源电站的开发、投资、建设及运营，重点聚焦陆上风电与分布式光伏等核心领域，并全面探索布局储能业务。\n3、据2026年10月30日公告，公司以现金方式购买海城锐海100%股权、电投瑞享80%股权已完成，两家标的公司纳入合并报表范围，构成重大资产重组。\n4、据2026年10月30日三季报，公司前三季度营收2.85亿元，同比增长82.37%；归母净利润991.02万元，同比扭亏为盈。\n5、据2025年年报，公司实际控制人为北京市朝阳区人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600327",
+   "name": "大东方",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“东方”",
+    "百货零售",
+    "儿科医疗",
+    "回购注销"
+   ],
+   "reason": "1、据财闻2026年11月6日报道，上午A股证券代码中带有“东方”字样的个股受到资金热捧。\n2、据2026年11月6日公告，公司2026年第一次临时股东会会议资料审议变更部分回购股份用途并注销，拟将2023年及2024年回购的1100.41万股注销并减少注册资本，总股本降至8.74亿股。\n3、据2025年年报，公司百货零售业务以无锡大东方百货为核心，拥有近70万注册会员，与欧莱雅、LVMH、雅诗兰黛、资生堂等国际一线集团合作，区域龙头地位稳固。\n4、据2026年5月20日投资者关系活动记录表，公司医疗健康业务以儿科为核心，截至2026年一季度末均瑶儿科共32家门诊机构、雅恩健康共10家连锁机构，覆盖北上广深等主要城市。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002889",
+   "name": "东方嘉盛",
+   "board": 1,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "“东方”",
+    "光刻机保税维修",
+    "智慧仓"
+   ],
+   "reason": "1、据财闻2026年11月6日报道，上午A股证券代码中带有“东方”字样的个股受到资金热捧。\n2、据2026年10月14日互动易，公司围绕半导体设备厂商在华售后市场及华南片区集成电路制造企业，提供保税寄售维修、备件管理、VMI仓储及快速响应等一体化供应链服务。\n3、据2026年10月15日互动易，深圳前海“湾区壹号”智慧仓已完成主体结构封顶，进入运营筹备及设备调试阶段，定位保税与非保税货物同仓存储、VMI管理及AI智慧通关一体化枢纽，重点服务半导体、跨境电商等高附加值业态。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "001258",
+   "name": "立新能源",
+   "board": 1,
+   "sec_plates": [
+    "光伏"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "风电光伏",
+    "疆电外送",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n1、11月6日，AI算力板块大跌，农业、电力、银行等防御性板块逆市走强。\n2、机构分析指出，美国中期选举民主党大胜后，IRA框架下光伏、储能、风电税收激励有望保持完整，美国新能源装机预期有望上修，绿电运营商中长期资本开支预期夯实。\n公司原因：\n1、据2026年8月10日半年度报告，公司主营风力发电、光伏发电及独立储能业务，已投产运营发电项目装机规模4634MW，其中风电2720.50MW、光伏953.50MW。\n2、据2026年8月10日半年度报告，公司深度卡位“疆电外送”核心通道，参与第三通道新疆侧配套电源项目建设，项目总装机规模8100MW，公司持有项目公司13.42%股权。\n3、据2026年10月23日三季报，公司前三季度营收10.38亿元，同比增长23.56%；归母净利润2.39亿元，同比增长79.76%，主要系联营企业“疆电外送”三通道发电项目并网投运带来投资收益增加。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  }
+ ]
+}
