@@ -151,5 +151,22 @@
   "amount": 1665231480000.0,
   "lhb_net": 2587741739.3499994,
   "mode": "abs"
+ },
+ {
+  "date": "2026-11-12",
+  "up": 875,
+  "down": 4634,
+  "temp": 21.9,
+  "level": "冰点",
+  "seal_rate": 51.39,
+  "promotion": 12.94,
+  "limit_up": 37,
+  "limit_down": 5,
+  "broken": 35,
+  "height": 5,
+  "up_ratio": 15.69,
+  "amount": 1932081880000.0,
+  "lhb_net": -66929484.049999945,
+  "mode": "abs"
  }
 ]
