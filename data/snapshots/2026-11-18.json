@@ -1,0 +1,4039 @@
+{
+ "trade_date": "2026-11-18",
+ "as_of": "2026-11-18 15:05:36",
+ "collected_at": "2026-11-19T01:18:10+08:00",
+ "breadth": {
+  "up": 1318,
+  "down": 4133,
+  "flat": 122,
+  "limit_up": 43,
+  "limit_down": 48,
+  "broken": 24,
+  "limit_down_open": 8,
+  "suspended": 7,
+  "amount": 1369702230000.0,
+  "prev_amount": 1457694596900.0,
+  "amount_change": -87992366900.0,
+  "coverage": 1.0
+ },
+ "sentiment": {
+  "seal_rate": 62.5,
+  "prev_seal_rate": 64.29,
+  "max_board": 4,
+  "sprint_rate": 0.0,
+  "continue_count": 0,
+  "prev_limit_up": 0,
+  "once_limit_up": 0,
+  "broken_count": 0,
+  "top_board_stock": "",
+  "top_board_count": 0,
+  "main_net": 0.0,
+  "qx_seal_rate": 0.0
+ },
+ "ladder": [
+  {
+   "board": 4,
+   "count": 1,
+   "stocks": [
+    {
+     "code": "002685",
+     "name": "华东重机",
+     "first": 1794965100.0,
+     "last": 1794965100.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": "美国发布AI芯片远程访问新规"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 2,
+   "count": 7,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "first": 1794965100.0,
+     "last": 1794965100.0,
+     "plates": [
+      {
+       "name": "光刻机（胶）",
+       "reason": "美国发布AI芯片远程访问新规"
+      }
+     ]
+    },
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "first": 1794965100.0,
+     "last": 1794965100.0,
+     "plates": [
+      {
+       "name": "光刻机（胶）",
+       "reason": "美国发布AI芯片远程访问新规"
+      }
+     ]
+    },
+    {
+     "code": "301391",
+     "name": "卡莱特",
+     "first": 1794968154.0,
+     "last": 1794968154.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "600410",
+     "name": "华胜天成",
+     "first": 1794966901.0,
+     "last": 1794966901.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002771",
+     "name": "真视通",
+     "first": 1794965403.0,
+     "last": 1794965403.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002843",
+     "name": "泰嘉股份",
+     "first": 1794979671.0,
+     "last": 1794980559.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "000707",
+     "name": "双环科技",
+     "first": 1794966144.0,
+     "last": 1794970158.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 1,
+   "count": 34,
+   "stocks": [
+    {
+     "code": "301396",
+     "name": "宏景科技",
+     "first": 1794979806.0,
+     "last": 1794979806.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "first": 1794971697.0,
+     "last": 1794971697.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "600336",
+     "name": "澳柯玛",
+     "first": 1794965428.0,
+     "last": 1794965457.0,
+     "plates": [
+      {
+       "name": "家电",
+       "reason": "龙头股价创历史新高"
+      }
+     ]
+    },
+    {
+     "code": "300324",
+     "name": "旋极信息",
+     "first": 1794967083.0,
+     "last": 1794967368.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": "美国发布AI芯片远程访问新规"
+      }
+     ]
+    },
+    {
+     "code": "002194",
+     "name": "武汉凡谷",
+     "first": 1794965400.0,
+     "last": 1794965400.0,
+     "plates": [
+      {
+       "name": "6G",
+       "reason": "工信部同意北京市等8个省（市）开展6G创新发展部省协同试点"
+      }
+     ]
+    },
+    {
+     "code": "688757",
+     "name": "胜科纳米",
+     "first": 1794979180.0,
+     "last": 1794980386.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": "美国发布AI芯片远程访问新规"
+      }
+     ]
+    },
+    {
+     "code": "002463",
+     "name": "沪电股份",
+     "first": 1794979815.0,
+     "last": 1794984609.0,
+     "plates": [
+      {
+       "name": "PCB板",
+       "reason": "机构预计PCB上游供给紧张格局将延续"
+      }
+     ]
+    },
+    {
+     "code": "000158",
+     "name": "常山北明",
+     "first": 1794967332.0,
+     "last": 1794967332.0,
+     "plates": [
+      {
+       "name": "人工智能大模型",
+       "reason": "DeepSeek发布API调价公告"
+      },
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002148",
+     "name": "北纬科技",
+     "first": 1794965409.0,
+     "last": 1794978000.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000711",
+     "name": "京蓝科技",
+     "first": 1794966663.0,
+     "last": 1794966663.0,
+     "plates": [
+      {
+       "name": "ST摘帽",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002955",
+     "name": "鸿合科技",
+     "first": 1794972360.0,
+     "last": 1794972360.0,
+     "plates": [
+      {
+       "name": "人工智能大模型",
+       "reason": "DeepSeek发布API调价公告"
+      },
+      {
+       "name": "AI大模型/智能体",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002916",
+     "name": "深南电路",
+     "first": 1794979152.0,
+     "last": 1794979152.0,
+     "plates": [
+      {
+       "name": "PCB板",
+       "reason": "机构预计PCB上游供给紧张格局将延续"
+      }
+     ]
+    },
+    {
+     "code": "688316",
+     "name": "青云科技",
+     "first": 1794979020.0,
+     "last": 1794979020.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "000010",
+     "name": "*ST美丽",
+     "first": 1794965598.0,
+     "last": 1794966429.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000889",
+     "name": "中嘉博创",
+     "first": 1794966357.0,
+     "last": 1794966357.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "603629",
+     "name": "利通电子",
+     "first": 1794972371.0,
+     "last": 1794978884.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002403",
+     "name": "爱仕达",
+     "first": 1794965487.0,
+     "last": 1794965487.0,
+     "plates": [
+      {
+       "name": "家电",
+       "reason": "龙头股价创历史新高"
+      }
+     ]
+    },
+    {
+     "code": "600839",
+     "name": "四川长虹",
+     "first": 1794965701.0,
+     "last": 1794965701.0,
+     "plates": [
+      {
+       "name": "家电",
+       "reason": "龙头股价创历史新高"
+      }
+     ]
+    },
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "first": 1794967965.0,
+     "last": 1794968637.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002272",
+     "name": "川润股份",
+     "first": 1794979872.0,
+     "last": 1794979872.0,
+     "plates": [
+      {
+       "name": "液冷服务器",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "600162",
+     "name": "香江控股",
+     "first": 1794970527.0,
+     "last": 1794980559.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "600238",
+     "name": "ST椰岛",
+     "first": 1794980475.0,
+     "last": 1794982636.0,
+     "plates": []
+    },
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "first": 1794968082.0,
+     "last": 1794970410.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "first": 1794971694.0,
+     "last": 1794978999.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "603220",
+     "name": "中贝通信",
+     "first": 1794971643.0,
+     "last": 1794978902.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "002042",
+     "name": "华孚时尚",
+     "first": 1794971916.0,
+     "last": 1794980130.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "first": 1794965413.0,
+     "last": 1794965419.0,
+     "plates": [
+      {
+       "name": "家电",
+       "reason": "龙头股价创历史新高"
+      }
+     ]
+    },
+    {
+     "code": "300991",
+     "name": "创益通",
+     "first": 1794966306.0,
+     "last": 1794966306.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "000980",
+     "name": "众泰汽车",
+     "first": 1794966414.0,
+     "last": 1794966414.0,
+     "plates": [
+      {
+       "name": "新能源汽车",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000410",
+     "name": "沈阳机床",
+     "first": 1794966585.0,
+     "last": 1794978048.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "600405",
+     "name": "动力源",
+     "first": 1794965458.0,
+     "last": 1794965603.0,
+     "plates": [
+      {
+       "name": "液冷服务器",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "603985",
+     "name": "恒润股份",
+     "first": 1794979296.0,
+     "last": 1794979296.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "600186",
+     "name": "莲花控股",
+     "first": 1794979656.0,
+     "last": 1794980436.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    },
+    {
+     "code": "000815",
+     "name": "美利云",
+     "first": 1794967527.0,
+     "last": 1794970209.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": "华为昇腾云已覆盖80%的中国具身智能企业"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "hot_sectors": [
+  {
+   "name": "云计算数据中心",
+   "limit_up_count": 20,
+   "max_board": 2,
+   "stock_count": 20
+  },
+  {
+   "name": "家电",
+   "limit_up_count": 4,
+   "max_board": 1,
+   "stock_count": 4
+  },
+  {
+   "name": "国产芯片",
+   "limit_up_count": 3,
+   "max_board": 4,
+   "stock_count": 3
+  },
+  {
+   "name": "PCB板",
+   "limit_up_count": 2,
+   "max_board": 1,
+   "stock_count": 2
+  },
+  {
+   "name": "人工智能大模型",
+   "limit_up_count": 2,
+   "max_board": 1,
+   "stock_count": 2
+  },
+  {
+   "name": "光刻机（胶）",
+   "limit_up_count": 2,
+   "max_board": 2,
+   "stock_count": 2
+  },
+  {
+   "name": "机器人",
+   "limit_up_count": 2,
+   "max_board": 1,
+   "stock_count": 2
+  },
+  {
+   "name": "液冷服务器",
+   "limit_up_count": 2,
+   "max_board": 1,
+   "stock_count": 2
+  },
+  {
+   "name": "6G",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "AI大模型/智能体",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "ST摘帽",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "ST股",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "其他",
+   "limit_up_count": 1,
+   "max_board": 2,
+   "stock_count": 1
+  },
+  {
+   "name": "新能源汽车",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  }
+ ],
+ "main_force": [
+  {
+   "code": "603030",
+   "name": "全筑股份",
+   "rank": 1,
+   "price": 2.13,
+   "pct": 9.79,
+   "mf_pct": 73.54,
+   "sector": "装修装饰Ⅱ"
+  },
+  {
+   "code": "002194",
+   "name": "武汉凡谷",
+   "rank": 2,
+   "price": 9.31,
+   "pct": 10.05,
+   "mf_pct": 71.07,
+   "sector": "通信设备"
+  },
+  {
+   "code": "600839",
+   "name": "四川长虹",
+   "rank": 3,
+   "price": 5.68,
+   "pct": 10.08,
+   "mf_pct": 56.19,
+   "sector": "黑色家电"
+  },
+  {
+   "code": "002403",
+   "name": "爱仕达",
+   "rank": 4,
+   "price": 11.36,
+   "pct": 9.97,
+   "mf_pct": 55.98,
+   "sector": "小家电"
+  },
+  {
+   "code": "603324",
+   "name": "盛剑科技",
+   "rank": 6,
+   "price": 22.9,
+   "pct": 9.99,
+   "mf_pct": 49.13,
+   "sector": "环保设备Ⅱ"
+  },
+  {
+   "code": "600336",
+   "name": "澳柯玛",
+   "rank": 8,
+   "price": 6.14,
+   "pct": 10.04,
+   "mf_pct": 45.46,
+   "sector": "白色家电"
+  },
+  {
+   "code": "600405",
+   "name": "动力源",
+   "rank": 9,
+   "price": 4.62,
+   "pct": 10.0,
+   "mf_pct": 43.13,
+   "sector": "其他电源设备Ⅱ"
+  },
+  {
+   "code": "000889",
+   "name": "中嘉博创",
+   "rank": 10,
+   "price": 3.38,
+   "pct": 10.1,
+   "mf_pct": 41.74,
+   "sector": "通信服务"
+  },
+  {
+   "code": "603657",
+   "name": "春光科技",
+   "rank": 11,
+   "price": 33.94,
+   "pct": 10.02,
+   "mf_pct": 40.78,
+   "sector": "家电零部件Ⅱ"
+  },
+  {
+   "code": "002685",
+   "name": "华东重机",
+   "rank": 12,
+   "price": 7.37,
+   "pct": 10.0,
+   "mf_pct": 40.47,
+   "sector": "工程机械"
+  },
+  {
+   "code": "000158",
+   "name": "常山北明",
+   "rank": 14,
+   "price": 12.43,
+   "pct": 10.0,
+   "mf_pct": 35.44,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "000980",
+   "name": "众泰汽车",
+   "rank": 15,
+   "price": 1.67,
+   "pct": 9.87,
+   "mf_pct": 33.92,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "000815",
+   "name": "美利云",
+   "rank": 16,
+   "price": 14.31,
+   "pct": 9.99,
+   "mf_pct": 33.68,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "000711",
+   "name": "京蓝科技",
+   "rank": 17,
+   "price": 3.48,
+   "pct": 10.13,
+   "mf_pct": 32.33,
+   "sector": "环境治理"
+  },
+  {
+   "code": "300324",
+   "name": "旋极信息",
+   "rank": 18,
+   "price": 4.44,
+   "pct": 20.0,
+   "mf_pct": 31.12,
+   "sector": "计算机设备"
+  },
+  {
+   "code": "000410",
+   "name": "沈阳机床",
+   "rank": 19,
+   "price": 5.71,
+   "pct": 10.02,
+   "mf_pct": 30.96,
+   "sector": "通用设备"
+  },
+  {
+   "code": "603887",
+   "name": "城地香江",
+   "rank": 20,
+   "price": 8.18,
+   "pct": 9.95,
+   "mf_pct": 30.04,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "003006",
+   "name": "百亚股份",
+   "rank": 21,
+   "price": 20.72,
+   "pct": -0.05,
+   "mf_pct": 28.84,
+   "sector": "个护用品"
+  },
+  {
+   "code": "688687",
+   "name": "凯因科技",
+   "rank": 23,
+   "price": 15.37,
+   "pct": 0.26,
+   "mf_pct": 27.17,
+   "sector": "生物制品"
+  },
+  {
+   "code": "600408",
+   "name": "安泰集团",
+   "rank": 24,
+   "price": 3.71,
+   "pct": 6.3,
+   "mf_pct": 25.87,
+   "sector": "焦炭Ⅱ"
+  },
+  {
+   "code": "603985",
+   "name": "恒润股份",
+   "rank": 25,
+   "price": 14.73,
+   "pct": 10.01,
+   "mf_pct": 24.68,
+   "sector": "风电设备"
+  },
+  {
+   "code": "600162",
+   "name": "香江控股",
+   "rank": 26,
+   "price": 3.29,
+   "pct": 10.03,
+   "mf_pct": 24.67,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "600186",
+   "name": "莲花控股",
+   "rank": 27,
+   "price": 8.98,
+   "pct": 10.05,
+   "mf_pct": 24.66,
+   "sector": "调味发酵品Ⅱ"
+  },
+  {
+   "code": "002689",
+   "name": "ST远智",
+   "rank": 28,
+   "price": 2.86,
+   "pct": 1.78,
+   "mf_pct": 24.19,
+   "sector": "专用设备"
+  },
+  {
+   "code": "002955",
+   "name": "鸿合科技",
+   "rank": 29,
+   "price": 27.39,
+   "pct": 10.0,
+   "mf_pct": 23.74,
+   "sector": "光学光电子"
+  },
+  {
+   "code": "002482",
+   "name": "广田集团",
+   "rank": 30,
+   "price": 1.09,
+   "pct": 0.93,
+   "mf_pct": 22.78,
+   "sector": "装修装饰Ⅱ"
+  },
+  {
+   "code": "002095",
+   "name": "生 意 宝",
+   "rank": 31,
+   "price": 16.44,
+   "pct": 5.05,
+   "mf_pct": 22.72,
+   "sector": "数字媒体"
+  },
+  {
+   "code": "603556",
+   "name": "海兴电力",
+   "rank": 32,
+   "price": 21.0,
+   "pct": -0.62,
+   "mf_pct": 22.64,
+   "sector": "电网设备"
+  },
+  {
+   "code": "600525",
+   "name": "长园集团",
+   "rank": 33,
+   "price": 4.02,
+   "pct": 4.69,
+   "mf_pct": 22.3,
+   "sector": "电网设备"
+  },
+  {
+   "code": "688316",
+   "name": "青云科技-U",
+   "rank": 34,
+   "price": 50.82,
+   "pct": 20.0,
+   "mf_pct": 22.29,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "300335",
+   "name": "迪森股份",
+   "rank": 35,
+   "price": 4.63,
+   "pct": -0.43,
+   "mf_pct": 22.02,
+   "sector": "电力"
+  },
+  {
+   "code": "688671",
+   "name": "碧兴物联",
+   "rank": 37,
+   "price": 18.4,
+   "pct": -1.13,
+   "mf_pct": 21.64,
+   "sector": "环保设备Ⅱ"
+  },
+  {
+   "code": "603629",
+   "name": "利通电子",
+   "rank": 38,
+   "price": 60.93,
+   "pct": 10.0,
+   "mf_pct": 21.45,
+   "sector": "消费电子"
+  },
+  {
+   "code": "002526",
+   "name": "山东矿机",
+   "rank": 39,
+   "price": 2.99,
+   "pct": 6.03,
+   "mf_pct": 20.32,
+   "sector": "专用设备"
+  },
+  {
+   "code": "603025",
+   "name": "大豪科技",
+   "rank": 40,
+   "price": 11.99,
+   "pct": 2.04,
+   "mf_pct": 20.32,
+   "sector": "自动化设备"
+  },
+  {
+   "code": "600743",
+   "name": "华远控股",
+   "rank": 41,
+   "price": 1.92,
+   "pct": 3.78,
+   "mf_pct": 20.29,
+   "sector": "房地产服务"
+  },
+  {
+   "code": "002272",
+   "name": "川润股份",
+   "rank": 42,
+   "price": 12.58,
+   "pct": 9.97,
+   "mf_pct": 20.12,
+   "sector": "通用设备"
+  },
+  {
+   "code": "001279",
+   "name": "强邦新材",
+   "rank": 43,
+   "price": 24.52,
+   "pct": -1.45,
+   "mf_pct": 19.94,
+   "sector": "包装印刷"
+  },
+  {
+   "code": "003008",
+   "name": "开普检测",
+   "rank": 44,
+   "price": 17.18,
+   "pct": -1.49,
+   "mf_pct": 19.92,
+   "sector": "专业服务"
+  },
+  {
+   "code": "600731",
+   "name": "湖南海利",
+   "rank": 45,
+   "price": 5.29,
+   "pct": -0.75,
+   "mf_pct": 19.87,
+   "sector": "农化制品"
+  },
+  {
+   "code": "300991",
+   "name": "创益通",
+   "rank": 46,
+   "price": 22.68,
+   "pct": 20.0,
+   "mf_pct": 19.86,
+   "sector": "其他电子Ⅱ"
+  },
+  {
+   "code": "002109",
+   "name": "ST兴化",
+   "rank": 47,
+   "price": 2.39,
+   "pct": -0.83,
+   "mf_pct": 19.82,
+   "sector": "化学原料"
+  },
+  {
+   "code": "301396",
+   "name": "宏景科技",
+   "rank": 48,
+   "price": 114.6,
+   "pct": 20.0,
+   "mf_pct": 19.37,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "000718",
+   "name": "苏宁环球",
+   "rank": 49,
+   "price": 1.74,
+   "pct": 0.58,
+   "mf_pct": 19.33,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "002929",
+   "name": "润建股份",
+   "rank": 51,
+   "price": 53.76,
+   "pct": 10.01,
+   "mf_pct": 19.25,
+   "sector": "通信服务"
+  },
+  {
+   "code": "000793",
+   "name": "ST华闻",
+   "rank": 52,
+   "price": 1.77,
+   "pct": 0.57,
+   "mf_pct": 19.22,
+   "sector": "出版"
+  },
+  {
+   "code": "002197",
+   "name": "证通电子",
+   "rank": 54,
+   "price": 6.11,
+   "pct": 10.09,
+   "mf_pct": 19.06,
+   "sector": "计算机设备"
+  },
+  {
+   "code": "603808",
+   "name": "歌力思",
+   "rank": 55,
+   "price": 7.09,
+   "pct": -0.84,
+   "mf_pct": 19.05,
+   "sector": "服装家纺"
+  },
+  {
+   "code": "688212",
+   "name": "澳华内镜",
+   "rank": 56,
+   "price": 25.93,
+   "pct": -0.31,
+   "mf_pct": 18.93,
+   "sector": "医疗器械"
+  },
+  {
+   "code": "601827",
+   "name": "三峰环境",
+   "rank": 57,
+   "price": 7.95,
+   "pct": -0.13,
+   "mf_pct": 18.87,
+   "sector": "环境治理"
+  },
+  {
+   "code": "301285",
+   "name": "鸿日达",
+   "rank": 58,
+   "price": 77.0,
+   "pct": 2.74,
+   "mf_pct": 18.57,
+   "sector": "消费电子"
+  },
+  {
+   "code": "601778",
+   "name": "晶科科技",
+   "rank": 60,
+   "price": 2.98,
+   "pct": 2.05,
+   "mf_pct": 18.27,
+   "sector": "电力"
+  },
+  {
+   "code": "002042",
+   "name": "华孚时尚",
+   "rank": 61,
+   "price": 3.96,
+   "pct": 10.0,
+   "mf_pct": 18.23,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "600156",
+   "name": "华升股份",
+   "rank": 62,
+   "price": 8.09,
+   "pct": 10.07,
+   "mf_pct": 17.96,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "688793",
+   "name": "倍轻松",
+   "rank": 63,
+   "price": 13.8,
+   "pct": -0.14,
+   "mf_pct": 17.94,
+   "sector": "小家电"
+  },
+  {
+   "code": "603511",
+   "name": "爱慕股份",
+   "rank": 64,
+   "price": 10.45,
+   "pct": -2.79,
+   "mf_pct": 17.75,
+   "sector": "服装家纺"
+  },
+  {
+   "code": "600053",
+   "name": "*ST九鼎",
+   "rank": 65,
+   "price": 5.45,
+   "pct": -1.62,
+   "mf_pct": 17.62,
+   "sector": "多元金融"
+  },
+  {
+   "code": "600507",
+   "name": "方大特钢",
+   "rank": 66,
+   "price": 3.81,
+   "pct": 0.26,
+   "mf_pct": 17.59,
+   "sector": "特钢Ⅱ"
+  },
+  {
+   "code": "301296",
+   "name": "新巨丰",
+   "rank": 67,
+   "price": 5.86,
+   "pct": -0.85,
+   "mf_pct": 17.56,
+   "sector": "包装印刷"
+  },
+  {
+   "code": "300920",
+   "name": "润阳科技",
+   "rank": 68,
+   "price": 32.07,
+   "pct": 0.75,
+   "mf_pct": 17.5,
+   "sector": "塑料"
+  }
+ ],
+ "sector_flow": [
+  {
+   "name": "算力租赁",
+   "pct": 3.62,
+   "net": 5117594112.0,
+   "up": 91,
+   "down": 29,
+   "leader": "真视通",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "东数西算",
+   "pct": 2.99,
+   "net": 2405253008.0,
+   "up": 58,
+   "down": 15,
+   "leader": "动力源",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "F5G概念",
+   "pct": 2.77,
+   "net": 2293974272.0,
+   "up": 23,
+   "down": 3,
+   "leader": "中贝通信",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "昨日首板",
+   "pct": 2.08,
+   "net": -1650727040.0,
+   "up": 15,
+   "down": 13,
+   "leader": "盛剑科技",
+   "leader_pct": 9.99
+  },
+  {
+   "name": "科技风格",
+   "pct": 2.0,
+   "net": 11430222848.0,
+   "up": 72,
+   "down": 28,
+   "leader": "深南电路",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "算力概念",
+   "pct": 1.96,
+   "net": 8700688640.0,
+   "up": 162,
+   "down": 90,
+   "leader": "全筑股份",
+   "leader_pct": 9.79
+  },
+  {
+   "name": "反转股",
+   "pct": 1.82,
+   "net": -49378400.0,
+   "up": 8,
+   "down": 9,
+   "leader": "华东重机",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "英伟达概念",
+   "pct": 1.78,
+   "net": 2361684480.0,
+   "up": 42,
+   "down": 26,
+   "leader": "利通电子",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "智算中心（AIDC）",
+   "pct": 1.76,
+   "net": 4912920576.0,
+   "up": 127,
+   "down": 64,
+   "leader": "真视通",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "CPO概念",
+   "pct": 1.72,
+   "net": 5274760960.0,
+   "up": 70,
+   "down": 30,
+   "leader": "华胜天成",
+   "leader_pct": 10.01
+  },
+  {
+   "name": "华为昇腾",
+   "pct": 1.66,
+   "net": 1146051344.0,
+   "up": 41,
+   "down": 25,
+   "leader": "常山北明",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "国资云概念",
+   "pct": 1.61,
+   "net": 797397312.0,
+   "up": 11,
+   "down": 8,
+   "leader": "常山北明",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "云计算",
+   "pct": 1.6,
+   "net": 4133548288.0,
+   "up": 79,
+   "down": 65,
+   "leader": "真视通",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "腾讯概念",
+   "pct": 1.59,
+   "net": 822839136.0,
+   "up": 21,
+   "down": 14,
+   "leader": "常山北明",
+   "leader_pct": 10.0
+  },
+  {
+   "name": "昨日涨停_含一字",
+   "pct": 1.57,
+   "net": -2041944064.0,
+   "up": 19,
+   "down": 18,
+   "leader": "华东重机",
+   "leader_pct": 10.0
+  }
+ ],
+ "blocks": [
+  {
+   "id": "801807",
+   "name": "算力",
+   "inc": 0.371,
+   "strength": 17903.893,
+   "main_net": 7500118907.0
+  },
+  {
+   "id": "801218",
+   "name": "华为概念",
+   "inc": -0.231,
+   "strength": 7336.163,
+   "main_net": 2031589808.0
+  },
+  {
+   "id": "801001",
+   "name": "芯片",
+   "inc": -0.274,
+   "strength": 5312.46,
+   "main_net": 7040174825.0
+  },
+  {
+   "id": "801216",
+   "name": "PCB概念",
+   "inc": 0.438,
+   "strength": 3843.829,
+   "main_net": 4525317884.0
+  },
+  {
+   "id": "801660",
+   "name": "通信",
+   "inc": 0.215,
+   "strength": 2249.256,
+   "main_net": 7718674800.0
+  },
+  {
+   "id": "801069",
+   "name": "家电",
+   "inc": -0.484,
+   "strength": 1145.962,
+   "main_net": -581713026.0
+  },
+  {
+   "id": "801874",
+   "name": "电源",
+   "inc": 0.278,
+   "strength": 1027.837,
+   "main_net": 91835225.0
+  },
+  {
+   "id": "803041",
+   "name": "光通信",
+   "inc": 0.834,
+   "strength": 936.267,
+   "main_net": 4235946930.0
+  },
+  {
+   "id": "801020",
+   "name": "疫苗概念",
+   "inc": -0.922,
+   "strength": 570.304,
+   "main_net": -276193848.0
+  },
+  {
+   "id": "801033",
+   "name": "国有企业",
+   "inc": -0.908,
+   "strength": 401.163,
+   "main_net": -323369598.0
+  },
+  {
+   "id": "801132",
+   "name": "粤港澳",
+   "inc": -0.918,
+   "strength": 397.449,
+   "main_net": 117960492.0
+  },
+  {
+   "id": "801234",
+   "name": "航运",
+   "inc": -0.125,
+   "strength": 287.507,
+   "main_net": 392117751.0
+  },
+  {
+   "id": "801114",
+   "name": "外贸",
+   "inc": -1.328,
+   "strength": 147.813,
+   "main_net": -75863169.0
+  },
+  {
+   "id": "801314",
+   "name": "ST板块",
+   "inc": -1.422,
+   "strength": 132.771,
+   "main_net": -23161504.0
+  },
+  {
+   "id": "801359",
+   "name": "华为海思",
+   "inc": 1.259,
+   "strength": 82.072,
+   "main_net": -53004005.0
+  }
+ ],
+ "themes": {
+  "date": "2026-11-19",
+  "items": [
+   {
+    "code": "00865",
+    "name": "算力租赁",
+    "rank": 1,
+    "title": "算力紧张上热搜！算力租赁涨停潮 主力吸筹这些票(附股)",
+    "summary": "算力租赁概念周三逆势走强，截至午间收盘，广脉科技涨超23%，青云科技涨近15%，证通电子、华升股份、润建股份、常山北明等多股涨停。算力紧张上热搜消息面上，据光明网，11月16日，“DeepSeek使用额度已达上限”登上热搜。不少用户在社交媒体上反映，DeepSeek对App及网页版的使用额度进行了调整，包括限制长对话、",
+    "change_pct": 3.63,
+    "cum_pct": 0.0,
+    "limit_up_count": 13,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00169",
+    "name": "华为昇腾",
+    "rank": 2,
+    "title": "两只川股同迎大涨：华为算力概念股升温，四川长虹涨停、华丰科技涨超14%",
+    "summary": "11月18日，同属长虹控股体系的两家四川上市公司华丰科技和四川长虹双双迎来大涨，涨幅在川股中居前。华丰科技收涨14.62%，成交额为40.04亿元；四川长虹涨停，涨幅为10.08%，成交额为5.9亿元。二者均为绵阳市国资委旗下四川长虹电子控股集团有限公司控制的两家上市平台。业内认为，两家“兄弟公司”股价联动上涨，或与华",
+    "change_pct": 1.69,
+    "cum_pct": -8.15,
+    "limit_up_count": 2,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00284",
+    "name": "AI芯片",
+    "rank": 3,
+    "title": "英伟达临时CEO称将不再向中国出货H200芯片 外交部回应",
+    "summary": "11月18日，外交部发言人郭嘉昆主持例行记者会。法新社记者提问，英伟达的临时CEO称，将不再向中国出货H200芯片，中方对此有何评论？郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。",
+    "change_pct": 0.9,
+    "cum_pct": -12.11,
+    "limit_up_count": 1,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00286",
+    "name": "CPO概念",
+    "rank": 4,
+    "title": "美股光通信逆势上涨 机构紧盯多只CPO概念股",
+    "summary": "美股光通信板块逆势上涨，Coherent涨超3%，Lumentum、Ciena等涨超2%。近一个月A股CPO概念深度调整，但机构对光模块龙头的关注度居高不下。海外光通信供应链重估CPO商业化提速隔夜美股光通信板块逆势上涨，Coherent涨超3%，Lumentum、Ciena、Credo、康宁等涨超2%，带动AI光互连",
+    "change_pct": 2.64,
+    "cum_pct": -30.34,
+    "limit_up_count": 2,
+    "is_hot": true,
+    "is_new": false
+   },
+   {
+    "code": "00141",
+    "name": "6G概念",
+    "rank": 5,
+    "title": "政策利好+技术突破！6G产业化有望提速 融资客提前布局多股(名单)",
+    "summary": "工信部同意8省市开展6G创新发展部省协同试点，在核心技术领域也有好消息传来。机构认为，6G正从关键技术验证迈向标准研制与产业化准备，产业链有望迎来价值重估。6G创新发展部省协同试点名单公布11月17日，工信部办公厅发布复函，同意北京市、河北省、上海市、江苏省、浙江省、安徽省、湖北省、广东省8个省（市）开展6G创新发展部",
+    "change_pct": 0.39,
+    "cum_pct": -18.48,
+    "limit_up_count": 1,
+    "is_hot": false,
+    "is_new": false
+   }
+  ]
+ },
+ "lhb": {
+  "date": "2026-11-18",
+  "count": 82,
+  "org_count": 43,
+  "seat_count": 301,
+  "up": 37,
+  "down": 45,
+  "net_total": 984465196.6599996,
+  "stocks": [
+   {
+    "code": "688183",
+    "name": "生益电子",
+    "pct": 18.53,
+    "net": 367926100.0,
+    "turnover": 4.0,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "002916",
+    "name": "深南电路",
+    "pct": 10.0,
+    "net": 320144846.0,
+    "turnover": 2.07,
+    "board": "首板",
+    "org": 6
+   },
+   {
+    "code": "600410",
+    "name": "华胜天成",
+    "pct": 10.01,
+    "net": 298375075.72,
+    "turnover": 19.03,
+    "board": "4天3板",
+    "org": 0
+   },
+   {
+    "code": "300324",
+    "name": "旋极信息",
+    "pct": 20.0,
+    "net": 292947432.0,
+    "turnover": 18.51,
+    "board": "首板",
+    "org": 0
+   },
+   {
+    "code": "300857",
+    "name": "协创数据",
+    "pct": 18.02,
+    "net": -266807101.0,
+    "turnover": 9.1,
+    "board": "",
+    "org": 3
+   },
+   {
+    "code": "600839",
+    "name": "四川长虹",
+    "pct": 10.08,
+    "net": 250733734.0,
+    "turnover": 2.29,
+    "board": "首板",
+    "org": 1
+   },
+   {
+    "code": "002463",
+    "name": "沪电股份",
+    "pct": 10.0,
+    "net": 239688489.0,
+    "turnover": 5.42,
+    "board": "首板",
+    "org": 6
+   },
+   {
+    "code": "002931",
+    "name": "锋龙股份",
+    "pct": -7.35,
+    "net": 238142052.0,
+    "turnover": 13.84,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "002242",
+    "name": "九阳股份",
+    "pct": -9.99,
+    "net": -232687567.0,
+    "turnover": 23.14,
+    "board": "昨日首板",
+    "org": 1
+   },
+   {
+    "code": "688727",
+    "name": "恒坤新材",
+    "pct": -17.25,
+    "net": -223191300.0,
+    "turnover": 8.1,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "600408",
+    "name": "安泰集团",
+    "pct": 6.3,
+    "net": 155300927.96,
+    "turnover": 23.23,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "002584",
+    "name": "西陇科学",
+    "pct": -1.01,
+    "net": -136916579.0,
+    "turnover": 36.25,
+    "board": "昨日首板",
+    "org": 3
+   },
+   {
+    "code": "000995",
+    "name": "皇台酒业",
+    "pct": -5.38,
+    "net": 124024602.0,
+    "turnover": 29.83,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "000766",
+    "name": "通化金马",
+    "pct": -10.02,
+    "net": -90889212.0,
+    "turnover": 2.08,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "002425",
+    "name": "凯撒文化",
+    "pct": -9.89,
+    "net": -90711174.0,
+    "turnover": 34.07,
+    "board": "",
+    "org": 3
+   }
+  ]
+ },
+ "sources": {
+  "overview": "2026-11-18 15:05:36",
+  "snapshot_id": "sec-20261118150537-bf5658d2",
+  "qxzb": "",
+  "fry": "2026-11-19 01:04:52",
+  "lhb": "2026-11-19 00:56:27",
+  "blocks": "2026-11-18 17:18:06"
+ },
+ "degraded": [
+  "qxzb:status=stale"
+ ],
+ "drivers": [
+  {
+   "keyword": "算力租赁",
+   "count": 9,
+   "max_board": 1,
+   "generic": false,
+   "score": 9.5,
+   "stocks": [
+    {
+     "code": "301396",
+     "name": "宏景科技",
+     "board": 1
+    },
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    },
+    {
+     "code": "688316",
+     "name": "青云科技",
+     "board": 1
+    },
+    {
+     "code": "603629",
+     "name": "利通电子",
+     "board": 1
+    },
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 1
+    },
+    {
+     "code": "603220",
+     "name": "中贝通信",
+     "board": 1
+    },
+    {
+     "code": "002042",
+     "name": "华孚时尚",
+     "board": 1
+    },
+    {
+     "code": "603985",
+     "name": "恒润股份",
+     "board": 1
+    },
+    {
+     "code": "600186",
+     "name": "莲花控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "华为昇腾",
+   "count": 4,
+   "max_board": 2,
+   "generic": false,
+   "score": 5.0,
+   "stocks": [
+    {
+     "code": "301391",
+     "name": "卡莱特",
+     "board": 2
+    },
+    {
+     "code": "600410",
+     "name": "华胜天成",
+     "board": 2
+    },
+    {
+     "code": "002771",
+     "name": "真视通",
+     "board": 2
+    },
+    {
+     "code": "000158",
+     "name": "常山北明",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力",
+   "count": 4,
+   "max_board": 1,
+   "generic": false,
+   "score": 4.5,
+   "stocks": [
+    {
+     "code": "300324",
+     "name": "旋极信息",
+     "board": 1
+    },
+    {
+     "code": "000158",
+     "name": "常山北明",
+     "board": 1
+    },
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    },
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "商业航天",
+   "count": 3,
+   "max_board": 2,
+   "generic": false,
+   "score": 4.0,
+   "stocks": [
+    {
+     "code": "002843",
+     "name": "泰嘉股份",
+     "board": 2
+    },
+    {
+     "code": "300324",
+     "name": "旋极信息",
+     "board": 1
+    },
+    {
+     "code": "000410",
+     "name": "沈阳机床",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数据中心",
+   "count": 3,
+   "max_board": 1,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    },
+    {
+     "code": "600405",
+     "name": "动力源",
+     "board": 1
+    },
+    {
+     "code": "000815",
+     "name": "美利云",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "GPU芯片",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002685",
+     "name": "华东重机",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "港口装卸设备",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002685",
+     "name": "华东重机",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "定增注册",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002685",
+     "name": "华东重机",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "东数西算",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "board": 1
+    },
+    {
+     "code": "000815",
+     "name": "美利云",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "边缘AI算力",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智慧建筑",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "建筑装饰",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光刻胶",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "半导体附属装备",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "电子化学品",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI算力调度",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "301391",
+     "name": "卡莱特",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "LED显示控制",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "301391",
+     "name": "卡莱特",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI算力",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600410",
+     "name": "华胜天成",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力服务",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600410",
+     "name": "华胜天成",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "液冷算力",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002771",
+     "name": "真视通",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "多媒体视讯",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002771",
+     "name": "真视通",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "服务器电源",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002843",
+     "name": "泰嘉股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "锯切龙头",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002843",
+     "name": "泰嘉股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "氯化铵涨价",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "000707",
+     "name": "双环科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "联碱",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "000707",
+     "name": "双环科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "钠电池正极材料",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "000707",
+     "name": "双环科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "湖北国资",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "000707",
+     "name": "双环科技",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "推理算力",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "301396",
+     "name": "宏景科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "重组推进",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "麻纺",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "湖南国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600156",
+     "name": "华升股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "冰雪经济",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600336",
+     "name": "澳柯玛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "家用电器",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600336",
+     "name": "澳柯玛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "青岛国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600336",
+     "name": "澳柯玛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI芯片",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300324",
+     "name": "旋极信息",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "6G预研",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002194",
+     "name": "武汉凡谷",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "滤波器",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002194",
+     "name": "武汉凡谷",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "卫星通信",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002194",
+     "name": "武汉凡谷",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "半导体检测",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688757",
+     "name": "胜科纳米",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "先进存储",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688757",
+     "name": "胜科纳米",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光电子器件",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688757",
+     "name": "胜科纳米",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "CPO",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688757",
+     "name": "胜科纳米",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "PCB",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002463",
+     "name": "沪电股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "高速交换机",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002463",
+     "name": "沪电股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购增持",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002463",
+     "name": "沪电股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI应用",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000158",
+     "name": "常山北明",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "四足机器人",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002148",
+     "name": "北纬科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "物联网",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002148",
+     "name": "北纬科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "手机游戏",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002148",
+     "name": "北纬科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "7N高纯铟",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000711",
+     "name": "京蓝科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "铟资源循环",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000711",
+     "name": "京蓝科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "资产出售",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000711",
+     "name": "京蓝科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI教育",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002955",
+     "name": "鸿合科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智芯布局",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002955",
+     "name": "鸿合科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智能交互显示",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002955",
+     "name": "鸿合科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI算力PCB",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002916",
+     "name": "深南电路",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "封装基板",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002916",
+     "name": "深南电路",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "定增注册获批",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002916",
+     "name": "深南电路",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "Token工厂",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688316",
+     "name": "青云科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI算力云",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "688316",
+     "name": "青云科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "增持计划",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000010",
+     "name": "*ST美丽",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "面值退市保壳",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000010",
+     "name": "*ST美丽",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "工程施工",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000010",
+     "name": "*ST美丽",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力销售",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000889",
+     "name": "中嘉博创",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "通信网络维护",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000889",
+     "name": "中嘉博创",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "业绩扭亏",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000889",
+     "name": "中嘉博创",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "英伟达概念",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603629",
+     "name": "利通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "股份注销",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603629",
+     "name": "利通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "人形机器人",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002403",
+     "name": "爱仕达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "智元合作",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002403",
+     "name": "爱仕达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "工业机器人",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002403",
+     "name": "爱仕达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "家电",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600839",
+     "name": "四川长虹",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "出口",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600839",
+     "name": "四川长虹",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "四川国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600839",
+     "name": "四川长虹",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "金融科技",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "液冷",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002272",
+     "name": "川润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "定增扩产",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002272",
+     "name": "川润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "风电润滑",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002272",
+     "name": "川润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "华为概念",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002272",
+     "name": "川润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力运维",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600162",
+     "name": "香江控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "家居商贸",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600162",
+     "name": "香江控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "城市发展",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600162",
+     "name": "香江控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "词元出海",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力网络",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002929",
+     "name": "润建股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "6G",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603220",
+     "name": "中贝通信",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "光模块",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603220",
+     "name": "中贝通信",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "色纺纱",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002042",
+     "name": "华孚时尚",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "清洁电器代工",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "扫地机器人",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "家电出口",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603657",
+     "name": "春光科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "高速连接器",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300991",
+     "name": "创益通",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "存储互连",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300991",
+     "name": "创益通",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "聘任会计师事务所",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000980",
+     "name": "众泰汽车",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "汽车整车",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000980",
+     "name": "众泰汽车",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "高管增持",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000980",
+     "name": "众泰汽车",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "A0车型海外",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000980",
+     "name": "众泰汽车",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "工业母机",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000410",
+     "name": "沈阳机床",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI智算中心电源",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600405",
+     "name": "动力源",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "液冷超充",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600405",
+     "name": "动力源",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "风电轴承",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603985",
+     "name": "恒润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "类ABF膜",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600186",
+     "name": "莲花控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "调味品",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600186",
+     "name": "莲花控股",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报增长",
+   "count": 2,
+   "max_board": 1,
+   "generic": true,
+   "score": 1.2,
+   "stocks": [
+    {
+     "code": "301396",
+     "name": "宏景科技",
+     "board": 1
+    },
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "央企",
+   "count": 2,
+   "max_board": 1,
+   "generic": true,
+   "score": 1.2,
+   "stocks": [
+    {
+     "code": "000410",
+     "name": "沈阳机床",
+     "board": 1
+    },
+    {
+     "code": "000815",
+     "name": "美利云",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "603220",
+     "name": "中贝通信",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购注销",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "002042",
+     "name": "华孚时尚",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "国企改革",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "603985",
+     "name": "恒润股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  }
+ ],
+ "driver_coverage": {
+  "pool": 42,
+  "hit_same_day": 41,
+  "hit_any": 42,
+  "stale_skipped": 1,
+  "no_record": 0,
+  "rate": 97.6
+ },
+ "reason_records": [
+  {
+   "code": "002685",
+   "name": "华东重机",
+   "board": 4,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "GPU芯片",
+    "港口装卸设备",
+    "定增注册"
+   ],
+   "reason": "1、据2026年11月16日公告，公司2026年度以简易程序向特定对象发行股票事项已向中国证监会提交注册，募集资金总额2.92亿元，扣除发行费用后拟全部用于“华东重机智能制造基地项目”。\n2、据2026年11月6日募集说明书，公司2024年10月收购厦门锐信图芯科技有限公司，拓展芯片设计及解决方案业务，锐信图芯已实现GPU芯片批量供货，第一代产品瞄准国内信创市场及特种工业应用场景。\n3、据2026年10月29日三季报，公司前三季度营收9.43亿元，同比增长55.86%；归母净利润6325.79万元，同比增长58.11%，港机业务在手订单储备充足，市场占有率稳步提升。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603030",
+   "name": "全筑股份",
+   "board": 2,
+   "sec_plates": [
+    "光刻机（胶）"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "边缘AI算力",
+    "智慧建筑",
+    "建筑装饰"
+   ],
+   "reason": "1、据2026年8月26日半年度报告，公司成立云阙智算苏州物联科技有限公司，基于分布式数字与AI原生服务平台，聚焦数据产生端，推动分布式边缘AI算力服务及应用，目前业务尚处于早期试点培育阶段。\n2、据2026年8月26日半年度报告，公司依托与同济大学共建的人工智能联合实验室，提供智慧建造、智慧建筑、智慧园区、智慧康养系统化解决方案。\n3、据2026年8月26日半年度报告，公司深耕建筑装饰领域，业务覆盖创意设计、工程施工、智能制造及全域运营，提供城市建设全链条解决方案。\n4、据2026年10月30日三季报，公司前三季度营收8.51亿元，同比增长28.26%；归母净利润-1309.57万元，亏损同比缩小85.45%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603324",
+   "name": "盛剑科技",
+   "board": 2,
+   "sec_plates": [
+    "光刻机（胶）"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光刻胶",
+    "半导体附属装备",
+    "电子化学品"
+   ],
+   "reason": "1、据2026年11月18日报道，“光刻强基”先进技术及产业应用研讨会于11月18日至20日在湖北宜昌举行；据2025年年度报告，公司电子化学品材料主要包括光刻胶剥离液、蚀刻液、清洗液等，下游应用领域包括集成电路、半导体显示等。\n2、据2026年8月28日半年度报告，公司半导体附属装备及核心零部件作为核心战略业务之一，已逐步完成工艺废气处理设备、真空设备和温控设备的国产化研制，产品包括Local Scrubber、Local VOC、真空设备、温控设备等。\n3、据2026年11月17日投资者关系活动记录表，公司2026年第三季度营业收入34,024.15万元，同比增长33.64%，主要系本报告期部分较大项目达到收入确认条件。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301391",
+   "name": "卡莱特",
+   "board": 2,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "华为昇腾",
+    "AI算力调度",
+    "LED显示控制"
+   ],
+   "reason": "行业原因：\n据界面新闻11月17日报道，美商务部BIS发布临时最终规则，限制全球数据中心向受限制国家企业提供先进AI算力，花旗报告指出新规将迫使更多算力需求转向国产芯片，利好本土晶圆代工、封测、AI芯片设计及半导体设备供应商。\n公司原因：\n1、据2026年8月15日半年报，公司通过络书智算探索AI算力调度优化方向，基于四层架构适配昇腾生态打造算力调度平台，可统一纳管384超节点集群，支持异构异地算力统一纳管，适用于大模型训练推理、科研教学等场景。\n2、据2026年4月29日年报，公司为LED显示控制领域头部企业，自主掌握超高清显示、低延迟传输、高精度色彩校正等核心技术，已与利亚德、洲明科技、强力巨彩、艾比森等国内LED显示行业龙头厂商建立长期稳定合作。\n3、据2026年10月30日回购股份报告书，公司拟以不低于5000万元、不超过1亿元回购股份用于股权激励及员工持股计划，回购价格不超过63.42元/股。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600410",
+   "name": "华胜天成",
+   "board": 2,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "华为昇腾",
+    "AI算力",
+    "算力服务"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2023年9月28日官网新闻，公司作为华为重要合作伙伴亮相华为全联接大会，与华为携手鲲鹏、昇腾共同助力人工智能领域发展，此前双方共同参与多个省市智算中心规划建设项目。\n2、据2026年8月27日半年度报告，公司围绕智算中心建设运维，提供智能算力规划部署、运维托管等全周期解决方案，持续推进与MiniMax等头部大模型企业业务对接，围绕算力供给调度、模型训推性能调优、算力载体共建推进商务磋商。\n3、据2026年10月30日三季报，公司前三季度营收38.33亿元，同比增长20.83%，本报告期营业收入同比增加46.36%，主要系海内外业务在算力建设、算力服务、算力相关产品销售及AI智能体行业应用方面大幅增长所致。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002771",
+   "name": "真视通",
+   "board": 2,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "液冷算力",
+    "华为昇腾",
+    "多媒体视讯"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月17日财闻报道，华为昇腾云已覆盖80%中国具身智能企业，华为算力概念局部异动，公司当日涨停；据2026年8月27日半年度报告，公司深度联动航源光热，将泵驱两相冷板液冷技术应用于智算中心散热，可将PUE控制在1.1左右，并与航源光热、广电五舟联合研发支持8张600W液冷显卡的两相液冷高效散热服务器。\n2、据2026年5月18日互动易，公司两相液冷技术已在项目中应用，签约用户包括马栏山智算、广西北投、甘肃福彩、南昌电信、南通智算等，其中部分项目已交付验收，为客户提供智算中心制冷全生命周期解决方案。\n3、据2026年4月9日年度报告，公司主营多媒体视讯综合解决方案，全系产品自主研发并支持国产化，长期服务财政部、农业农村部等国务院部委及中石油、国家电网等中央企业客户。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002843",
+   "name": "泰嘉股份",
+   "board": 2,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "服务器电源",
+    "锯切龙头",
+    "商业航天"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年9月3日投资者关系活动记录表，公司包含少部分数据中心电源业务，主要为客户代工服务器电源模块产品。经统计，该业务 2025 年度实现营收约 3069 万元，占公司营业收入比重约 2.01%。\n2、据2025年8月5日公告，公司系中国航天中国运载火箭技术研究院认可的硬质合金带锯条合格供应商。\n3、据2026年8月22日半年报，公司锯切业务为锯切行业细分领域领军企业，双金属带锯条销量国内第一、全球前三。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000707",
+   "name": "双环科技",
+   "board": 2,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "氯化铵涨价",
+    "联碱",
+    "钠电池正极材料",
+    "湖北国资"
+   ],
+   "reason": "1、据证券时报网2026年11月16日报道，截至11月16日氯化铵工业级730元/吨创年内新高，上周山东、河北干铵主流价格升至720元/吨，周内大涨80元/吨，涨幅达12.5%，联碱上市公司业绩弹性开始显现；据中证网2026年11月17日报道，公司回应已关注到氯化铵上涨信息，产品价格上涨对公司是利好。\n2、据2026年4月29日年报，公司主要生产与销售纯碱、氯化铵及其他化工产品，2025年生产纯碱119.21万吨、氯化铵125.97万吨，地处九省通衢区域并配有铁路专用线，物流成本优势明显。\n3、据2026年7月10日业绩说明会，公司钠电池正极材料中试样品制备的电芯循环次数、容量、续航里程基本符合二轮车厂家需求，生产成本还需优化降低并需大批量试用测试。\n4、据公司披露，公司最终控制人为湖北省人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301396",
+   "name": "宏景科技",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "推理算力",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年8月29日半年度报告，公司依托算力供应链和智算资源池，提供GPU硬件采购、集算力组网一体化解决方案，服务大模型训练、推理等场景。\n2、据2026年10月28日投资者关系活动记录表，公司将进一步向推理优化、token供应等方面发展；据2026年9月8日互动易，公司已构建统一、弹性、可编排的算力底座，为拓展推理优化、Token相关新型业务打下基础。\n3、据2026年10月26日三季报，公司前三季度营业收入28.72亿元，同比增长181.17%；归母净利润3.12亿元，同比增长189.93%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600156",
+   "name": "华升股份",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "重组推进",
+    "麻纺",
+    "湖南国资"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年10月1日公告，公司拟发行股份及支付现金购买易信科技97.40%股份，标的主营绿色智算中心建设运营及算力租赁服务；据2026年11月3日互动易，因标的财务资料过有效期需更新，公司正加快推进资料更新并报送交易所。\n2、据2026年10月12日互动易，公司拟在保持纺织服装业务稳定经营的同时，重点培育算力业务作为新的业务增长引擎，算力事业部目前运行正常。\n3、据2025年年度报告，公司具备从纺纱、织造、染整到终端产品开发销售的全产业链布局，拥有专利54项，参与制定国家标准4项、行业标准1项。\n4、据2026年10月28日三季报，公司前三季度营收4.27亿元，同比下降35.00%；归母净利润亏损3638.54万元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600336",
+   "name": "澳柯玛",
+   "board": 1,
+   "sec_plates": [
+    "家电"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "冰雪经济",
+    "家用电器",
+    "青岛国资"
+   ],
+   "reason": "行业原因：\n1、九阳股份昨日上演地天板，今日早盘再度触及涨停，近33个交易日累计上涨269%。\n2、海关总署数据显示，2026年10月，我国家用电器出口4.02亿台，同比增长14.1%；出口金额89.56亿美元，同比增长20.9%。国金证券研报认为，10月家电出口延续较快增长，累计增速进一步抬升。\n公司原因：\n1、据2026年11月18日报道，冰雪产业板块短线拉升，澳柯玛涨停；据2025年半年度报告，公司已构建家庭冷链、商用冷链、冷库存储、冷链运输、自动零售、生物医疗全冷链产业布局，推出智能无人零售展示柜等产品。\n2、据2025年年度报告，公司冷柜产品连续多年获国内冷柜品牌口碑榜冠军，商用产品国内市场占有率稳居前列，冷藏冷冻陈列展示柜获工信部制造业单项冠军产品。\n3、据2025年年度报告，公司控股股东为青岛澳柯玛控股集团，最终控制人为青岛市人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300324",
+   "name": "旋极信息",
+   "board": 1,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI芯片",
+    "算力",
+    "商业航天"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月2日互动易，公司参股的旋极星源、芯北电子、曲速科技均有量产芯片产品，旋极星源已面向市场设计并量产超过200款芯片及IP，曲速科技2025年上市了针对大模型加速TGU系列推理芯片。\n2、据2026年8月22日半年报，子公司泰豪智能重点布局算力中心机电工程EPC总承包，已承建万国数据、合盈数据、中联数据等国内主流第三方IDC运营商40余个大型、超大型算力中心工程。\n3、据2024年5月9日互动易，公司在航天领域主要为航天工程提供测试验证工具和服务，从载人航天一期工程、二期工程到空间站建站均提供大量测试验证工具和服务。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002194",
+   "name": "武汉凡谷",
+   "board": 1,
+   "sec_plates": [
+    "6G"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "6G预研",
+    "滤波器",
+    "卫星通信"
+   ],
+   "reason": "行业原因：\n据央视网11月17日报道，工业和信息化部复函同意北京市、河北省、上海市、江苏省、浙江省、安徽省、湖北省、广东省8个省开展6G创新发展部省协同试点工作，统筹推进6G技术创新、产业发展和应用培育。据证券时报11月18日报道，试点省市将围绕新型终端、关键器件、操作系统、卫星互联网等6G关联产业，面向沉浸式通信、工业制造、具身智能、低空经济等潜在场景探索应用，推动形成全国6G创新\"一盘棋\"格局。\n公司原因：\n1、据2026年11月17日盘后工信部复函，同意北京、湖北等8省开展6G创新发展部省协同试点；据2026年4月29日年报，公司持续开展5G-A、6G技术储备及研究工作。\n2、据2026年8月26日半年报，公司聚焦射频滤波器业务，拥有金属及陶瓷滤波器完整产业链，服务华为、爱立信、诺基亚等客户。\n3、据2026年7月9日互动易，公司生产的大功率微波滤波器销售给下游模块制造商，并应用于低轨卫星，但目前涉及合同金额较小，对当期业绩不产生重大影响。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "688757",
+   "name": "胜科纳米",
+   "board": 1,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "半导体检测",
+    "先进存储",
+    "光电子器件",
+    "CPO"
+   ],
+   "reason": "行业原因：\n1、英伟达2027财年第三财季营收1158.44亿美元同比增长103%，净利润652.87亿美元同比增长105%，第四财季营收指引约1300亿美元高于预期，摩根大通同日将英伟达目标价从215美元上调至230美元。\n2、英伟达表示，Vera Rubin NVL72已开始出货，为史上爬坡最快产品。\n公司原因：\n1、据2026年11月2日投资者关系活动表，公司作为半导体检测分析实验室，已与行业龙头在先进存储芯片建立稳定合作，今年前三季度来自先进存储的收入大幅增长。\n2、据2026年11月2日投资者关系活动表，在光电子器件领域，伴随光芯片、光模块等下游市场持续扩容，公司与行业头部客户合作持续深化，今年前三季度来自光电子器件相关收入较历史年度实现较大幅度增长。\n3、据2026年5月22日互动易，公司具备光器件检测分析能力，掌握CPO、光引擎、VCSEL、DFB器件等的样品制备方法以及检测方法，2025年公司光器件领域检测业务收入约2,000万元。\n4、据2026年10月24日三季报，公司前三季度营收4.80亿元，同比增长24.34%，主要系紧抓先进逻辑芯片、光通信、存储芯片、人工智能等新兴产业发展机遇，核心客户订单规模显著增长。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002463",
+   "name": "沪电股份",
+   "board": 1,
+   "sec_plates": [
+    "PCB板"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "PCB",
+    "高速交换机",
+    "回购增持"
+   ],
+   "reason": "行业原因：\n美东时间17日美股盘后，英伟达公布超预期财报。英伟达表示，Vera Rubin NVL72已经开始出货，是公司历史上爬坡速度最快的产品，相关机架已在CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure和Nebius等合作伙伴处运行，并即将在SpaceXSI上线。\n公司原因：\n1、据2026年11月9日投资者关系活动记录表，公司数据通讯应用领域PCB持续成长，高速网络交换机及配套路由是增长最强劲的应用领域，适配224Gbps传输速率的核心产品已小批量供货，应用于1.6T交换机的产品已批量出货。\n2、据2026年11月10日公告，公司拟以集中竞价方式回购股份，资金总额不低于5亿元且不超过10亿元；据同日公告，实际控制人吴礼淦家族控制的合拍友联拟6个月内增持不低于2000万元且不超过3000万元。\n3、据2026年10月28日三季报，公司前三季度营收232.25亿元，同比增长71.88%；归母净利润56.22亿元，同比增长106.87%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000158",
+   "name": "常山北明",
+   "board": 1,
+   "sec_plates": [
+    "人工智能大模型",
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "华为昇腾",
+    "算力",
+    "AI应用"
+   ],
+   "reason": "行业原因：\n据界面新闻11月17日报道，美商务部BIS发布临时最终规则，限制全球数据中心向受限制国家企业提供先进AI算力，花旗报告指出新规将迫使更多算力需求转向国产芯片，利好本土晶圆代工、封测、AI芯片设计及半导体设备供应商。\n公司原因：\n1、据2026年8月29日半年度报告，公司是华为核心战略合作伙伴，共建鲲鹏、昇腾AI产业生态，累计形成百余项联合解决方案。\n2、据2026年8月29日半年度报告，子公司北明软件为华为多产品钻石级经销商、华为云核心级解决方案提供商，围绕智慧城市、金融、能源等领域联合打造行业方案。\n3、据2026年8月21日互动易，常山云数据中心已开展算力业务，对外提供人工智能大模型算力服务，成为石家庄市首家“词元工厂”。\n4、据2026年10月28日三季报，公司前三季度营收53.07亿元，同比增长3.57%，归母净利润-1.55亿元，亏损同比缩小0.40%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002148",
+   "name": "北纬科技",
+   "board": 1,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "四足机器人",
+    "物联网",
+    "手机游戏"
+   ],
+   "reason": "1、据2026年11月13日股票交易异常波动公告，公司前期披露信息不存在需更正补充之处；据2026年11月13日报道，公司联营企业天宇经纬相关产品可适配多种负载，在艰难路面、崎岖地形等环境下代替人力完成搜寻、攀爬、负重等任务，形成地空协同作业模式。\n2、据2026年8月20日半年报，公司物联网业务聚焦高价值垂直行业，围绕测绘、自动驾驶、新能源、流媒体传输、应急通信等领域落地标杆项目，并持续升级多网通产品矩阵与专属解决方案；公司持有天宇经纬30.33%股权。\n3、据2026年9月3日互动易，公司自研AIOT平台具备多网智能切换、全生命周期管理等12项核心功能，为新能源车企、机器人、广告传媒等行业客户提供服务。\n4、据2026年11月13日报道，公司手机游戏业务深耕研运一体生态，模拟建设类游戏保持稳健经营，旗下小游戏连续多月进入微信小游戏畅销榜TOP100。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000711",
+   "name": "京蓝科技",
+   "board": 1,
+   "sec_plates": [
+    "ST摘帽"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "7N高纯铟",
+    "铟资源循环",
+    "资产出售"
+   ],
+   "reason": "1、据证券时报2026年11月16日报道，近日，京蓝科技禄丰产业园区勤丰片区铟靶新材二期生产线成功试产出7N级高纯铟产品。依托国内首次产业化落地的高纯铟提纯新技术，此次试产出的7N级高纯铟产品纯度达到99.99999%，杂质总含量不超过千万分之一。\n2、据2026年8月20日半年报，公司聚焦稀有金属铟资源化循环，核心经营主体持有危险废物经营许可证等资质，精铟产销量初具规模，在国内精铟行业中占据一定市场地位。\n3、据2026年11月12日公告，公司以公开网络拍卖方式转让中科鼎实77.7152%股权及相关债权，若成交将剥离持续亏损业务，聚焦铟产业链核心主业。\n4、据2026年10月23日三季报，公司前三季度营收7.73亿元，同比增长133.27%；归母净利润1.02亿元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002955",
+   "name": "鸿合科技",
+   "board": 1,
+   "sec_plates": [
+    "人工智能大模型",
+    "AI大模型/智能体"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI教育",
+    "智芯布局",
+    "智能交互显示"
+   ],
+   "reason": "1、据2026年9月23日路演活动，公司制定2027—2029年“1323”战略，以智显为基、智车为擎、智芯为核，坚持内生提质与外延并购双轮驱动，已成立专门的半导体公司推进智芯布局。\n2、据2026年8月26日半年度报告，公司推出搭载15T算力平台的AI智慧屏，构建覆盖教育全场景的人工智能产品体系，累计为K12教室提供约460万台交互显示设备，在中国IFPD教育市场品牌份额排名前二。\n3、据2026年8月26日半年度报告，公司拥有海外交互显示品牌Newline及全球销售服务网络，商用显示产品覆盖智能会议、商业零售、政务服务等领域。\n4、据2026年10月30日三季报，公司前三季度营收23.54亿元，同比下降4.18%；归母净利润3012.06万元，同比下降63.40%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002916",
+   "name": "深南电路",
+   "board": 1,
+   "sec_plates": [
+    "PCB板"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI算力PCB",
+    "封装基板",
+    "定增注册获批"
+   ],
+   "reason": "行业原因：\n美东时间17日美股盘后，英伟达公布超预期财报。英伟达表示，Vera Rubin NVL72已经开始出货，是公司历史上爬坡速度最快的产品，相关机架已在CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure和Nebius等合作伙伴处运行，并即将在SpaceXSI上线。\n公司原因：\n1、据2026年11月6日投资者关系活动记录表，AI服务器、高速交换机、光模块及处理器类载板等产品订单饱满，工厂综合产能利用率处于高位；据2026年11月3日互动易，公司现有AI算力PCB产品订单饱满，核心客户产能需求意向明确。\n2、据2026年11月9日公告，公司向特定对象发行股票申请获证监会同意注册批复，拟募资不超过43.67亿元投建无锡AI算力电子电路产品项目及补充流动资金。\n3、据2026年11月6日投资者关系活动记录表，公司封装基板覆盖存储类等产品，FC-BGA类已具备26层及以下产品批量生产能力，30层及以上研发打样按期推进。\n4、据2026年10月23日三季报，公司前三季度营收257.74亿元，同比增长53.84%；归母净利润41.29亿元，同比增长77.54%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "688316",
+   "name": "青云科技",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "Token工厂",
+    "AI算力云"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月3日官微，公司旗下基石智算在京津冀集成电路专场沙龙完成项目签约，推进异构算力与国产芯片协同适配，打通硬件纳管、算力调度到企业级Token工厂、Agent智能体平台的全栈链路。\n2、据2026年8月28日半年报，公司面向智算中心推出多元异构算力统一调度智算平台及AI算力云服务，AI智算产品已在金融、高校科研、自动驾驶、具身智能等多行业落地。\n3、据2026年10月30日三季报，公司前三季度营收1.27亿元，同比下降22.71%，归母净利润亏损4407万元，亏损同比缩小11.84%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000010",
+   "name": "*ST美丽",
+   "board": 1,
+   "sec_plates": [
+    "ST股"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "增持计划",
+    "面值退市保壳",
+    "工程施工"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月18日公告，公司第一大股东深圳宝立盛实业发展合伙企业及其一致行动人郑财计划自公告披露之日起6个月内增持公司股份，增持金额不低于5000万元且不超过8000万元。\n2、据2026年11月17日公告，公司股票2026年11月16日收盘价为0.95元/股，低于1元，存在可能因股价低于面值被终止上市的风险；公司2025年度财务报告被出具无法表示意见的审计报告，股票已被实施退市风险警示。\n3、据2026年8月29日半年报，公司主要从事建筑工程施工及相关配套业务，持续推进精细化管理并探索建筑施工与新能源工程、绿色建筑、数字化管理等方向融合发展。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000889",
+   "name": "中嘉博创",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力销售",
+    "通信网络维护",
+    "业绩扭亏"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2025年半年度报告，子公司海南博创云天科技有限公司主营算力销售业务，当日算力题材为市场热点方向之一。\n2、据2025年年度报告，公司主营信息智能传输和通信网络维护两大业务，通信网络维护服务于三大运营商及中国铁塔，企业短信业务处于国内第一梯队。\n3、据2026年10月30日三季报，公司前三季度营收10.79亿元，同比下降9.02%，归母净利润1.24亿元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603629",
+   "name": "利通电子",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "英伟达概念",
+    "股份注销"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月18日互动易，公司回应外媒报道不属实，算力资源均通过合法合规商业渠道获取，目前供应链稳定，各项算力业务有序推进；据2026年11月18日证券时报网报道，算力租赁概念表现活跃。\n2、据2026年10月15日业绩说明会，公司目前有新增算力租赁订单交付，存量算力均签订长期订单且正常执行；据2026年11月11日互动易，中卫智算中心建设依托于长协订单，结合客户需求、供应链安排统筹规划建设。\n3、据2026年4月28日年报，公司用于经营的AI算力资源已达38,000P以上，与NVIDIA、超聚变等GPU服务器制造商建立战略合作关系；据2026年11月2日互动易，公司可为头部互联网企业、AI大模型企业提供全生命周期管理的综合性算力服务。\n4、据2026年11月18日公告，公司拟将回购专用证券账户内130万股A股股份用途变更为注销并减少注册资本，基于对公司未来持续稳定发展的信心。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002403",
+   "name": "爱仕达",
+   "board": 1,
+   "sec_plates": [
+    "家电"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "人形机器人",
+    "智元合作",
+    "工业机器人"
+   ],
+   "reason": "1、据2026年9月2日投资者关系活动记录表，公司与智元机器人合作以四足机器狗委托制造为核心起点，产线筹建按计划推进，首个产品有望2026年第四季度下线，后续计划逐步切入人形和四足机器人零部件供应链。\n2、据2026年8月26日半年报，2026年上半年机器人板块主营收入1.65亿元，同比上升23.02%，工业机器人聚焦本体研发、生产和销售，在智能焊接细分市场保持领先。\n3、据2026年9月21日互动易，截至2026年6月30日，公司机器人业务占比约12.2%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600839",
+   "name": "四川长虹",
+   "board": 1,
+   "sec_plates": [
+    "家电"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "家电",
+    "出口",
+    "四川国资"
+   ],
+   "reason": "行业原因：\n1、九阳股份昨日上演地天板，今日早盘再度触及涨停，近33个交易日累计上涨269%。\n2、海关总署数据显示，2026年10月，我国家用电器出口4.02亿台，同比增长14.1%；出口金额89.56亿美元，同比增长20.9%。国金证券研报认为，10月家电出口延续较快增长，累计增速进一步抬升。\n公司原因：\n1、据2026年半年报，公司主营电视机、冰箱、空调等家电产品生产销售。公司海外业务占比持续提升。\n2、据2026年7月1日互动易，公司云帆AI大模型为家电领域首个通过国家备案的大模型，已应用于电视实现AI TV转化，并持续完善AI家电矩阵。\n3、据2026年半年报，公司控股股东为四川长虹电子控股集团有限公司，最终控制人为绵阳市国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002197",
+   "name": "证通电子",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力",
+    "数据中心",
+    "金融科技"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年9月3日投资者关系活动记录表，公司积极推动从IDC运营商到AIDC+算力运营商升级，对现有数据中心通用算力机房进行液冷改造，依托自有数据中心构建AIDC+算力业务模式，建设智算算力池满足AI训练、推理及渲染算力需求。\n2、据2026年8月29日半年报，公司聚焦IDC及云计算、金融科技双主业，IDC数据中心多为批发型高等级金融数据中心，客户涵盖金融客户、中大型互联网公司及三大通信运营商。\n3、据2026年9月3日投资者关系活动记录表，2026年上半年公司金融科技业务收入1.23亿元，同比增长88.92%，其中海外业务收入8868.67万元，同比增长239.54%，毛利率达48.13%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002272",
+   "name": "川润股份",
+   "board": 1,
+   "sec_plates": [
+    "液冷服务器"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "液冷",
+    "定增扩产",
+    "风电润滑",
+    "华为概念"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年8月26日半年报及2026年9月11日投资者关系活动记录表，公司聚焦“算力液冷+绿色能源”战略，构建冷板式与浸没式双技术路线全栈液冷产品体系，覆盖CDU、冷板、Manifold、快插接头、干冷器等核心部件及整机系统，PUE可低至1.05，已批量为维谛技术及海外终端客户供货，并成为国际知名Colo商合格供方；2026年半年报液冷系统及产品营收1.09亿元，同比增长38.16%。\n2、据2026年9月29日公告，公司2026年度向特定对象发行A股股票预案已获深交所受理，拟募资不超过5.15亿元用于液冷系统扩能及关键零部件产业化建设，突破产能瓶颈并实现关键零部件自主可控。\n3、据2026年8月13日募集说明书，公司为风电润滑冷却细分领域龙头之一，市场占有率较高，覆盖上海电气、远景能源、金风科技、明阳智能等风电整机龙头。\n4、据24年10月21日互动易，公司与华夏鲲鹏主要在研发设计、生产制造、销售拓展、运营维护等方面展开能力互补和资源共享，共同推进数字能源、智慧城市和清洁能源产业的发展。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600162",
+   "name": "香江控股",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力运维",
+    "家居商贸",
+    "城市发展"
+   ],
+   "reason": "1、据2026年11月16日互动易，公司已按照签订的算力技术服务合同积极履行服务义务，收到交付确认单后将确认相关收入。\n2、据2026年9月28日互动易，全资子公司广州市香江云瀚科技有限公司经营范围已包含大数据服务、数据处理和存储支持服务等。\n3、据2026年8月27日半年度报告，公司构建家居商贸与城市发展双核心业务布局，运营商贸及家居综合体近180万平方米，与逾6000家知名品牌建立长期合作。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603887",
+   "name": "城地香江",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力",
+    "东数西算",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年4月21日年度报告，公司提供包含数据中心产品、集成、投资及运营在内的全产业链服务，覆盖设备研发生产销售、工程总承包集成、项目投资、租赁及运营等全环节。\n2、据2026年5月8日年度股东会会议资料，公司锚准国家“东数西算”八大枢纽节点布局战略，考虑继续布局自建、自持、自营的超大型、高标准、绿色低碳智算中心业务。\n3、据2026年10月31日第三季度报告，公司前三季度营收22.73亿元，同比增长32.57%；归母净利润961.02万元，同比增长236.84%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002929",
+   "name": "润建股份",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "词元出海",
+    "算力网络",
+    "算力租赁"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月18日互动易，公司词元出海业务算力部署于国内五象云谷智算中心、境外客户跨境调用词元服务，不受美国限制东南亚算力中心建设租赁规则影响，目前客户需求良好，正持续拓展客户、洽谈业务。\n2、据2026年11月17日投资者关系活动记录表，2026年前三季度算力网络业务同比增长超过120%，收入占公司整体营收比重超过20%；公司采购渠道多样化可保障算力需求，除自有算力外也可通过向合作伙伴租赁等方式满足需求。\n3、据2026年10月21日投资者关系活动记录表，公司确立“Token为核、绿算协同、智维百业”发展战略，依托南宁国际通信出入口局区位优势推动Token产能跨境流通，构建面向全球的AI算力服务通道。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603220",
+   "name": "中贝通信",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "6G",
+    "光模块",
+    "回购"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年11月17日公告，公司取得金融机构回购专项贷款承诺函，回购总金额不超过1亿元，用于员工持股计划或股权激励及维护公司价值；据2026年11月18日报道，工信部同意8省市开展6G创新发展部省协同试点，公司设6G研究院开展6G前沿技术研究。\n2、据2026年7月9日互动易，截至2025年年报披露日公司总运营算力规模超22,000P，算力使用率接近100%，2025年智算业务收入6.20亿元，同比增长130.38%。\n3、据2026年4月23日年报，公司面向800G、1.6T光模块的高端光学组件实现规模化量产，配套智算中心建设的MPO光连接线保持持续批量供货。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002042",
+   "name": "华孚时尚",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "色纺纱",
+    "回购注销"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年9月17日互动易，公司上虞AIGC智算中心一期正常运营，客户包括云厂、运营商、高校及科研院所等；据2026年9月17日业绩说明会，项目处于满租状态。\n2、据2025年4月29日年报，公司为全球最大的色纺纱制造商和供应商之一，纱线产能206万锭、年产29万吨新型纱线，生产基地覆盖中国东部和新疆等地。\n3、据2026年11月6日公告，公司拟将2024年期已回购股份中剩余未出售的23,521,171股用途变更为注销并减少注册资本，同时提前终止出售尚未出售的23,118,000股。\n4、据2026年10月29日三季报，公司前三季度营收56.16亿元，同比下降2.57%；归母净利润2.07亿元，同比增长295.44%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603657",
+   "name": "春光科技",
+   "board": 1,
+   "sec_plates": [
+    "家电"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "清洁电器代工",
+    "扫地机器人",
+    "家电出口"
+   ],
+   "reason": "行业原因：\n1、九阳股份昨日上演地天板，今日早盘再度触及涨停，近33个交易日累计上涨269%。\n2、海关总署数据显示，2026年10月，我国家用电器出口4.02亿台，同比增长14.1%；出口金额89.56亿美元，同比增长20.9%。国金证券研报认为，10月家电出口延续较快增长，累计增速进一步抬升。\n公司原因：\n1、据2026年4月28日年报，公司主营清洁电器整机ODM/OEM及软管、配件，产品应用于吸尘器等清洁电器领域。\n2、据2024年3月19日互动易，公司吸尘器整机代工业务产品包括手持吸尘器、洗地机、扫地机器人等。\n3、据2026年8月22日发行保荐书，公司拟募资不超4.92亿元用于年产清洁电器制品800万台新建项目一期及补充流动资金。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300991",
+   "name": "创益通",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "高速连接器",
+    "存储互连"
+   ],
+   "reason": "行业原因：\n1、英伟达2027财年第三财季营收1158.44亿美元同比增长103%，净利润652.87亿美元同比增长105%，第四财季营收指引约1300亿美元高于预期，摩根大通同日将英伟达目标价从215美元上调至230美元。\n2、英伟达表示，Vera Rubin NVL72已开始出货，为史上爬坡最快产品。\n公司原因：\n1、据2026年10月20日募集说明书申报稿，公司已具备56Gbps高速数据通讯连接器量产能力，112Gbps规格实现小批量交付，募投项目推动产品向224Gbps及以上迭代，相关产品应用于数据中心和AI服务器。\n2、据2026年半年报，公司产品按照应用领域主要包括数据存储互连产品及组件、消费电子互连产品及组件、高速数据通讯产品及组件、新能源精密连接器及结构件等。公司在数据存储领域达到国际一流厂商技术水平。\n3、据2026年半年报，目前，公司与晟碟半导体、长电科技、莫仕、中航光电、小米、安克创新、宜丽客、星际悦动、宁德时代、欣旺达、孚能等国内外知名公司建立了长期稳定的合作关系。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000980",
+   "name": "众泰汽车",
+   "board": 1,
+   "sec_plates": [
+    "新能源汽车"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "聘任会计师事务所",
+    "汽车整车",
+    "高管增持",
+    "A0车型海外"
+   ],
+   "reason": "1、据2026年11月18日临时股东会决议公告，公司当日披露2026年第五次临时股东会决议，审议通过聘任会计师事务所等议案。\n2、据大事提醒，2026年11月10日至16日，董事长韩必文及李彦、严敏霞、王猛等高管合计增持63.2万股，成交均价1.58元至1.68元。\n3、据2026年9月10日股票交易异常波动公告，公司全力推进整车板块复工复产，全新A0级车型已进入批量试制阶段，主要面向海外市场，截至目前尚未形成销售。\n4、据2026年10月30日三季报，公司前三季度营收2.96亿元，同比下降29.31%；归母净利润1681.33万元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000410",
+   "name": "沈阳机床",
+   "board": 1,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "工业母机",
+    "商业航天",
+    "央企"
+   ],
+   "reason": "1、据2026年9月11日投资者关系管理信息，公司立足工业母机产业定位，聚焦高端化突破、成套工艺解决方案三大主攻方向；据2026年8月29日半年报，公司产品门类齐全，具备提供成套设备和整体解决方案的能力，是央企唯一机床上市公司。\n2、据2025年1月14日公告，子公司中捷航空航天是国内极少数专注于航空、航天领域的高端五轴数控机床企业，产品面向航空航天等高端装备制造领域。\n3、据2026年11月17日公告，全资子公司沈阳机床中捷友谊厂有限公司收到与收益相关的政府补助资金共计222万元，占公司最近一期经审计归属于上市公司股东净利润的23.15%。\n4、据2026年8月29日半年报，公司控股股东为中国通用技术集团控股有限责任公司，实际控制人为国务院国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600405",
+   "name": "动力源",
+   "board": 1,
+   "sec_plates": [
+    "液冷服务器"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI智算中心电源",
+    "数据中心",
+    "液冷超充"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年6月1日互动易，公司数据中心业务提供240V/336V高压直流供电系统及整机柜服务器集中供电方案，全面适配AI智算中心高功率、高效率、高可靠供电需求。\n2、据2026年6月1日互动易，公司充换电业务已构建光储充放换+V2G一体化综合能源解决方案，提供全液冷兆瓦级超充系统、交直流充电桩等产品。\n3、据2026年10月30日三季报，公司前三季度营收3.63亿元，同比增长22.89%，归母净利润亏损7326.73万元，亏损同比缩小52.86%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603985",
+   "name": "恒润股份",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "风电轴承",
+    "国企改革"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年8月25日半年度报告，控股子公司上海润六尺所处行业为算力服务行业，公司加大算力业务投入，聚焦智能算力产业；据2026年9月10日公告，控股子公司拟对外投资设立全资子公司汕头润六尺，进一步拓展算力业务市场。\n2、据2026年8月25日半年度报告，子公司恒润传动所处行业为滚动轴承制造业，风力发电机组轴承套组属于风力发电核心零部件，公司产品由静态锻件向动态轴承深加工转换。\n3、公司控股股东为济宁城投控股集团有限公司，实际控制人为济宁市人民政府国有资产监督管理委员会。\n4、据2026年10月31日三季报，公司前三季度营收21.93亿元，同比增长0.55%，归母净利润1.08亿元，同比增长67.23%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600186",
+   "name": "莲花控股",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "类ABF膜",
+    "调味品"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年8月29日半年度报告，公司算力服务已进入规模化业绩兑现阶段，2026年7月单月算力租赁订单签约8.15亿元，并与阶跃星辰等大模型厂商建立战略合作关系。\n2、据2026年8月29日半年度报告，公司通过战略投资纽菲斯布局类ABF膜，相关产品已进入国内头部IC载板及PCB厂商供应链体系。\n3、据2026年10月31日三季报，公司前三季度营收28.96亿元，同比增长16.27%；归母净利润3.31亿元，同比增长30.87%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000815",
+   "name": "美利云",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "数据中心",
+    "东数西算",
+    "央企"
+   ],
+   "reason": "行业原因：\n据商务部消息，11月16日，美国商务部发布限制远程获取先进半导体相关措施。\n公司原因：\n1、据2026年8月25日半年报，公司数据中心业务涵盖机架出租、网络接入及机架运行维护服务，主要面向大型互联网公司、政企客户及电信运营商提供定制化机架出租服务。\n2、据2026年5月18日互动易，公司立足宁夏清洁能源资源，通过绿电直连保障数据中心用电，推动生态网、绿能网、算力网三网融合，提升绿色算力服务竞争力。\n3、据2026年5月18日互动易，公司积极推进B1、B3和C3机房楼项目建设。\n4、据2025年年报，公司最终控制人为国务院国有资产监督管理委员会，控股股东为北京兴诚旺实业有限公司。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  }
+ ]
+}
