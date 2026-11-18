@@ -1,7 +1,7 @@
 {
  "trade_date": "2026-11-18",
  "as_of": "2026-11-18 15:05:36",
- "collected_at": "2026-11-19T01:18:10+08:00",
+ "collected_at": "2026-11-19T05:23:24+08:00",
  "breadth": {
   "up": 1318,
   "down": 4133,
@@ -20,15 +20,15 @@
   "seal_rate": 62.5,
   "prev_seal_rate": 64.29,
   "max_board": 4,
-  "sprint_rate": 0.0,
-  "continue_count": 0,
-  "prev_limit_up": 0,
-  "once_limit_up": 0,
-  "broken_count": 0,
-  "top_board_stock": "",
-  "top_board_count": 0,
-  "main_net": 0.0,
-  "qx_seal_rate": 0.0
+  "sprint_rate": 23.65,
+  "continue_count": 8,
+  "prev_limit_up": 4,
+  "once_limit_up": 4,
+  "broken_count": 32,
+  "top_board_stock": "华东重机",
+  "top_board_count": 25,
+  "main_net": -5478250500.0,
+  "qx_seal_rate": 70.27
  },
  "ladder": [
   {
@@ -1643,14 +1643,12 @@
  "sources": {
   "overview": "2026-11-18 15:05:36",
   "snapshot_id": "sec-20261118150537-bf5658d2",
-  "qxzb": "",
-  "fry": "2026-11-19 01:04:52",
-  "lhb": "2026-11-19 00:56:27",
-  "blocks": "2026-11-18 17:18:06"
+  "qxzb": "2026-11-19 04:56:03",
+  "fry": "2026-11-19 05:05:59",
+  "lhb": "2026-11-19 04:56:56",
+  "blocks": "2026-11-18 21:23:21"
  },
- "degraded": [
-  "qxzb:status=stale"
- ],
+ "degraded": [],
  "drivers": [
   {
    "keyword": "算力租赁",
