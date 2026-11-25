@@ -1,0 +1,4911 @@
+{
+ "trade_date": "2026-11-25",
+ "as_of": "2026-11-25 15:05:35",
+ "collected_at": "2026-11-26T02:40:19+08:00",
+ "breadth": {
+  "up": 586,
+  "down": 4926,
+  "flat": 61,
+  "limit_up": 58,
+  "limit_down": 49,
+  "broken": 31,
+  "limit_down_open": 15,
+  "suspended": 8,
+  "amount": 1383097530000.0,
+  "prev_amount": 1655085925800.0,
+  "amount_change": -271988395800.0,
+  "coverage": 1.0
+ },
+ "sentiment": {
+  "seal_rate": 61.73,
+  "prev_seal_rate": 44.72,
+  "max_board": 5,
+  "sprint_rate": 10.51,
+  "continue_count": 14,
+  "prev_limit_up": 5,
+  "once_limit_up": 5,
+  "broken_count": 36,
+  "top_board_stock": "中京电子",
+  "top_board_count": 30,
+  "main_net": -43313279000.0,
+  "qx_seal_rate": 50.91
+ },
+ "ladder": [
+  {
+   "board": 5,
+   "count": 1,
+   "stocks": [
+    {
+     "code": "002579",
+     "name": "中京电子",
+     "first": 1795589688.0,
+     "last": 1795589688.0,
+     "plates": [
+      {
+       "name": "PCB板",
+       "reason": "全球电子协会发布面向全行业的供应链警报"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 4,
+   "count": 2,
+   "stocks": [
+    {
+     "code": "603960",
+     "name": "克来机电",
+     "first": 1795569900.0,
+     "last": 1795569900.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "具身智能数据国家标准研制正式启动；马斯克：预计未来12-18个月Optimus机器人能做家务劳动"
+      }
+     ]
+    },
+    {
+     "code": "002548",
+     "name": "金新农",
+     "first": 1795569900.0,
+     "last": 1795571844.0,
+     "plates": [
+      {
+       "name": "大农业",
+       "reason": "中美贸易理事会项下农业工作组首次会议在京举行"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 3,
+   "count": 6,
+   "stocks": [
+    {
+     "code": "300703",
+     "name": "创源股份",
+     "first": 1795572903.0,
+     "last": 1795573077.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "603926",
+     "name": "铁流股份",
+     "first": 1795570544.0,
+     "last": 1795589797.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "具身智能数据国家标准研制正式启动；马斯克：预计未来12-18个月Optimus机器人能做家务劳动"
+      }
+     ]
+    },
+    {
+     "code": "002164",
+     "name": "宁波东力",
+     "first": 1795570209.0,
+     "last": 1795585005.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "具身智能数据国家标准研制正式启动；马斯克：预计未来12-18个月Optimus机器人能做家务劳动"
+      }
+     ]
+    },
+    {
+     "code": "600814",
+     "name": "杭州解百",
+     "first": 1795570202.0,
+     "last": 1795570202.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "002242",
+     "name": "九阳股份",
+     "first": 1795571121.0,
+     "last": 1795589115.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "002122",
+     "name": "汇洲智能",
+     "first": 1795569900.0,
+     "last": 1795569900.0,
+     "plates": [
+      {
+       "name": "ST摘帽",
+       "reason": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 2,
+   "count": 6,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "first": 1795569900.0,
+     "last": 1795587101.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": "隔夜费城半导体指数大涨14%，创2025年以来最大单日涨幅"
+      }
+     ]
+    },
+    {
+     "code": "600180",
+     "name": "*ST瑞茂",
+     "first": 1795570246.0,
+     "last": 1795570433.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": "多只ST股摘帽后大涨"
+      }
+     ]
+    },
+    {
+     "code": "002651",
+     "name": "利君股份",
+     "first": 1795570200.0,
+     "last": 1795586574.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "具身智能数据国家标准研制正式启动；马斯克：预计未来12-18个月Optimus机器人能做家务劳动"
+      }
+     ]
+    },
+    {
+     "code": "002872",
+     "name": "天圣制药",
+     "first": 1795569900.0,
+     "last": 1795569900.0,
+     "plates": [
+      {
+       "name": "ST摘帽",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "603360",
+     "name": "百傲化学",
+     "first": 1795589415.0,
+     "last": 1795589415.0,
+     "plates": [
+      {
+       "name": "国产芯片",
+       "reason": "隔夜费城半导体指数大涨14%，创2025年以来最大单日涨幅"
+      }
+     ]
+    },
+    {
+     "code": "600722",
+     "name": "金牛化工",
+     "first": 1795584985.0,
+     "last": 1795584985.0,
+     "plates": [
+      {
+       "name": "石油化工",
+       "reason": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "board": 1,
+   "count": 42,
+   "stocks": [
+    {
+     "code": "600223",
+     "name": "福瑞达",
+     "first": 1795570448.0,
+     "last": 1795570448.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "000593",
+     "name": "德龙汇能",
+     "first": 1795570218.0,
+     "last": 1795570218.0,
+     "plates": [
+      {
+       "name": "天然气",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "first": 1795582893.0,
+     "last": 1795589138.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "微短剧用户规模达到8.5亿"
+      }
+     ]
+    },
+    {
+     "code": "301089",
+     "name": "拓新药业",
+     "first": 1795570746.0,
+     "last": 1795570746.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "002861",
+     "name": "瀛通通讯",
+     "first": 1795570563.0,
+     "last": 1795570563.0,
+     "plates": [
+      {
+       "name": "智能眼镜/MR头显",
+       "reason": "字节PICO新品有望于12月亮相"
+      }
+     ]
+    },
+    {
+     "code": "002038",
+     "name": "双鹭药业",
+     "first": 1795570815.0,
+     "last": 1795587615.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "603069",
+     "name": "海汽集团",
+     "first": 1795570524.0,
+     "last": 1795570524.0,
+     "plates": [
+      {
+       "name": "海南自由贸易港",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "601086",
+     "name": "国芳集团",
+     "first": 1795572361.0,
+     "last": 1795572361.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "603708",
+     "name": "家家悦",
+     "first": 1795572290.0,
+     "last": 1795572290.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "300086",
+     "name": "康芝药业",
+     "first": 1795571976.0,
+     "last": 1795588161.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "first": 1795571946.0,
+     "last": 1795587050.0,
+     "plates": [
+      {
+       "name": "光刻机（胶）",
+       "reason": "媒体报道称海外收紧晶圆代工和先进封装服务"
+      }
+     ]
+    },
+    {
+     "code": "600467",
+     "name": "好当家",
+     "first": 1795570293.0,
+     "last": 1795570998.0,
+     "plates": [
+      {
+       "name": "大农业",
+       "reason": "中美贸易理事会项下农业工作组首次会议在京举行"
+      }
+     ]
+    },
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "first": 1795571880.0,
+     "last": 1795571880.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002900",
+     "name": "哈三联",
+     "first": 1795570713.0,
+     "last": 1795570713.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "600103",
+     "name": "青山纸业",
+     "first": 1795571720.0,
+     "last": 1795586228.0,
+     "plates": [
+      {
+       "name": "光通信",
+       "reason": "黄仁勋回归，美股AI产业链集体反攻"
+      }
+     ]
+    },
+    {
+     "code": "002069",
+     "name": "獐子岛",
+     "first": 1795572888.0,
+     "last": 1795572888.0,
+     "plates": [
+      {
+       "name": "大农业",
+       "reason": "中美贸易理事会项下农业工作组首次会议在京举行"
+      }
+     ]
+    },
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "first": 1795572227.0,
+     "last": 1795583747.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002864",
+     "name": "盘龙药业",
+     "first": 1795570737.0,
+     "last": 1795570737.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "600088",
+     "name": "中视传媒",
+     "first": 1795577041.0,
+     "last": 1795577041.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "微短剧用户规模达到8.5亿"
+      }
+     ]
+    },
+    {
+     "code": "301211",
+     "name": "亨迪药业",
+     "first": 1795570404.0,
+     "last": 1795570404.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "000908",
+     "name": "石药景峰",
+     "first": 1795570371.0,
+     "last": 1795570371.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "301066",
+     "name": "万事利",
+     "first": 1795572429.0,
+     "last": 1795589049.0,
+     "plates": [
+      {
+       "name": "人工智能大模型",
+       "reason": "DeepSeek发布API调价公告"
+      },
+      {
+       "name": "AI大模型/智能体",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "605136",
+     "name": "丽人丽妆",
+     "first": 1795570340.0,
+     "last": 1795570340.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "600227",
+     "name": "赤天化",
+     "first": 1795570404.0,
+     "last": 1795589636.0,
+     "plates": [
+      {
+       "name": "大农业",
+       "reason": "中美贸易理事会项下农业工作组首次会议在京举行"
+      }
+     ]
+    },
+    {
+     "code": "002728",
+     "name": "特一药业",
+     "first": 1795570293.0,
+     "last": 1795570293.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "600280",
+     "name": "中央商场",
+     "first": 1795570838.0,
+     "last": 1795571063.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "605577",
+     "name": "龙版传媒",
+     "first": 1795587801.0,
+     "last": 1795587840.0,
+     "plates": [
+      {
+       "name": "短剧/互动影游",
+       "reason": "微短剧用户规模达到8.5亿"
+      }
+     ]
+    },
+    {
+     "code": "000078",
+     "name": "ST海王",
+     "first": 1795574031.0,
+     "last": 1795589703.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": "多只ST股摘帽后大涨"
+      }
+     ]
+    },
+    {
+     "code": "000702",
+     "name": "正虹科技",
+     "first": 1795570221.0,
+     "last": 1795570221.0,
+     "plates": [
+      {
+       "name": "大农业",
+       "reason": "中美贸易理事会项下农业工作组首次会议在京举行"
+      }
+     ]
+    },
+    {
+     "code": "000756",
+     "name": "新华制药",
+     "first": 1795573254.0,
+     "last": 1795588185.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "002275",
+     "name": "桂林三金",
+     "first": 1795570851.0,
+     "last": 1795586931.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "002145",
+     "name": "钛能化学",
+     "first": 1795570203.0,
+     "last": 1795570203.0,
+     "plates": [
+      {
+       "name": "其他",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "000838",
+     "name": "*ST发展",
+     "first": 1795572804.0,
+     "last": 1795572888.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": "多只ST股摘帽后大涨"
+      }
+     ]
+    },
+    {
+     "code": "002820",
+     "name": "桂发祥",
+     "first": 1795574508.0,
+     "last": 1795574508.0,
+     "plates": [
+      {
+       "name": "大消费",
+       "reason": "商务部：消费市场规模稳步扩大，呈现商品消费稳、服务消费旺、新型消费热的特点"
+      }
+     ]
+    },
+    {
+     "code": "002144",
+     "name": "宏达高科",
+     "first": 1795575753.0,
+     "last": 1795575753.0,
+     "plates": [
+      {
+       "name": "机器人",
+       "reason": "具身智能数据国家标准研制正式启动；马斯克：预计未来12-18个月Optimus机器人能做家务劳动"
+      }
+     ]
+    },
+    {
+     "code": "002642",
+     "name": "荣联科技",
+     "first": 1795572492.0,
+     "last": 1795589814.0,
+     "plates": [
+      {
+       "name": "云计算数据中心",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "002480",
+     "name": "新筑股份",
+     "first": 1795570632.0,
+     "last": 1795570632.0,
+     "plates": [
+      {
+       "name": "资产重组",
+       "reason": ""
+      }
+     ]
+    },
+    {
+     "code": "300290",
+     "name": "ST荣科",
+     "first": 1795584255.0,
+     "last": 1795589712.0,
+     "plates": []
+    },
+    {
+     "code": "603122",
+     "name": "合富中国",
+     "first": 1795574214.0,
+     "last": 1795589646.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    },
+    {
+     "code": "000826",
+     "name": "*ST启环",
+     "first": 1795573398.0,
+     "last": 1795588281.0,
+     "plates": [
+      {
+       "name": "ST股",
+       "reason": "多只ST股摘帽后大涨"
+      }
+     ]
+    },
+    {
+     "code": "688066",
+     "name": "*ST航图",
+     "first": 1795572153.0,
+     "last": 1795572153.0,
+     "plates": []
+    },
+    {
+     "code": "600829",
+     "name": "人民同泰",
+     "first": 1795572608.0,
+     "last": 1795589753.0,
+     "plates": [
+      {
+       "name": "医药",
+       "reason": "流感等急性呼吸道传染病进入流行季"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "hot_sectors": [
+  {
+   "name": "医药",
+   "limit_up_count": 13,
+   "max_board": 1,
+   "stock_count": 13
+  },
+  {
+   "name": "大消费",
+   "limit_up_count": 8,
+   "max_board": 3,
+   "stock_count": 8
+  },
+  {
+   "name": "大农业",
+   "limit_up_count": 5,
+   "max_board": 4,
+   "stock_count": 5
+  },
+  {
+   "name": "机器人",
+   "limit_up_count": 5,
+   "max_board": 4,
+   "stock_count": 5
+  },
+  {
+   "name": "ST股",
+   "limit_up_count": 4,
+   "max_board": 2,
+   "stock_count": 4
+  },
+  {
+   "name": "云计算数据中心",
+   "limit_up_count": 3,
+   "max_board": 1,
+   "stock_count": 3
+  },
+  {
+   "name": "短剧/互动影游",
+   "limit_up_count": 3,
+   "max_board": 1,
+   "stock_count": 3
+  },
+  {
+   "name": "ST摘帽",
+   "limit_up_count": 2,
+   "max_board": 3,
+   "stock_count": 2
+  },
+  {
+   "name": "国产芯片",
+   "limit_up_count": 2,
+   "max_board": 2,
+   "stock_count": 2
+  },
+  {
+   "name": "AI大模型/智能体",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "PCB板",
+   "limit_up_count": 1,
+   "max_board": 5,
+   "stock_count": 1
+  },
+  {
+   "name": "人工智能大模型",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "光刻机（胶）",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "光通信",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  },
+  {
+   "name": "其他",
+   "limit_up_count": 1,
+   "max_board": 1,
+   "stock_count": 1
+  }
+ ],
+ "main_force": [
+  {
+   "code": "002145",
+   "name": "钛能化学",
+   "rank": 1,
+   "price": 3.72,
+   "pct": 10.06,
+   "mf_pct": 61.55,
+   "sector": "化学原料"
+  },
+  {
+   "code": "603960",
+   "name": "克来机电",
+   "rank": 2,
+   "price": 18.6,
+   "pct": 9.99,
+   "mf_pct": 57.63,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "002480",
+   "name": "新筑股份",
+   "rank": 3,
+   "price": 5.2,
+   "pct": 9.94,
+   "mf_pct": 55.49,
+   "sector": "电力"
+  },
+  {
+   "code": "002864",
+   "name": "盘龙药业",
+   "rank": 4,
+   "price": 19.86,
+   "pct": 10.03,
+   "mf_pct": 52.53,
+   "sector": "中药Ⅱ"
+  },
+  {
+   "code": "605136",
+   "name": "丽人丽妆",
+   "rank": 5,
+   "price": 7.85,
+   "pct": 9.94,
+   "mf_pct": 48.19,
+   "sector": "互联网电商"
+  },
+  {
+   "code": "600280",
+   "name": "中央商场",
+   "rank": 6,
+   "price": 2.82,
+   "pct": 10.16,
+   "mf_pct": 46.8,
+   "sector": "一般零售"
+  },
+  {
+   "code": "002197",
+   "name": "证通电子",
+   "rank": 7,
+   "price": 6.41,
+   "pct": 9.95,
+   "mf_pct": 46.68,
+   "sector": "计算机设备"
+  },
+  {
+   "code": "603069",
+   "name": "海汽集团",
+   "rank": 8,
+   "price": 11.02,
+   "pct": 9.98,
+   "mf_pct": 46.67,
+   "sector": "铁路公路"
+  },
+  {
+   "code": "002728",
+   "name": "特一药业",
+   "rank": 9,
+   "price": 8.35,
+   "pct": 10.01,
+   "mf_pct": 46.56,
+   "sector": "中药Ⅱ"
+  },
+  {
+   "code": "000702",
+   "name": "正虹科技",
+   "rank": 11,
+   "price": 4.88,
+   "pct": 9.91,
+   "mf_pct": 42.87,
+   "sector": "饲料"
+  },
+  {
+   "code": "603708",
+   "name": "家家悦",
+   "rank": 12,
+   "price": 9.68,
+   "pct": 10.0,
+   "mf_pct": 41.37,
+   "sector": "一般零售"
+  },
+  {
+   "code": "002900",
+   "name": "哈三联",
+   "rank": 13,
+   "price": 9.68,
+   "pct": 10.0,
+   "mf_pct": 40.39,
+   "sector": "化学制药"
+  },
+  {
+   "code": "301211",
+   "name": "亨迪药业",
+   "rank": 14,
+   "price": 11.11,
+   "pct": 19.98,
+   "mf_pct": 38.79,
+   "sector": "化学制药"
+  },
+  {
+   "code": "000908",
+   "name": "石药景峰",
+   "rank": 15,
+   "price": 4.81,
+   "pct": 10.07,
+   "mf_pct": 38.62,
+   "sector": "化学制药"
+  },
+  {
+   "code": "000593",
+   "name": "德龙汇能",
+   "rank": 16,
+   "price": 20.54,
+   "pct": 10.02,
+   "mf_pct": 38.62,
+   "sector": "燃气Ⅱ"
+  },
+  {
+   "code": "003006",
+   "name": "百亚股份",
+   "rank": 17,
+   "price": 19.15,
+   "pct": -7.89,
+   "mf_pct": 37.96,
+   "sector": "个护用品"
+  },
+  {
+   "code": "002144",
+   "name": "宏达高科",
+   "rank": 19,
+   "price": 9.08,
+   "pct": 10.06,
+   "mf_pct": 36.41,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "301089",
+   "name": "拓新药业",
+   "rank": 20,
+   "price": 21.34,
+   "pct": 20.02,
+   "mf_pct": 32.17,
+   "sector": "化学制药"
+  },
+  {
+   "code": "002651",
+   "name": "利君股份",
+   "rank": 21,
+   "price": 7.9,
+   "pct": 10.03,
+   "mf_pct": 31.76,
+   "sector": "航空装备Ⅱ"
+  },
+  {
+   "code": "002069",
+   "name": "獐子岛",
+   "rank": 22,
+   "price": 3.54,
+   "pct": 9.94,
+   "mf_pct": 30.84,
+   "sector": "渔业"
+  },
+  {
+   "code": "002820",
+   "name": "桂发祥",
+   "rank": 24,
+   "price": 8.86,
+   "pct": 10.06,
+   "mf_pct": 29.56,
+   "sector": "休闲食品"
+  },
+  {
+   "code": "002038",
+   "name": "双鹭药业",
+   "rank": 25,
+   "price": 4.9,
+   "pct": 10.11,
+   "mf_pct": 29.55,
+   "sector": "化学制药"
+  },
+  {
+   "code": "603887",
+   "name": "城地香江",
+   "rank": 26,
+   "price": 8.48,
+   "pct": 9.99,
+   "mf_pct": 29.26,
+   "sector": "IT服务Ⅱ"
+  },
+  {
+   "code": "002190",
+   "name": "成飞集成",
+   "rank": 27,
+   "price": 20.81,
+   "pct": 8.84,
+   "mf_pct": 28.68,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "000756",
+   "name": "新华制药",
+   "rank": 28,
+   "price": 12.16,
+   "pct": 10.05,
+   "mf_pct": 28.63,
+   "sector": "化学制药"
+  },
+  {
+   "code": "002861",
+   "name": "瀛通通讯",
+   "rank": 29,
+   "price": 13.17,
+   "pct": 10.03,
+   "mf_pct": 28.07,
+   "sector": "消费电子"
+  },
+  {
+   "code": "688373",
+   "name": "盟科药业-U",
+   "rank": 30,
+   "price": 4.87,
+   "pct": 3.18,
+   "mf_pct": 28.01,
+   "sector": "化学制药"
+  },
+  {
+   "code": "001338",
+   "name": "永顺泰",
+   "rank": 31,
+   "price": 7.97,
+   "pct": 5.56,
+   "mf_pct": 26.81,
+   "sector": "农产品加工"
+  },
+  {
+   "code": "600229",
+   "name": "城市传媒",
+   "rank": 32,
+   "price": 5.41,
+   "pct": 9.96,
+   "mf_pct": 26.57,
+   "sector": "出版"
+  },
+  {
+   "code": "301066",
+   "name": "万事利",
+   "rank": 33,
+   "price": 12.74,
+   "pct": 19.96,
+   "mf_pct": 26.56,
+   "sector": "纺织制造"
+  },
+  {
+   "code": "600088",
+   "name": "中视传媒",
+   "rank": 34,
+   "price": 12.64,
+   "pct": 10.01,
+   "mf_pct": 26.46,
+   "sector": "影视院线"
+  },
+  {
+   "code": "300086",
+   "name": "康芝药业",
+   "rank": 35,
+   "price": 4.85,
+   "pct": 20.05,
+   "mf_pct": 26.39,
+   "sector": "化学制药"
+  },
+  {
+   "code": "600223",
+   "name": "福瑞达",
+   "rank": 36,
+   "price": 5.49,
+   "pct": 10.02,
+   "mf_pct": 26.34,
+   "sector": "化妆品"
+  },
+  {
+   "code": "600467",
+   "name": "好当家",
+   "rank": 37,
+   "price": 3.6,
+   "pct": 10.09,
+   "mf_pct": 26.05,
+   "sector": "渔业"
+  },
+  {
+   "code": "000715",
+   "name": "中兴商业",
+   "rank": 38,
+   "price": 4.78,
+   "pct": 3.69,
+   "mf_pct": 25.78,
+   "sector": "一般零售"
+  },
+  {
+   "code": "601086",
+   "name": "国芳集团",
+   "rank": 39,
+   "price": 10.75,
+   "pct": 10.03,
+   "mf_pct": 25.71,
+   "sector": "一般零售"
+  },
+  {
+   "code": "000407",
+   "name": "胜利股份",
+   "rank": 40,
+   "price": 3.74,
+   "pct": 8.41,
+   "mf_pct": 25.53,
+   "sector": "燃气Ⅱ"
+  },
+  {
+   "code": "600939",
+   "name": "重庆建工",
+   "rank": 41,
+   "price": 2.91,
+   "pct": -0.34,
+   "mf_pct": 24.35,
+   "sector": "房屋建设Ⅱ"
+  },
+  {
+   "code": "600103",
+   "name": "青山纸业",
+   "rank": 42,
+   "price": 3.78,
+   "pct": 9.88,
+   "mf_pct": 24.09,
+   "sector": "造纸"
+  },
+  {
+   "code": "002713",
+   "name": "东易日盛",
+   "rank": 43,
+   "price": 6.91,
+   "pct": 5.02,
+   "mf_pct": 23.76,
+   "sector": "装修装饰Ⅱ"
+  },
+  {
+   "code": "603949",
+   "name": "雪龙集团",
+   "rank": 44,
+   "price": 12.55,
+   "pct": 4.58,
+   "mf_pct": 23.7,
+   "sector": "汽车零部件"
+  },
+  {
+   "code": "002478",
+   "name": "常宝股份",
+   "rank": 45,
+   "price": 4.69,
+   "pct": 0.86,
+   "mf_pct": 22.41,
+   "sector": "特钢Ⅱ"
+  },
+  {
+   "code": "002175",
+   "name": "*ST东智",
+   "rank": 46,
+   "price": 2.15,
+   "pct": 1.9,
+   "mf_pct": 21.39,
+   "sector": "通用设备"
+  },
+  {
+   "code": "002607",
+   "name": "中公教育",
+   "rank": 47,
+   "price": 1.53,
+   "pct": 6.99,
+   "mf_pct": 21.28,
+   "sector": "教育"
+  },
+  {
+   "code": "600814",
+   "name": "杭州解百",
+   "rank": 48,
+   "price": 8.35,
+   "pct": 10.01,
+   "mf_pct": 21.16,
+   "sector": "一般零售"
+  },
+  {
+   "code": "600576",
+   "name": "祥源文旅",
+   "rank": 49,
+   "price": 4.98,
+   "pct": 4.18,
+   "mf_pct": 20.39,
+   "sector": "旅游及景区"
+  },
+  {
+   "code": "600829",
+   "name": "人民同泰",
+   "rank": 50,
+   "price": 8.39,
+   "pct": 9.96,
+   "mf_pct": 20.35,
+   "sector": "医药商业"
+  },
+  {
+   "code": "688623",
+   "name": "双元科技",
+   "rank": 51,
+   "price": 51.0,
+   "pct": -3.12,
+   "mf_pct": 20.31,
+   "sector": "自动化设备"
+  },
+  {
+   "code": "002154",
+   "name": "报 喜 鸟",
+   "rank": 52,
+   "price": 3.34,
+   "pct": 5.7,
+   "mf_pct": 19.7,
+   "sector": "服装家纺"
+  },
+  {
+   "code": "002253",
+   "name": "川大智胜",
+   "rank": 53,
+   "price": 6.9,
+   "pct": 4.55,
+   "mf_pct": 19.7,
+   "sector": "软件开发"
+  },
+  {
+   "code": "600119",
+   "name": "*ST长投",
+   "rank": 54,
+   "price": 4.01,
+   "pct": -0.25,
+   "mf_pct": 19.46,
+   "sector": "物流"
+  },
+  {
+   "code": "000883",
+   "name": "湖北能源",
+   "rank": 55,
+   "price": 4.46,
+   "pct": -0.67,
+   "mf_pct": 18.68,
+   "sector": "电力"
+  },
+  {
+   "code": "301281",
+   "name": "科源制药",
+   "rank": 56,
+   "price": 33.12,
+   "pct": 0.0,
+   "mf_pct": 18.17,
+   "sector": "化学制药"
+  },
+  {
+   "code": "603277",
+   "name": "银都股份",
+   "rank": 57,
+   "price": 9.49,
+   "pct": -1.56,
+   "mf_pct": 17.92,
+   "sector": "通用设备"
+  },
+  {
+   "code": "601515",
+   "name": "衢州东峰",
+   "rank": 58,
+   "price": 2.69,
+   "pct": 4.26,
+   "mf_pct": 17.79,
+   "sector": "包装印刷"
+  },
+  {
+   "code": "000838",
+   "name": "*ST发展",
+   "rank": 59,
+   "price": 1.34,
+   "pct": 9.84,
+   "mf_pct": 17.74,
+   "sector": "房地产开发"
+  },
+  {
+   "code": "600488",
+   "name": "津药药业",
+   "rank": 60,
+   "price": 4.45,
+   "pct": 5.7,
+   "mf_pct": 17.61,
+   "sector": "化学制药"
+  },
+  {
+   "code": "001279",
+   "name": "强邦新材",
+   "rank": 61,
+   "price": 22.7,
+   "pct": 0.27,
+   "mf_pct": 17.57,
+   "sector": "包装印刷"
+  },
+  {
+   "code": "600935",
+   "name": "华塑股份",
+   "rank": 62,
+   "price": 1.86,
+   "pct": -0.53,
+   "mf_pct": 17.5,
+   "sector": "化学原料"
+  },
+  {
+   "code": "000566",
+   "name": "海南海药",
+   "rank": 63,
+   "price": 3.66,
+   "pct": 6.4,
+   "mf_pct": 17.42,
+   "sector": "化学制药"
+  }
+ ],
+ "sector_flow": [
+  {
+   "name": "昨日打二板以上表现",
+   "pct": 2.98,
+   "net": -603108336.0,
+   "up": 5,
+   "down": 3,
+   "leader": "克来机电",
+   "leader_pct": 9.99
+  },
+  {
+   "name": "退税商店",
+   "pct": 2.15,
+   "net": 269817216.0,
+   "up": 14,
+   "down": 7,
+   "leader": "杭州解百",
+   "leader_pct": 10.01
+  },
+  {
+   "name": "历史新高",
+   "pct": 1.67,
+   "net": -288507728.0,
+   "up": 1,
+   "down": 2,
+   "leader": "冰山冷热",
+   "leader_pct": 8.94
+  },
+  {
+   "name": "肝素概念",
+   "pct": 0.95,
+   "net": 155908298.0,
+   "up": 6,
+   "down": 6,
+   "leader": "双鹭药业",
+   "leader_pct": 10.11
+  },
+  {
+   "name": "青蒿素",
+   "pct": 0.87,
+   "net": 87652424.0,
+   "up": 7,
+   "down": 4,
+   "leader": "德龙汇能",
+   "leader_pct": 10.02
+  },
+  {
+   "name": "医药电商",
+   "pct": 0.62,
+   "net": 414509600.0,
+   "up": 34,
+   "down": 32,
+   "leader": "特一药业",
+   "leader_pct": 10.01
+  },
+  {
+   "name": "超级品牌",
+   "pct": 0.62,
+   "net": 678792960.0,
+   "up": 20,
+   "down": 10,
+   "leader": "桂发祥",
+   "leader_pct": 10.06
+  },
+  {
+   "name": "特色药",
+   "pct": 0.59,
+   "net": 217925440.0,
+   "up": 21,
+   "down": 19,
+   "leader": "特一药业",
+   "leader_pct": 10.01
+  },
+  {
+   "name": "独家药品",
+   "pct": 0.59,
+   "net": 188567258.0,
+   "up": 21,
+   "down": 20,
+   "leader": "特一药业",
+   "leader_pct": 10.01
+  },
+  {
+   "name": "流感",
+   "pct": 0.48,
+   "net": 891059520.0,
+   "up": 59,
+   "down": 72,
+   "leader": "天圣制药",
+   "leader_pct": 10.08
+  },
+  {
+   "name": "维生素",
+   "pct": 0.42,
+   "net": 189371104.0,
+   "up": 11,
+   "down": 21,
+   "leader": "亨迪药业",
+   "leader_pct": 19.98
+  },
+  {
+   "name": "旅游酒店",
+   "pct": 0.42,
+   "net": 66057511.0,
+   "up": 23,
+   "down": 13,
+   "leader": "祥源文旅",
+   "leader_pct": 3.97
+  },
+  {
+   "name": "ST股",
+   "pct": 0.39,
+   "net": 68250728.0,
+   "up": 89,
+   "down": 94,
+   "leader": "*ST开元",
+   "leader_pct": 11.22
+  },
+  {
+   "name": "中药概念",
+   "pct": 0.38,
+   "net": 849587168.0,
+   "up": 70,
+   "down": 72,
+   "leader": "天圣制药",
+   "leader_pct": 10.08
+  },
+  {
+   "name": "SPD概念",
+   "pct": 0.38,
+   "net": 96259014.0,
+   "up": 7,
+   "down": 7,
+   "leader": "合富中国",
+   "leader_pct": 10.03
+  }
+ ],
+ "blocks": [
+  {
+   "id": "801045",
+   "name": "医药",
+   "inc": -1.623,
+   "strength": 7979.158,
+   "main_net": 750136474.0
+  },
+  {
+   "id": "801159",
+   "name": "机器人概念",
+   "inc": -4.923,
+   "strength": 3501.184,
+   "main_net": -3779203309.0
+  },
+  {
+   "id": "801314",
+   "name": "ST板块",
+   "inc": 0.263,
+   "strength": 2713.847,
+   "main_net": 102288674.0
+  },
+  {
+   "id": "801973",
+   "name": "保健品",
+   "inc": 0.147,
+   "strength": 1780.959,
+   "main_net": 121779842.0
+  },
+  {
+   "id": "801637",
+   "name": "文创产品",
+   "inc": -1.849,
+   "strength": 1090.486,
+   "main_net": 233711400.0
+  },
+  {
+   "id": "801053",
+   "name": "零售",
+   "inc": -1.26,
+   "strength": 1086.085,
+   "main_net": 542014654.0
+  },
+  {
+   "id": "801082",
+   "name": "ST摘帽",
+   "inc": -1.832,
+   "strength": 671.318,
+   "main_net": 120017376.0
+  },
+  {
+   "id": "801250",
+   "name": "并购重组",
+   "inc": -3.472,
+   "strength": 632.52,
+   "main_net": -89228238.0
+  },
+  {
+   "id": "801471",
+   "name": "免税",
+   "inc": 0.292,
+   "strength": 455.749,
+   "main_net": 27392455.0
+  },
+  {
+   "id": "801464",
+   "name": "农业",
+   "inc": -2.221,
+   "strength": 351.274,
+   "main_net": 185311526.0
+  },
+  {
+   "id": "801284",
+   "name": "举牌",
+   "inc": -2.518,
+   "strength": 123.529,
+   "main_net": 66478810.0
+  },
+  {
+   "id": "801144",
+   "name": "医美",
+   "inc": -1.188,
+   "strength": 102.517,
+   "main_net": -9934330.0
+  },
+  {
+   "id": "801080",
+   "name": "煤炭",
+   "inc": -1.34,
+   "strength": 1.465,
+   "main_net": -208343515.0
+  },
+  {
+   "id": "801027",
+   "name": "银行",
+   "inc": -0.018,
+   "strength": -1.835,
+   "main_net": -1322158329.0
+  },
+  {
+   "id": "801733",
+   "name": "中特估",
+   "inc": -1.111,
+   "strength": -111.059,
+   "main_net": -114039947.0
+  }
+ ],
+ "themes": {
+  "date": "2026-11-26",
+  "items": [
+   {
+    "code": "00738",
+    "name": "医药商业",
+    "rank": 1,
+    "title": "突然直线拉升！20%涨停！医药赛道集体异动",
+    "summary": "医药股异动！今日（11月25日），A股医药股逆市走高。盘中，康芝药业、拓新药业、亨迪药业直线拉升至20%涨停，双鹭药业、石药景峰、新华制药、桂林三金、盘龙药业、特一药业、哈三联、津药药业直线拉升至10%涨停。2026年医药板块行情呈现前低后高格局，上半年显著跑输市场，下半年明显跑赢。",
+    "change_pct": 1.54,
+    "cum_pct": -9.26,
+    "limit_up_count": 4,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00766",
+    "name": "商业百货",
+    "rank": 2,
+    "title": "避险需求与年末旺季共振催化 商业百货板块有望迎景气回升",
+    "summary": "商务部消费促进司负责人近日谈及今年前10个月消费市场情况时表示，今年以来我国消费市场规模稳步扩大，可用商品消费“稳”、服务消费“旺”、新型消费“热”三个特点概括。数据显示，1月份至10月份，国内服务零售额同比增长4.9%，增速高于商品零售额4个百分点。消费场景不断丰富拓展，节假日旅游、休闲娱乐等服务消费热度不减。",
+    "change_pct": 0.58,
+    "cum_pct": -10.18,
+    "limit_up_count": 4,
+    "is_hot": true,
+    "is_new": false
+   },
+   {
+    "code": "00865",
+    "name": "算力租赁",
+    "rank": 3,
+    "title": "学习时报：算力供给要避免“一哄而上”",
+    "summary": "习近平总书记在内蒙古乌兰察布考察时语重心长地指出，“我现在对发展新质生产力，包括对现在的几大领先产业，最担心的还是无序发展，一哄而起，最后一哄而散，那样更挫伤积极性。还有就是‘内卷’问题，盲目竞争，不顾自身条件地发展”，并对算力产业提出“高效、绿色、安全”的明确要求。其中“高效”被置于首位，意味着要加强科学规划、集约调",
+    "change_pct": -4.94,
+    "cum_pct": 0.0,
+    "limit_up_count": 1,
+    "is_hot": false,
+    "is_new": false
+   },
+   {
+    "code": "00398",
+    "name": "流感",
+    "rank": 4,
+    "title": "全国进入流感流行季！机构紧盯多只概念股 这6股获超百家调研(名单)",
+    "summary": "全国流感病毒检测阳性率攀升至22.5%，流感已进入流行季，产业链需求加速兑现。机构指出，国内流感疫苗接种率仅约3%，潜在成长空间广阔。流感病毒检测阳性率升至22.5%全国进入流感流行季11月19日，中国疾控中心发布2026年第46周流感监测周报。",
+    "change_pct": 0.29,
+    "cum_pct": -13.42,
+    "limit_up_count": 7,
+    "is_hot": true,
+    "is_new": false
+   },
+   {
+    "code": "00050",
+    "name": "猪肉概念",
+    "rank": 5,
+    "title": "去化超预期！多股逆势大涨！猪肉概念股梳理",
+    "summary": "自今年7月初科技带动A股见顶以来，猪肉概念多股持续逆势上扬，邦基科技、东瑞股份累计涨超60%，龙头股温氏股份涨超40%，牧原股份涨超26%，神农集团、双汇发展、顺鑫农业、海大集团等个股涨幅均超10%。",
+    "change_pct": -1.8,
+    "cum_pct": -4.64,
+    "limit_up_count": 2,
+    "is_hot": false,
+    "is_new": false
+   }
+  ]
+ },
+ "lhb": {
+  "date": "2026-11-25",
+  "count": 64,
+  "org_count": 37,
+  "seat_count": 225,
+  "up": 42,
+  "down": 22,
+  "net_total": -262141907.0,
+  "stocks": [
+   {
+    "code": "600103",
+    "name": "青山纸业",
+    "pct": 9.88,
+    "net": 252683738.22,
+    "turnover": 30.59,
+    "board": "3天2板",
+    "org": 0
+   },
+   {
+    "code": "301313",
+    "name": "凡拓数创",
+    "pct": -3.02,
+    "net": -184214002.0,
+    "turnover": 30.87,
+    "board": "",
+    "org": 5
+   },
+   {
+    "code": "002086",
+    "name": "东方海洋",
+    "pct": -4.41,
+    "net": -170336106.0,
+    "turnover": 45.75,
+    "board": "昨3连板",
+    "org": 3
+   },
+   {
+    "code": "301052",
+    "name": "果麦文化",
+    "pct": 2.77,
+    "net": -147656541.0,
+    "turnover": 42.01,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "600410",
+    "name": "华胜天成",
+    "pct": 4.37,
+    "net": 123998159.82,
+    "turnover": 31.33,
+    "board": "",
+    "org": 0
+   },
+   {
+    "code": "002651",
+    "name": "利君股份",
+    "pct": 10.03,
+    "net": 100165334.0,
+    "turnover": 8.4,
+    "board": "2连板",
+    "org": 2
+   },
+   {
+    "code": "002122",
+    "name": "汇洲智能",
+    "pct": 10.13,
+    "net": 94467978.0,
+    "turnover": 11.36,
+    "board": "3连板",
+    "org": 0
+   },
+   {
+    "code": "000530",
+    "name": "冰山冷热",
+    "pct": 9.54,
+    "net": -93959118.0,
+    "turnover": 38.7,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "002685",
+    "name": "华东重机",
+    "pct": 0.45,
+    "net": -88374003.0,
+    "turnover": 39.81,
+    "board": "昨2连板",
+    "org": 1
+   },
+   {
+    "code": "301520",
+    "name": "万邦医药",
+    "pct": 1.67,
+    "net": -85537425.0,
+    "turnover": 33.65,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "002708",
+    "name": "光洋股份",
+    "pct": -1.26,
+    "net": 76252544.0,
+    "turnover": 20.27,
+    "board": "昨2连板",
+    "org": 4
+   },
+   {
+    "code": "301575",
+    "name": "艾芬达",
+    "pct": -10.26,
+    "net": -74432471.0,
+    "turnover": 44.08,
+    "board": "昨2连板",
+    "org": 2
+   },
+   {
+    "code": "688206",
+    "name": "概伦电子",
+    "pct": -17.57,
+    "net": -72872100.0,
+    "turnover": 3.16,
+    "board": "",
+    "org": 4
+   },
+   {
+    "code": "600715",
+    "name": "文投控股",
+    "pct": -9.87,
+    "net": -71735532.0,
+    "turnover": 28.79,
+    "board": "昨日首板",
+    "org": 0
+   },
+   {
+    "code": "002242",
+    "name": "九阳股份",
+    "pct": 10.01,
+    "net": 63317296.0,
+    "turnover": 14.18,
+    "board": "7天5板",
+    "org": 3
+   }
+  ]
+ },
+ "sources": {
+  "overview": "2026-11-25 15:05:35",
+  "snapshot_id": "sec-20261125150535-5af3d54e",
+  "qxzb": "2026-11-26 02:30:12",
+  "fry": "2026-11-26 02:32:40",
+  "lhb": "2026-11-26 02:31:40",
+  "blocks": "2026-11-25 18:40:16"
+ },
+ "degraded": [],
+ "drivers": [
+  {
+   "keyword": "流感",
+   "count": 6,
+   "max_board": 1,
+   "generic": false,
+   "score": 6.5,
+   "stocks": [
+    {
+     "code": "301089",
+     "name": "拓新药业",
+     "board": 1
+    },
+    {
+     "code": "301211",
+     "name": "亨迪药业",
+     "board": 1
+    },
+    {
+     "code": "002728",
+     "name": "特一药业",
+     "board": 1
+    },
+    {
+     "code": "000756",
+     "name": "新华制药",
+     "board": 1
+    },
+    {
+     "code": "002275",
+     "name": "桂林三金",
+     "board": 1
+    },
+    {
+     "code": "600829",
+     "name": "人民同泰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "零售",
+   "count": 4,
+   "max_board": 1,
+   "generic": false,
+   "score": 4.5,
+   "stocks": [
+    {
+     "code": "600223",
+     "name": "福瑞达",
+     "board": 1
+    },
+    {
+     "code": "601086",
+     "name": "国芳集团",
+     "board": 1
+    },
+    {
+     "code": "603708",
+     "name": "家家悦",
+     "board": 1
+    },
+    {
+     "code": "605136",
+     "name": "丽人丽妆",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "人形机器人",
+   "count": 2,
+   "max_board": 5,
+   "generic": false,
+   "score": 4.5,
+   "stocks": [
+    {
+     "code": "002579",
+     "name": "中京电子",
+     "board": 5
+    },
+    {
+     "code": "002164",
+     "name": "宁波东力",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "AI应用",
+   "count": 3,
+   "max_board": 1,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "603708",
+     "name": "家家悦",
+     "board": 1
+    },
+    {
+     "code": "600088",
+     "name": "中视传媒",
+     "board": 1
+    },
+    {
+     "code": "605136",
+     "name": "丽人丽妆",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "医药商业",
+   "count": 3,
+   "max_board": 1,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "000078",
+     "name": "ST海王",
+     "board": 1
+    },
+    {
+     "code": "603122",
+     "name": "合富中国",
+     "board": 1
+    },
+    {
+     "code": "600829",
+     "name": "人民同泰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "百货零售",
+   "count": 2,
+   "max_board": 3,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "600814",
+     "name": "杭州解百",
+     "board": 3
+    },
+    {
+     "code": "600280",
+     "name": "中央商场",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "撤销风险警示",
+   "count": 2,
+   "max_board": 3,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002122",
+     "name": "汇洲智能",
+     "board": 3
+    },
+    {
+     "code": "002872",
+     "name": "天圣制药",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "高阶HDI",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002579",
+     "name": "中京电子",
+     "board": 5
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002579",
+     "name": "中京电子",
+     "board": 5
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光模块PCB",
+   "count": 1,
+   "max_board": 5,
+   "generic": false,
+   "score": 3.5,
+   "stocks": [
+    {
+     "code": "002579",
+     "name": "中京电子",
+     "board": 5
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "中成药",
+   "count": 2,
+   "max_board": 2,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002872",
+     "name": "天圣制药",
+     "board": 2
+    },
+    {
+     "code": "002275",
+     "name": "桂林三金",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "甲醇",
+   "count": 2,
+   "max_board": 2,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "600722",
+     "name": "金牛化工",
+     "board": 2
+    },
+    {
+     "code": "600227",
+     "name": "赤天化",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "工业机器人",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "603960",
+     "name": "克来机电",
+     "board": 4
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "柔性自动化装备",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "603960",
+     "name": "克来机电",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "汽车零部件",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "603960",
+     "name": "克来机电",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "生猪养殖",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002548",
+     "name": "金新农",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "猪饲料",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002548",
+     "name": "金新农",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "生猪现货涨价",
+   "count": 1,
+   "max_board": 4,
+   "generic": false,
+   "score": 3.0,
+   "stocks": [
+    {
+     "code": "002548",
+     "name": "金新农",
+     "board": 4
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "国企改革",
+   "count": 3,
+   "max_board": 3,
+   "generic": true,
+   "score": 2.55,
+   "stocks": [
+    {
+     "code": "300703",
+     "name": "创源股份",
+     "board": 3
+    },
+    {
+     "code": "002069",
+     "name": "獐子岛",
+     "board": 1
+    },
+    {
+     "code": "002820",
+     "name": "桂发祥",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AIGC",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    },
+    {
+     "code": "301066",
+     "name": "万事利",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "创新药",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002038",
+     "name": "双鹭药业",
+     "board": 1
+    },
+    {
+     "code": "002900",
+     "name": "哈三联",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "国企",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002038",
+     "name": "双鹭药业",
+     "board": 1
+    },
+    {
+     "code": "002642",
+     "name": "荣联科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "水产养殖",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "600467",
+     "name": "好当家",
+     "board": 1
+    },
+    {
+     "code": "002069",
+     "name": "獐子岛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "中药创新药",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002864",
+     "name": "盘龙药业",
+     "board": 1
+    },
+    {
+     "code": "000908",
+     "name": "石药景峰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI医疗",
+   "count": 2,
+   "max_board": 1,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "300290",
+     "name": "ST荣科",
+     "board": 1
+    },
+    {
+     "code": "603122",
+     "name": "合富中国",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "祈福文创",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "300703",
+     "name": "创源股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "IP文创",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "300703",
+     "name": "创源股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI玩具",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "300703",
+     "name": "创源股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "机器人零部件",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603926",
+     "name": "铁流股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "电机轴",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "603926",
+     "name": "铁流股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "精密减速器",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002164",
+     "name": "宁波东力",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "尼得科合作",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002164",
+     "name": "宁波东力",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "杭州国资",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "600814",
+     "name": "杭州解百",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "机器人投资",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002242",
+     "name": "九阳股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "厨房小家电",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002242",
+     "name": "九阳股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "“羊”字辈",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002242",
+     "name": "九阳股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "物理AI",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002122",
+     "name": "汇洲智能",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数据服务",
+   "count": 1,
+   "max_board": 3,
+   "generic": false,
+   "score": 2.5,
+   "stocks": [
+    {
+     "code": "002122",
+     "name": "汇洲智能",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购",
+   "count": 3,
+   "max_board": 2,
+   "generic": true,
+   "score": 2.05,
+   "stocks": [
+    {
+     "code": "603360",
+     "name": "百傲化学",
+     "board": 2
+    },
+    {
+     "code": "002864",
+     "name": "盘龙药业",
+     "board": 1
+    },
+    {
+     "code": "002145",
+     "name": "钛能化学",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "先进光源",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "边缘AI算力",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智慧建筑",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603030",
+     "name": "全筑股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "航空军工",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002651",
+     "name": "利君股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "机器人概念",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002651",
+     "name": "利君股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "粉磨装备",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002651",
+     "name": "利君股份",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "医药制造",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "002872",
+     "name": "天圣制药",
+     "board": 2
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "半导体设备",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603360",
+     "name": "百傲化学",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "工业杀菌剂",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "603360",
+     "name": "百傲化学",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "风电项目",
+   "count": 1,
+   "max_board": 2,
+   "generic": false,
+   "score": 2.0,
+   "stocks": [
+    {
+     "code": "600722",
+     "name": "金牛化工",
+     "board": 2
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报净利增长",
+   "count": 1,
+   "max_board": 3,
+   "generic": true,
+   "score": 1.85,
+   "stocks": [
+    {
+     "code": "603926",
+     "name": "铁流股份",
+     "board": 3
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "重组胶原蛋白",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600223",
+     "name": "福瑞达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "合成生物",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600223",
+     "name": "福瑞达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "山东国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600223",
+     "name": "福瑞达",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "天然气",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000593",
+     "name": "德龙汇能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "参股半导体",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000593",
+     "name": "德龙汇能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "氢能",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000593",
+     "name": "德龙汇能",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "IP运营",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数字文化体验",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "青岛国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600229",
+     "name": "城市传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "核苷原料药",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "301089",
+     "name": "拓新药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI眼镜",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002861",
+     "name": "瀛通通讯",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "智能声学",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002861",
+     "name": "瀛通通讯",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "消费电子",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002861",
+     "name": "瀛通通讯",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "GLP-1",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002038",
+     "name": "双鹭药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "免税重组",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603069",
+     "name": "海汽集团",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "海南国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603069",
+     "name": "海汽集团",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "道路客运",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603069",
+     "name": "海汽集团",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "连锁超市经营",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603708",
+     "name": "家家悦",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "生鲜食品",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603708",
+     "name": "家家悦",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "印尼血竭进口",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300086",
+     "name": "康芝药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "中药材贸易",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300086",
+     "name": "康芝药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "儿童药",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300086",
+     "name": "康芝药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光刻胶配套",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "电子化学品",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "半导体附属装备",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603324",
+     "name": "盛剑科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "海参",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600467",
+     "name": "好当家",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "预制菜",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600467",
+     "name": "好当家",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力租赁",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数据中心",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "化学制药",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002900",
+     "name": "哈三联",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "光模块",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600103",
+     "name": "青山纸业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "竹浆纸",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600103",
+     "name": "青山纸业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "福建国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600103",
+     "name": "青山纸业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "海洋牧场",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002069",
+     "name": "獐子岛",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "东数西算",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数据中心EPC",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603887",
+     "name": "城地香江",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "盘龙七片",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002864",
+     "name": "盘龙药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "短剧",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600088",
+     "name": "中视传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "央企传媒",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600088",
+     "name": "中视传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "布洛芬",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "301211",
+     "name": "亨迪药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "石药入主",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000908",
+     "name": "石药景峰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "丝绸文创",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "301066",
+     "name": "万事利",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "回购完毕",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "301066",
+     "name": "万事利",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "化妆品电商",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "605136",
+     "name": "丽人丽妆",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "尿素",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600227",
+     "name": "赤天化",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "煤化工",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600227",
+     "name": "赤天化",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "止咳宝片",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002728",
+     "name": "特一药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "罗森便利",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600280",
+     "name": "中央商场",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "破产剥离",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "600280",
+     "name": "中央商场",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "AI漫剧",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "605577",
+     "name": "龙版传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "出版发行",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "605577",
+     "name": "龙版传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "黑龙江国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "605577",
+     "name": "龙版传媒",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "资金占用整改",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000078",
+     "name": "ST海王",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "物流配送",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000078",
+     "name": "ST海王",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "饲料主业",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000702",
+     "name": "正虹科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "养殖业",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000702",
+     "name": "正虹科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "阿尔茨海默病",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000756",
+     "name": "新华制药",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "解热镇痛",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000756",
+     "name": "新华制药",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "钛白粉",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002145",
+     "name": "钛能化学",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "磷酸铁",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002145",
+     "name": "钛能化学",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "预重整",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000838",
+     "name": "*ST发展",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "再生资源",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000838",
+     "name": "*ST发展",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "房地产",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000838",
+     "name": "*ST发展",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "战略合作",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000838",
+     "name": "*ST发展",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "休闲食品",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002820",
+     "name": "桂发祥",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "非遗麻花",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002820",
+     "name": "桂发祥",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "汽车内饰",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002144",
+     "name": "宏达高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "按摩机器人",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002144",
+     "name": "宏达高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "超声诊断",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002144",
+     "name": "宏达高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "碳纤维",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002144",
+     "name": "宏达高科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "存储设备集采",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002642",
+     "name": "荣联科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "算力服务",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002642",
+     "name": "荣联科技",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "重大资产重组",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002480",
+     "name": "新筑股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": true
+  },
+  {
+   "keyword": "清洁能源",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002480",
+     "name": "新筑股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "高管增持",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "002480",
+     "name": "新筑股份",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "违规担保化解",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300290",
+     "name": "ST荣科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "河南国资",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "300290",
+     "name": "ST荣科",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "两岸医疗",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "603122",
+     "name": "合富中国",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "预重整推进",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000826",
+     "name": "*ST启环",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "数字环卫",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000826",
+     "name": "*ST启环",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "无人驾驶环卫",
+   "count": 1,
+   "max_board": 1,
+   "generic": false,
+   "score": 1.5,
+   "stocks": [
+    {
+     "code": "000826",
+     "name": "*ST启环",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报增长",
+   "count": 2,
+   "max_board": 1,
+   "generic": true,
+   "score": 1.2,
+   "stocks": [
+    {
+     "code": "601086",
+     "name": "国芳集团",
+     "board": 1
+    },
+    {
+     "code": "301211",
+     "name": "亨迪药业",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "股权激励",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "002197",
+     "name": "证通电子",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报减亏",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "002900",
+     "name": "哈三联",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "三季报扭亏",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "000908",
+     "name": "石药景峰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  },
+  {
+   "keyword": "超跌反弹",
+   "count": 1,
+   "max_board": 1,
+   "generic": true,
+   "score": 0.85,
+   "stocks": [
+    {
+     "code": "600829",
+     "name": "人民同泰",
+     "board": 1
+    }
+   ],
+   "in_sector_view": false
+  }
+ ],
+ "driver_coverage": {
+  "pool": 57,
+  "hit_same_day": 55,
+  "hit_any": 57,
+  "stale_skipped": 2,
+  "no_record": 0,
+  "rate": 96.5
+ },
+ "reason_records": [
+  {
+   "code": "002579",
+   "name": "中京电子",
+   "board": 5,
+   "sec_plates": [
+    "PCB板"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "高阶HDI",
+    "算力",
+    "光模块PCB",
+    "人形机器人"
+   ],
+   "reason": "1、据2026年11月6日互动易，公司具备高阶HDI技术延伸能力，更高阶产品按客户定制需求与算力场景持续预研；据2026年9月1日互动易，公司HDI产品可量产9-11阶，技术处于行业先进水平；据2026年9月15日业绩说明会，公司9-11阶高阶HDI产品主要用于算力加速卡，目前处于导入拓展阶段，聚焦AI算力与存储、网络通信等高景气赛道。\n2、据2026年11月6日互动易，珠海载板专线系MSAP产线，可用于800G、1.6T及以上光模块PCB生产与研发，产线处于爬坡阶段。\n3、据2026年8月27日募集说明书，公司深耕PCB二十余年，已实现二阶至任意阶HDI大批量生产能力，依托珠海富山新工厂发力高阶HDI等前沿工艺产品。\n4、据2025年10月10日互动易，柔性电路板及刚柔结合板是人形机器人关节部位必备部件，公司研发储备始终紧跟新兴市场发展动态，正根据具体技术和产品的下游市场实际需求推进中。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603960",
+   "name": "克来机电",
+   "board": 4,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "工业机器人",
+    "柔性自动化装备",
+    "汽车零部件"
+   ],
+   "reason": "1、据2026年11月24日股票交易异常波动公告，公司在工业机器人领域的主要产品为应用于自动化物流领域的厢式货柜内货品全自动智能化装卸机作业系统，2025年度销售金额及占比极低，公司目前不涉及人形机器人领域相关产品。\n2、据2026年11月25日风险提示性公告，公司股票流通盘较小且短期涨幅较大，存在较大的股价下跌风险；2026年前三季度归母净利润-544.91万元，处于亏损状态。\n3、据2026年4月24日年报，公司将柔性自动化装备与工业机器人系统应用于新能源汽车的电驱、电控、功率半导体模组及汽车智能辅助驾驶系统等汽车电子产品和汽车内饰产品的研发测试及生产制造领域。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002548",
+   "name": "金新农",
+   "board": 4,
+   "sec_plates": [
+    "大农业"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "生猪养殖",
+    "猪饲料",
+    "生猪现货涨价"
+   ],
+   "reason": "1、据2026年11月23日公告，公司以饲料生产及生猪养殖为核心业务，教槽料、保育料和种猪料为核心饲料产品；2026年前三季度饲料业务收入24.36亿元，营收占比约72.04%，生猪出栏122.74万头，同比增长32.02%。\n2、据证券时报2026年11月25日报道，全国外三元生猪出栏均价自11月10日低点连续13天上行，累计涨幅13.4%，屠宰开工率修复至33.16%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300703",
+   "name": "创源股份",
+   "board": 3,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "祈福文创",
+    "IP文创",
+    "AI玩具",
+    "国企改革"
+   ],
+   "reason": "1、据2025年12月5日投资者关系活动记录表，公司文化创意板块内销重点布局祈福文创、IP潮玩、AI玩具三大业务，祈福文创已与五台山、北高峰第一财神庙达成合作，短期资源更侧重祈福文创。\n2、据2026年11月6日互动易，目前公司AI玩具产品还处于开发优化阶段，以陪伴功能为核心定位的桌宠类产品，通过AI对话交互、情感陪伴、趣味互动等方式提供陪伴体验，对公司业绩不产生直接影响。\n3、据2026年8月27日半年报，公司围绕“IP+科技”战略方向，重点布局IP文创、祈福文创两大业务板块，已与天络行、酷乐潮玩等达成战略合作；2026年8月签署投资协议，拟以自有及自筹资金受让创酷未来90%股权。\n4、公司最终控制人为宁波市人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603926",
+   "name": "铁流股份",
+   "board": 3,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "机器人零部件",
+    "电机轴",
+    "三季报净利增长"
+   ],
+   "reason": "1、据2026年10月14日投资者关系活动记录表，公司推进工业机器人手臂部件研发项目，由既有汽车零部件客户提出需求，计划开发单臂承重10公斤级产品，目前处于联合开发测试环节，中长期目标转型为关节模组总成供应商。\n2、据2026年8月26日半年度报告，公司设立全资子公司吉尔福杭州智能机器人有限责任公司作为机器人零部件业务核心平台；年产60万套电机轴等新能源汽车核心零件项目已投入运行，取得理想汽车、零跑汽车、大众汽车等订单。\n3、据2026年10月28日三季报，前三季度营收17.09亿元，同比下降3.29%；归母净利润9349.46万元，同比增长22.39%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002164",
+   "name": "宁波东力",
+   "board": 3,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "人形机器人",
+    "精密减速器",
+    "尼得科合作"
+   ],
+   "reason": "1、据2026年11月20日投资者关系活动记录表，公司精密减速器聚焦具身智能及工业自动化装备赛道，布局谐波减速器、精密行星减速器两大核心产品，目前在手订单充分，产能处于爬坡阶段；一期厂房将于11月底完成竣工验收，12月底前完成首批大量进口设备安装调试投用。\n2、据2026年8月27日向特定对象发行A股股票募集资金使用的可行性分析报告，公司与尼得科传动技术株式会社签署战略合作协议，成为其机器人减速器零部件独家合作伙伴。\n3、据2026年10月28日三季报，公司前三季度营收12.20亿元，同比增长9.42%；归母净利润8151.34万元，同比增长39.45%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600814",
+   "name": "杭州解百",
+   "board": 3,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "百货零售",
+    "杭州国资"
+   ],
+   "reason": "行业原因：\n华泰证券策略近日判断指出，内需消费或现困境反转迹象，必选率先改善，部分可选亦有回升迹象，白酒、家电、医疗器械、纺织制造等景气回升或初现拐点。\n公司原因：\n1、据2026年11月25日证券日报，公司持续推出IP首展、品牌限时展等首发内容，打造策展、科技互动类新型消费场景，场内落地1918国货陈列馆与非遗茶空间，国庆期间推出赛博朋克机器人嘉年华，打造线上线下联动的沉浸式消费体验。\n2、据2026年7月14日互动易，公司零售主业深耕省内核心经济圈，探索轻资产管理输出模式，打造标准化商业产品矩阵，战略投资端推动股权投资与基金运作双轮驱动。\n3、据2026年11月25日股票交易异常波动公告，公司主营业务为商品零售，主要业态有百货商场、购物中心，最终控制人为杭州市人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002242",
+   "name": "九阳股份",
+   "board": 3,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "机器人投资",
+    "厨房小家电",
+    "“羊”字辈"
+   ],
+   "reason": "1、据2026年11月18日股票交易异常波动暨风险提示公告，公司持有深思考7.92%股权，其深耕类脑人工智能与多模态语义理解技术，公司通过全资子公司参股享刻智能，以财务性投资方式布局机器人相关领域，相关业务尚处于早期阶段。\n2、据2026年9月30日股票交易异常波动公告，公司主营厨房小家电及相关产品研发、生产和销售；据2025年11月13日互动易，公司是市场上较早推出炒菜机器人产品的公司。\n3、据中证报2026年10月27日报道，2027年为羊年，近期部分A股名称中带有“羊、洋、阳”的个股频频异动，公司因名称含“阳”被市场归入“羊”字辈炒作。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002122",
+   "name": "汇洲智能",
+   "board": 3,
+   "sec_plates": [
+    "ST摘帽"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "撤销风险警示",
+    "物理AI",
+    "数据服务"
+   ],
+   "reason": "1、据2026年11月20日公告，公司股票于11月23日开市起复牌，撤销其他风险警示，简称由“ST汇洲”变更为“汇洲智能”，日涨跌幅限制仍为10%。\n2、据2026年6月30日人民财讯报道，全资子公司北京汇洲智能技术有限公司完成对北京虚时科技的战略投资，加码物理AI赛道；据2025年12月25日微信公众号，子公司热热数据为多家头部具身企业提供近千人规模的数据采标服务，并提出“三层金字塔”数据架构。\n3、据2026年11月13日投资者关系活动记录表，公司主营高端装备制造与大模型数据服务，前三季度大模型数据服务板块收入同比增长88%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603030",
+   "name": "全筑股份",
+   "board": 2,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "先进光源",
+    "边缘AI算力",
+    "智慧建筑"
+   ],
+   "reason": "1、据2026年11月18日互动易，公司前期成立子公司华芯全筑智源上海科技有限公司，但未产生营业收入；据新华财经2025年10月31日报道，华芯极光聚焦商用化创新型光源解决方案，华芯全筑致力于光源核心精密测量设备的研发与制造。\n2、据2026年8月26日半年度报告，公司成立云阙智算苏州物联科技有限公司，推动分布式边缘AI算力服务及应用，目前业务尚处于早期试点培育阶段。\n3、据2026年8月26日半年度报告，公司依托与同济大学共建的人工智能联合实验室，提供“智慧建造、智慧建筑、智慧园区、智慧康养”系统化解决方案。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002651",
+   "name": "利君股份",
+   "board": 2,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "航空军工",
+    "机器人概念",
+    "粉磨装备"
+   ],
+   "reason": "1、据2026年11月24日财闻报道，第十六届中国国际航空航天博览会将于12月7日至13日在珠海举办，航展进入倒计时提振军工板块关注度；据2026年8月28日半年报，全资子公司德坤航空主营航空航天零部件制造，具备军工业务必要资质，形成工装模具、精密加工、钣金制造及部组件装配能力，可实现航空航天部组件整体交付。\n2、据2023年6月20日互动易，子公司利君环际从事智能装备制造、工业机器人制造，已储备相关核心技术，部分产品正推动工业落地应用。\n3、据2026年8月28日半年报，公司主营辊压机、高压辊磨机及配套设备，两类产品均入选国家制造业单项冠军产品。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002872",
+   "name": "天圣制药",
+   "board": 2,
+   "sec_plates": [
+    "ST摘帽"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "撤销风险警示",
+    "医药制造",
+    "中成药"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月21日公告，公司撤销其他风险警示申请已获深交所审核同意，11月24日开市起复牌，证券简称由“ST天圣”变更为“天圣制药”，当日高开高走。\n2、据2026年11月23日互动易，公司主要从事医药制造业务，拥有中成药药品和化学药品批准文号300余个，剂型包括片剂、胶囊剂、颗粒剂、茶剂、丸剂、注射剂等，品种覆盖儿科、妇科、心血管系统、消化系统、骨科、呼吸科、抗感染治疗等十多个领域。\n3、据2026年10月24日公告，全资子公司湖北天圣药业获得盐酸甲氧氯普胺注射液《药品注册证书》。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603360",
+   "name": "百傲化学",
+   "board": 2,
+   "sec_plates": [
+    "国产芯片"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "回购",
+    "半导体设备",
+    "工业杀菌剂"
+   ],
+   "reason": "1、据2026年11月23日公告，公司拟以集中竞价方式回购股份，回购金额不低于2亿元、不超过3亿元，回购价格不超过15.79元/股，预计回购1266.62万股至1899.94万股，占总股本1.79%至2.69%。\n2、据2026年9月11日互动易，芯慧联自研涂胶显影设备将转入国内头部晶圆厂开展工艺验证；据2026年9月24日互动易，其自研电镀设备主要面向先进封装领域。\n3、据2025年年报，公司深耕异噻唑啉酮类工业杀菌剂二十余年，总产能超4万吨/年，为亚洲最大原药剂生产企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600722",
+   "name": "金牛化工",
+   "board": 2,
+   "sec_plates": [
+    "石油化工"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "甲醇",
+    "风电项目"
+   ],
+   "reason": "1、据2026年11月16日互动易，公司承德隆化200MW风电项目已完成项目核准及子公司增资，7月签订4.36亿元风机设备采购合同，项目计划2027年底前建成并网投产。\n2、据2026年9月16日互动易，公司主要业务为甲醇生产和销售，由持股50%的控股子公司金牛旭阳经营，甲醇生产能力20万吨/年，采用焦炉气制甲醇。\n3、据2026年4月15日环境、社会及治理报告，公司控股股东为河北高速公路集团，实际控制人为河北省国资委。\n4、据2026年10月29日三季报，公司前三季度营收3.79亿元同比增长4.62%，归母净利润5061.68万元同比增长40.49%，主要系甲醇售价增长、投资收益增加等因素所致。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600223",
+   "name": "福瑞达",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "零售",
+    "重组胶原蛋白",
+    "合成生物",
+    "山东国资"
+   ],
+   "reason": "1、据同花顺快讯，11月25日零售板块短线拉升、涨幅居前，杭州解百3连板涨停，叠加华泰证券策略关于内需消费困境反转、必选率先改善的判断，消费改善预期升温；公司控股股东为山东省商业集团（山东商业零售系），随板块情绪联动走强。\n2、据2026年11月13日互动易，公司依靠合成生物产业基础开发透明质酸、聚谷氨酸等多种原料，现重点推进各型重组胶原蛋白及生物合成王浆酸的产业化与规模提升。\n3、据2026年11月10日公告，公司第一大股东山东省商业集团有限公司持股46.62%，实际控制人为山东省国资委。\n4、据2026年4月3日年报，公司推出珂谧穿膜胶原次抛等系列产品，并联合开发出全球首个生物合成王浆酸，应用于瑷尔博士精研金致系列。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000593",
+   "name": "德龙汇能",
+   "board": 1,
+   "sec_plates": [
+    "天然气"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "天然气",
+    "参股半导体",
+    "氢能"
+   ],
+   "reason": "1、据2026年11月23日股票交易异常波动公告，公司股票连续2个交易日收盘价涨幅累计偏离22.37%，公司核实经营情况及内外部经营环境未发生重大变化，近五年燃气供应及其相关收入占总收入比例均超过90%，仍聚焦天然气主业，无半导体业务。\n2、据2026年11月7日公告，公司拟受让深圳长腾智汇科技有限公司部分股权，交易方式为协议收购、增资，进度进行中；据2026年9月24日互动易，长腾智汇经营范围包含集成电路设计、制造、销售，系公司参与新产业的尝试。\n3、据2026年11月2日互动易，公司主要在氢能业务、分布式光伏、综合能源站及余热综合利用等新能源应用方向布局，并构建“燃气+新能源”协同发展的综合能源服务体系。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600229",
+   "name": "城市传媒",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AIGC",
+    "IP运营",
+    "数字文化体验",
+    "青岛国资"
+   ],
+   "reason": "1、据2026年5月8日互动易，公司加快《生命奇旅》LBE大空间等数字文化沉浸体验项目全国落地、多点布局，并深度对接火山引擎等数智化企业推进AI赋能。\n2、据2026年8月29日半年报，公司布局VR/AR、AIGC、影视等文化科技融合业务，开发数字科普数字文博VR、3D产品及LBE数字文化沉浸式大空间体验产品，开发AIGC人工智能生成内容应用产品。\n3、据2026年4月30日年报，公司拥有出版、发行、文化科技融合、文化空间运营等多元业态，所属青岛出版社为国家一级出版社、全国百佳图书出版单位。\n4、公司控股股东为青岛出版集团，实际控制人为青岛市财政局。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301089",
+   "name": "拓新药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "流感",
+    "核苷原料药"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月24日界面报道，国家疾控局提示流感已进入流行季；据2025年12月2日互动易，公司全资子公司新乡制药规模化稳定生产供应利巴韦林原料药，为下游流感治疗药物生产提供原料保障。\n2、据2026年10月29日募集说明书，公司主营核苷酸类原料药及医药中间体，核心产品胞磷胆碱钠在北美、欧洲广泛用于膳食补充剂，具认知健康支持功效。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002861",
+   "name": "瀛通通讯",
+   "board": 1,
+   "sec_plates": [
+    "智能眼镜/MR头显"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI眼镜",
+    "智能声学",
+    "消费电子"
+   ],
+   "reason": "1、据2026年7月9日投资者关系活动记录表，公司长期配套下游终端品牌，已掌握产品全套设计技术、工艺制作技术、检测测试技术及精密制造技术，后续将积极推进声学、传输线材两大核心技术在智能眼镜等终端领域的应用。\n2、据2026年8月29日半年度报告，公司开发双馈式主动降噪、骨传导、全景声、AI语音唤醒、实时翻译、开放式音频等技术方案，并推进声学技术在智能汽车、智能音箱、医疗助听、智能机器人等领域的应用。\n3、据2025年年度报告，公司电源、数据传输产品及精密组件重点推进产品及技术在医疗器械、安防、新能源汽车等领域的应用，产品包含AR设备极细同轴线等。 \n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002038",
+   "name": "双鹭药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "创新药",
+    "GLP-1",
+    "国企"
+   ],
+   "reason": "1、公司主营生物技术新药，产品覆盖抗肿瘤、心脑血管、糖尿病等治疗领域，在研重点创新药包括已提交注册申请的长效GLP-1度拉糖肽等。\n2、据2026年10月19日互动易，公司长效GLP-1已提交上市申请，目前正在审评中；据2026年10月19日互动易，长效立生素、长效GLP-1均处于正常沟通交流、等待核查和检验报告阶段，处于正常审评中。\n3、据2026年6月5日投资者关系活动记录表，公司全球首创的抗血小板聚集创新药DT678已进入调整优化后的Ⅱ期临床试验，试验方案计划入组60例。\n4、公司最终控制人为新乡市财政局，属于国有企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603069",
+   "name": "海汽集团",
+   "board": 1,
+   "sec_plates": [
+    "海南自由贸易港"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "免税重组",
+    "海南国资",
+    "道路客运"
+   ],
+   "reason": "1、据2026年11月21日公告，公司重大资产重组继续推进，拟以现金及/或资产方式收购剥离华庭项目后的海旅免税控制权，具体资产范围尚需交易双方进一步协商确定。\n2、据2026年9月21日投资者关系活动记录表，公司在现有双环巴士基础上，聚焦省内重点景区、乡村旅游示范点、红色教育基地等核心场景，打造“红色研学+自然风光+乡村体验”等多元化特色旅游专线，构建“交通+旅游”全链条融合新生态。\n3、据2025年4月29日年报，公司为海南道路客运龙头，主营客运、汽车服务、商业三大板块，最终控制人为海南省国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "601086",
+   "name": "国芳集团",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "零售",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n华泰证券策略近日判断指出，内需消费或现困境反转迹象，必选率先改善，部分可选亦有回升迹象，白酒、家电、医疗器械、纺织制造等景气回升或初现拐点。\n公司原因：\n1、据2026年10月30日三季报，公司前三季度营收6.20亿元，同比增长8.25%，归母净利润9107.39万元，同比增长49.51%。\n2、据2026年8月26日半年报，公司以百货购物中心为主、超市为辅，运营门店11家，面积合计36.17万平方米，为甘肃省内最大的连锁零售企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603708",
+   "name": "家家悦",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "零售",
+    "连锁超市经营",
+    "生鲜食品",
+    "AI应用"
+   ],
+   "reason": "行业原因：\n华泰证券策略近日判断指出，内需消费或现困境反转迹象，必选率先改善，部分可选亦有回升迹象，白酒、家电、医疗器械、纺织制造等景气回升或初现拐点。\n公司原因：\n1、据同花顺快讯，11月25日零售板块短线拉升、涨幅居前，杭州解百3连板涨停，叠加华泰证券策略关于内需消费困境反转、必选率先改善的判断，消费改善预期升温，公司作为山东连锁超市龙头随板块走强。\n2、公司主要业务为连锁超市经营，是以生鲜食品超市为主体，以区域一体化物流为支撑，以发展现代农业生产基地和食品加工产业链为保障，以经营生鲜为特色的多业态、全渠道、全产业链的综合性零售渠道商。\n3、据2026年11月24日投资者关系活动记录表，公司高度关注AI发展及应用，已在防损、自动预测及补货、经营分析等场景应用AI技术；据2026年8月21日半年报，公司扩大AI技术在智能防损、质检等场景落地应用，并推进威海温泉冷链物流等项目。\n4、据2026年11月24日证券日报报道，公司自有品牌及定制化商品销售额占比超17%，近年持续保持20%以上销售增长，预计明年占比继续提升。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300086",
+   "name": "康芝药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "印尼血竭进口",
+    "中药材贸易",
+    "儿童药"
+   ],
+   "reason": "1、据2026年11月23日官微，全资子公司海南康芝生物科技与印尼西加英达曼迪里有限公司签署印尼血竭购销业务合作协议，为首单具备印尼本土企业加工生产、全链条质量可溯源、交易支持人民币结算三大特征的跨境药材贸易合作，公司依托自贸港加工增值免关税政策推进海南康芝国际中药材交易市场筹建。\n2、据2025年年报，公司专注儿童药物研发生产销售超30年，拥有涵盖抗感染、呼吸、消化等品类30多个儿童药品种，打造中国儿童大健康产业的领军品牌。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603324",
+   "name": "盛剑科技",
+   "board": 1,
+   "sec_plates": [
+    "光刻机（胶）"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光刻胶配套",
+    "电子化学品",
+    "半导体附属装备"
+   ],
+   "reason": "1、据2026年11月21日异常波动公告，公司电子化学品材料业务不包括光刻胶产品，主要产品剥离液属于光刻胶配套的清洗试剂，2025年度该业务收入4949.44万元，占主营业务收入比例4.41%。\n2、据2026年8月28日半年度报告，公司半导体附属装备及核心零部件为核心战略业务之一，已逐步完成工艺废气处理设备、真空设备和温控设备的国产化研制，产品包括Local Scrubber、Local VOC、真空设备、温控设备等。\n3、据2026年4月23日年度报告，公司主营绿色厂务系统解决方案、装备及核心零部件、电子化学品材料，长期服务集成电路、半导体显示、新能源等领域知名企业。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600467",
+   "name": "好当家",
+   "board": 1,
+   "sec_plates": [
+    "大农业"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "海参",
+    "水产养殖",
+    "预制菜"
+   ],
+   "reason": "行业原因：\n1、据广发证券11月22日研报，本周华东鲈鳜黑鱼等主要特水料跟随华南虾特料涨价，进口鱼粉报价涨至23250元/吨，秘鲁第二捕捞禁令下预计四季度至2027年一季度鱼粉价格维持高位震荡，水产料企业成本压力下提价传导。\n2、据广发证券11月22日研报，小棚虾和土塘冬棚虾投苗情况显示，四季度虾蟹料需求有望实现同比较快增长，生鱼、罗非鱼价格后续保持乐观预期。\n公司原因：\n1、据2026年11月23日公告，公司股票九个交易日累计涨幅40.63%，期间五个交易日涨停，公司提示市场情绪过热、非理性炒作及股价快速回落风险，生产经营正常，不存在应披露而未披露的重大事项。\n2、据2026年5月12日股东会会议资料，公司食品加工业聚焦冷冻预制菜与保健类产品，冷冻预制菜业务依托现有出口优势并优化营销拓展国内市场。\n3、据2026年4月24日年报，公司拥有5万亩围堰精养殖海域、130万平方米现代化海参育苗车间，为国内最大的“有机刺参”育苗基地，形成育种育苗至销售服务的海参全产业链体系。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002197",
+   "name": "证通电子",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "算力租赁",
+    "数据中心",
+    "股权激励"
+   ],
+   "reason": "1、据2026年11月19日公告，公司披露2026年股票期权与限制性股票激励计划草案，拟授予1600万股限制性股票及532万份股票期权，业绩考核目标为2027年营业收入较2025年增长率不低于30%或净利润不低于3000万元。\n2、据2026年5月22日互动易，公司自研多源异构算力调度平台已实现GPU资源纳管与综合调度，具备对外提供渲染、AI推理等算力出租服务的能力，目前自持算力规模约200P，合作算力规模超100P。\n3、据2026年9月17日投资者关系活动记录表，公司积极推动从IDC运营商到“AIDC+算力运营商”升级，对现有数据中心通用算力机房进行液冷改造，深圳证通云计算、东莞宏达通信已实现盈利。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002900",
+   "name": "哈三联",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "创新药",
+    "化学制药",
+    "三季报减亏"
+   ],
+   "reason": "1、据2026年4月28日年报，公司重点推进创新药及复杂制剂研发，取得罗沙司他胶囊等4项生产批件，全年研发投入1.33亿元。\n2、据2026年4月28日年报，公司主营化学制药，神经系统及心脑血管用药形成产品梯队，核心品种米氮平片市场份额居同类首位。\n3、据2026年10月28日三季报，公司前三季度营收6.23亿元，同比增长7.32%，归母净利润亏损同比收窄54.85%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600103",
+   "name": "青山纸业",
+   "board": 1,
+   "sec_plates": [
+    "光通信"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "光模块",
+    "竹浆纸",
+    "福建国资"
+   ],
+   "reason": "1、据2026年10月17日业绩说明会公告，子公司恒宝通800G光模块处于客户送样验证中，400G产品未大规模量产；据2026年8月27日互动易，恒宝通800G光模块已完成设计并进入样品试制阶段，其不属于CPO技术方案。\n2、据2026年8月5日公告，公司控股股东为福建省轻纺控股有限责任公司，实际控制人为福建省人民政府国有资产监督管理委员会。\n3、据2026年8月25日半年报，公司已形成林浆纸产业链，规模化生产竹浆及竹系列产品，主材原料中毛竹占比持续提高，主营制浆造纸。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002069",
+   "name": "獐子岛",
+   "board": 1,
+   "sec_plates": [
+    "大农业"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "水产养殖",
+    "海洋牧场",
+    "国企改革"
+   ],
+   "reason": "行业原因：\n1、据广发证券11月22日研报，本周华东鲈鳜黑鱼等主要特水料跟随华南虾特料涨价，进口鱼粉报价涨至23250元/吨，秘鲁第二捕捞禁令下预计四季度至2027年一季度鱼粉价格维持高位震荡，水产料企业成本压力下提价传导。\n2、据广发证券11月22日研报，小棚虾和土塘冬棚虾投苗情况显示，四季度虾蟹料需求有望实现同比较快增长，生鱼、罗非鱼价格后续保持乐观预期。\n公司原因：\n1、据2025年4月25日年报，公司主营刺参、虾夷扇贝、鲍鱼等海珍品，拥有940多平方公里国家一类水质海洋牧场，为首批国家级海洋牧场示范区，构建从种业、增养殖到冷链物流、销售的全产业链布局。\n2、据2026年9月24日公告，公司挂牌转让参股公司阿穆尔公司18%股权，系聚焦主责主业、盘活存量资产，预计增加2026年度归母净利润1079万元。\n3、据2025年4月25日年报，公司最终控制人为大连市人民政府国有资产监督管理委员会，控股股东为大连盐化集团有限公司，具备地方国企背景。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603887",
+   "name": "城地香江",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "东数西算",
+    "数据中心EPC"
+   ],
+   "reason": "1、据2026年9月10日公告，公司全资子公司参与的联合体已签署中国移动宁夏中卫数据中心D区D01、D02机楼机电工程EPC总承包框架协议标段一，D01机楼34MW含21MW风冷和13MW液冷。\n2、据2026年4月21日年度报告，公司提供包含数据中心产品、集成、投资及运营在内的全产业链服务，临港数据中心已运营IT容量约20MW、设计60MW，太仓数据中心可支持80MW。\n3、据2026年5月8日年度股东会会议资料，公司锚准国家“东数西算”八大枢纽节点布局战略，考虑继续布局自建、自持、自营的超大型、高标准、绿色低碳智算中心业务。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002864",
+   "name": "盘龙药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "中药创新药",
+    "盘龙七片",
+    "回购"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月16日投资者关系管理信息，主导产品盘龙七片新增入选《国家基本药物目录2026年版》，为全国独家专利、医保甲类品种，公司围绕基层市场拓展等五方面推进经营落地。\n2、据2026年11月24日财闻报道，截至11月24日公司累计回购股份357675股，占总股本0.2616%，合计支付711.37万元。\n3、据2026年8月28日半年报及2026年9月4日电话会议，公司中药改良型新药PL-XP004已取得临床批件进入Ⅱ期临床试验，中药1.1类新药PL-XP013Ⅱ期临床试验稳步推进，化学仿制药PL-XP001已完成上市申报。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600088",
+   "name": "中视传媒",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "短剧",
+    "AI应用",
+    "央企传媒"
+   ],
+   "reason": "1、据2026年11月13日互动易，公司持续关注AI技术及短剧等新业态发展对文化传媒产业的影响，积极探索AI技术在内容创制、活动策划等领域的融合应用，目前在部分内容制作中使用AI技术，在影视内容创制业务中承接了短剧、短视频项目，是公司对该类业务的尝试和探索。\n2、据2026年10月30日互动易，公司在内容制作过程中以传统制作模式为主，探索应用AI技术进行辅助，例如在《CMG夏日歌会》《文明与烟火》等项目中，使用AI技术辅助开展部分工作。\n3、据2026年9月1日互动易，公司实际控制人为中央广播电视总台。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301211",
+   "name": "亨迪药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "流感",
+    "布洛芬",
+    "三季报增长"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据界面2026年11月24日报道，国家疾控局提示流感已进入流行季；据同花顺概念资料，公司主要产品布洛芬颗粒适用于普通感冒或流行性感冒引起的发热。\n2、据2026年7月9日业绩说明会，公司原料药产品主要为非甾体抗炎类原料药布洛芬、右旋布洛芬和精氨酸布洛芬，制剂产品包括布洛芬颗粒、缓释胶囊及混悬液等。\n3、据2026年10月27日三季报，公司前三季度营收3.54亿元，同比增长11.14%；归母净利润3965.78万元，同比增长89.45%。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000908",
+   "name": "石药景峰",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "中药创新药",
+    "石药入主",
+    "三季报扭亏"
+   ],
+   "reason": "1、据2026年3月19日公告，石药控股已成为公司控股股东，实际控制人变更为蔡东晨；据2026年9月2日互动易，公司未来业务包括中成药为主、化药为辅的存量业务及生物医药为主的增量业务。\n2、据2026年4月29日年报，公司聚焦中药创新药平台核心建设，重点推进中药创新药研发，并稳步推进高分子交联特殊制剂等特色研发。\n3、据2026年10月26日三季报，公司前三季度营收3.08亿元，同比增长10.12%，归母净利润153.18万元，同比扭亏为盈。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "301066",
+   "name": "万事利",
+   "board": 1,
+   "sec_plates": [
+    "人工智能大模型",
+    "AI大模型/智能体"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "丝绸文创",
+    "AIGC",
+    "回购完毕"
+   ],
+   "reason": "1、据2026年5月21日互动易，公司打造丝绸行业首个垂类实用图形AIGC大模型，构建智能设计下单平台，联动AI智能工厂实现柔性生产与即时交付。\n2、据2025年4月27日年报，公司主营丝绸文化创意品及数码印花加工，2026年将建设国家级纺织AIGC创新平台，开放70万+花型数据库和300余种生成算法。\n3、据2026年11月24日公告，公司回购股份实施完毕，累计回购266.5万股，占总股本1.13%，支付金额3000万元，回购均价11.25元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "605136",
+   "name": "丽人丽妆",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI应用",
+    "化妆品电商",
+    "零售"
+   ],
+   "reason": "1、据2026年4月22日公告，公司使用AI技术提升产品文案质量、制作短视频脚本、实现商品设计图批量生产，并使用AI数字人、虚拟主播实现24小时不间断直播，提升转化。\n2、据2026年11月25日快讯，零售板块短线拉升，杭州解百涨停，中央商场、百大集团等纷纷走高。\n3、据2026年8月14日半年报，公司主营电商零售和品牌营销运营服务，深耕化妆品网络零售十余年，与多个知名化妆品品牌建立合作，覆盖欧美日韩等多个国家和细分品类。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600227",
+   "name": "赤天化",
+   "board": 1,
+   "sec_plates": [
+    "大农业"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "尿素",
+    "甲醇",
+    "煤化工"
+   ],
+   "reason": "1、据2026年8月28日半年度报告，桐梓化工具备年产30万吨合成氨、52万吨尿素、30万吨甲醇、10万吨复合肥及10万吨M100甲醇燃料的生产能力。\n2、据2026年11月24日公司官网，公司是贵州省大型氮肥、甲醇生产企业，“赤”牌尿素在省内保持70-80%的占有率。\n3、据2026年10月30日三季报，公司前三季度营收19.95亿元，同比增长27.14%，归母净利润2802.78万元，同比扭亏为盈，主要系报告期桐梓化工尿素销量增加、甲醇销量增加及结算单价上涨所致。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002728",
+   "name": "特一药业",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "流感",
+    "止咳宝片"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月24日界面报道，国家疾控局提示流感已进入流行季；据2026年11月16日互动易，公司药品涵盖止咳、退热、抗生素、抗病毒药等类别，核心产品止咳宝片具有百年历史，用于止咳化痰的还有小儿止咳糖浆、小儿咳喘灵颗粒等。\n2、据2026年10月28日投资者关系活动记录表，公司为应对秋冬季呼吸道疾病高发期，已提前储备原材料安全库存并做好排产，营销资源向呼吸类产品倾斜，将止咳宝片与蒲地蓝消炎片、感冒灵颗粒等组合销售。\n3、据2026年10月27日三季报，公司前三季度营收6.24亿元，归母净利润4944.97万元。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600280",
+   "name": "中央商场",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "百货零售",
+    "罗森便利",
+    "破产剥离"
+   ],
+   "reason": "行业原因：\n华泰证券策略近日判断指出，内需消费或现困境反转迹象，必选率先改善，部分可选亦有回升迹象，白酒、家电、医疗器械、纺织制造等景气回升或初现拐点。\n公司原因：\n1、据2026年8月27日半年度报告，公司主营业务未发生重大变化，主业为百货零售，同时通过与“罗森”的战略合作拓展便利店业务，兼有部分房地产开发业务。\n2、据2026年8月27日半年度报告，公司与罗森开展战略合作，推进中商罗森便利门店业务拓展，安徽罗森盈利来源包括自营门店商品销售及加盟店品牌授权管理收入；上半年调改品牌337个、调改面积51,233平方米。\n3、据2026年11月13日公告，全资子公司苏州中商置地破产清算，自管理人接管之日起不再纳入合并报表范围，剥离长期亏损主体，预计将为公司当期合并报表带来利润贡献。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "605577",
+   "name": "龙版传媒",
+   "board": 1,
+   "sec_plates": [
+    "短剧/互动影游"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI漫剧",
+    "出版发行",
+    "黑龙江国资"
+   ],
+   "reason": "1、据2026年8月26日半年度报告，公司首部AI漫剧《穿越1988》完成170集制作上线，全网播放量突破1.2亿，红果热度值超4000万。\n2、据2026年8月26日半年度报告，公司从事图书、期刊及电子出版物出版、发行及印刷服务，旗下新华书店集团发行网点覆盖黑龙江全省。\n3、据2026年8月26日半年度报告，公司控股股东为黑龙江出版集团，最终控制人为黑龙江省财政厅。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000078",
+   "name": "ST海王",
+   "board": 1,
+   "sec_plates": [
+    "ST股"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "资金占用整改",
+    "医药商业",
+    "物流配送"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月23日互动易，公司于8月28日披露《关于控股股东资金占用情况及其整改方案的公告》，海王集团已出具整改计划，以最快速度清偿占用款项为核心目标，全面启动多项资金筹措方案。\n2、据2026年8月29日半年度报告，公司医药商业网络覆盖全国20多个省份，拥有19个省级物流中心、67个物流仓库，2026年上半年为近9.7万家客户提供药品与器械配送服务。\n3、据2026年11月25日快讯，医药商业板块持续走高，人民同泰涨停，华人健康、一心堂、药易购等跟涨。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000702",
+   "name": "正虹科技",
+   "board": 1,
+   "sec_plates": [
+    "大农业"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "饲料主业",
+    "养殖业"
+   ],
+   "reason": "1、据2026年11月19日公告，公司控股股东为观盛投资，实际控制人为岳阳城陵矶综合保税区管理委员会，本次表决权委托协议到期不续签不会导致控股股东及实际控制人发生变化。\n2、据2026年10月28日三季报，公司前三季度营收8.70亿元，同比增长9.19%，归母净利润-2752.08万元，亏损同比扩大162.61%。\n3、据2026年8月26日半年报，公司主营饲料研发生产销售、生猪养殖及饲料原料销售，饲料产品覆盖猪、鸡、鸭、鱼、牛、羊六大系列。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000756",
+   "name": "新华制药",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "流感",
+    "阿尔茨海默病",
+    "解热镇痛"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年8月26日半年报，公司是亚洲主要的解热镇痛类药物生产出口基地，形成布洛芬、阿司匹林、咖啡因等七大原料药产品系列。\n2、据2026年9月21日公告，公司子公司获盐酸多奈哌齐口崩片药品注册证书，用于轻、中、重度阿尔茨海默病症状治疗，丰富中枢神经领域产品系列。\n3、据2026年5月15日互动易，公司OAB-14项目阿尔茨海默病治疗处于临床Ⅱa期，受试者入组已完成。\n4、据2025年年度报告，公司最终控制人为山东省人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002275",
+   "name": "桂林三金",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "流感",
+    "中成药"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年11月24日界面报道，疾控局提示流感已进入流行季；据2025年11月9日互动易，子公司湖南三金产品玉叶解毒颗粒、三金牌感冒清热颗粒适用于感冒咳嗽、咽喉肿痛等症。\n2、据2026年11月23日互动易，生物制药为战略组成部分，孙公司宝船生物在研项目20个，其中正式管线项目6个。\n3、据2026年4月29日年报，公司立足口喉健康、泌尿健康两大领域，三金片、桂林西瓜霜在咽喉、口腔、泌尿系统中成药用药领域处于行业领先地位。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002145",
+   "name": "钛能化学",
+   "board": 1,
+   "sec_plates": [
+    "其他"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "回购",
+    "钛白粉",
+    "磷酸铁"
+   ],
+   "reason": "1、据2026年11月24日公告，公司拟以自有资金及自筹资金回购股份，回购金额不低于6亿元不超过12亿元，回购价格不超过5.88元/股，按上限测算预计回购约占总股本5.36%，用于维护公司价值及股东权益。\n2、据2025年年度报告，公司前身为中国核工业集团公司四零四厂钛白分厂，已形成近70万吨金红石型钛白粉年生产能力，产能位列国内第二，钛白粉销售收入占2024年总销售收入84%以上。\n3、据2026年9月17日公告，公司已建成在产磷酸铁产能10万吨/年，通过白银新材料实施年产60万吨磷酸铁前驱体项目，打造“硫-磷-铁-钛-锂”绿色循环产业链，打开业绩增长“第二曲线”。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000838",
+   "name": "*ST发展",
+   "board": 1,
+   "sec_plates": [
+    "ST股"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "预重整",
+    "再生资源",
+    "房地产",
+    "战略合作"
+   ],
+   "reason": "1、据2026年11月19日公告，公司与重庆两江新区龙盛现代制造业集聚区管理局、天津景行新能签署《战略合作框架协议》，三方拟共建再生资源综合利用产业基地，布局永磁材料回收再生、贵金属二次资源精炼产线。\n2、据2026年9月30日公告，重整投资人已将1亿元重整履约保证金全部支付到位；据2026年8月10日公告，重整投资协议如顺利推进并成功实施，有利于改善财务结构、化解债务危机并引入增量资金。\n3、据2026年8月22日半年报，公司主营房地产开发与危废处理，地产板块可结转资源较上年同期大幅减少。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002820",
+   "name": "桂发祥",
+   "board": 1,
+   "sec_plates": [
+    "大消费"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "休闲食品",
+    "非遗麻花",
+    "国企改革"
+   ],
+   "reason": "行业原因：\n华泰证券策略近日判断指出，内需消费或现困境反转迹象，必选率先改善，部分可选亦有回升迹象，白酒、家电、医疗器械、纺织制造等景气回升或初现拐点。\n公司原因：\n1、据2026年11月24日公司官网，公司以“非遗技艺+国潮新品”亮相进博会，现场展示1.5米巨型麻花及麻花搓制技艺，并推出融合传统中式与现代审美的节庆馈赠系列包装产品。\n2、据2026年9月3日投资者关系活动记录表，公司推出“清风玉食”粗粮轻养系列夹馅麻花、“麻焙焙”“好事发生”系列烘焙小麻花及休闲糕点，并以休闲产品拓展全国市场。\n3、据2026年8月12日半年报，公司主营传统特色及其他休闲食品，主打产品“十八街麻花”制作技艺入选国家级非物质文化遗产名录，在津京冀设有65家直营店及1家食品主题综合商场。\n4、公司实控人为天津市河西区人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002144",
+   "name": "宏达高科",
+   "board": 1,
+   "sec_plates": [
+    "机器人"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "汽车内饰",
+    "按摩机器人",
+    "超声诊断",
+    "碳纤维"
+   ],
+   "reason": "1、据2026年8月24日半年报，公司在汽车内饰面料行业处于行业领先地位，与汽车制造商及一级配套供应商形成长期稳固合作关系。\n2、据2026年8月24日半年报，公司全资孙公司自主研发生产智能理疗设备及智能按摩机器人产品，子公司威尔德从事超声诊断设备研发生产。\n3、据2026年10月27日三季报，公司在建工程较年初增长217.86%，主要系本期建设碳纤维智能化工厂所致。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002642",
+   "name": "荣联科技",
+   "board": 1,
+   "sec_plates": [
+    "云计算数据中心"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "存储设备集采",
+    "算力服务",
+    "国企"
+   ],
+   "reason": "1、据2026年11月20日公告，公司收到A客户《成交通知函》，确定为2026年存储设备集采项目01包、04包中选供应商，预计成交总金额8.49亿元含税，尚未签署正式合同；据2026年11月23日公告，公司股票交易异常波动系该事项所致。\n2、据2026年7月22日投资者关系活动记录表，公司布局算力服务、数据服务和AI应用服务，目前资源向算力服务业务有更多倾斜。\n3、据2025年年报，公司控股股东为山东经达科技产业发展有限公司，实控人为济宁高新技术产业开发区国有资产监督管理局。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "002480",
+   "name": "新筑股份",
+   "board": 1,
+   "sec_plates": [
+    "资产重组"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "重大资产重组",
+    "清洁能源",
+    "高管增持"
+   ],
+   "reason": "1、据2026年9月24日公告，公司拟购买蜀道清洁能源60%股权并出售轨交相关资产，重组已获四川省国资委批准，交易完成后将聚焦清洁能源开发与综合能源服务主业。\n2、据2026年11月21日公告，公司董事、高管及其他管理人员增持计划持续推进，部分增持主体增持金额已达计划下限。\n3、据2026年10月28日三季报，公司认定核心主业为清洁能源开发与综合能源服务，业务涵盖水风光投资运营、储能电站及电力交易、虚拟电厂等综合能源服务。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "300290",
+   "name": "ST荣科",
+   "board": 1,
+   "sec_plates": [],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "AI医疗",
+    "违规担保化解",
+    "河南国资"
+   ],
+   "reason": "1、据2026年11月24日互动易，公司围绕智慧医疗、智慧城市主业，加快AI病历质控、智能编码、医保基金监管等核心产品推广，并依托控股股东资源拓展业务。\n2、据2026年11月4日公告，公司所涉违规担保诉讼定于2026年12月17日、12月21日开庭，公司主张担保合同对公司不发生效力并积极应诉；据2026年11月24日互动易，公司已提交全套证据材料，并推动债务人资产置换力争解除担保责任。\n3、据2026年9月10日业绩说明会，公司核心主业聚焦智慧医疗与AI医疗信息化，产品涵盖AI电子病历质控、智能编码及信创适配解决方案。\n4、据2026年8月27日半年报，公司最终控制人为河南省人民政府国有资产监督管理委员会。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "603122",
+   "name": "合富中国",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "医药商业",
+    "两岸医疗",
+    "AI医疗"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据同花顺快讯2026年11月25日报道，医药商业板块持续走高，人民同泰涨停，合富中国跟涨；据2026年8月26日半年报，公司以体外诊断产品集约化业务为核心，已与千余家国内外试剂、耗材原厂和代理商建立长期合作，构建近3.8万个品项的一站式采购服务体系。\n2、据2026年11月16日投资者关系活动记录表，公司长期搭建两岸医疗交流平台，间接控股股东为台湾地区证券柜台买卖中心上柜企业。\n3、据2026年11月16日投资者关系活动记录表，公司风湿免疫科AI诊疗辅助智能体已中标抚顺市中心医院项目，迈塔威科教研数智化平台可支持基层医院远程手术指导。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "000826",
+   "name": "*ST启环",
+   "board": 1,
+   "sec_plates": [
+    "ST股"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "预重整推进",
+    "数字环卫",
+    "无人驾驶环卫"
+   ],
+   "reason": "1、据2026年11月19日股票交易异常波动公告，公司处于预重整阶段，尚未收到法院关于受理重整申请的相关法律文书，重整申请能否被法院受理、后续是否进入重整程序均存在不确定性；据2026年11月17日公告，法院尚未裁定受理公司重整申请，各方仅就浦华水务股权合作相关权利义务重新作出安排。\n2、据2026年4月30日投资者关系管理信息，公司主营业务覆盖数字环卫、水务生态、固废处置、环卫车辆及环保设备制造，数字环卫通过无人智能环卫装备、数字环卫云平台构建数字化城市环卫解决方案。\n3、据2023年2月10日互动易，无人驾驶环卫车已在部分政策允许的无人环卫项目上投入运营。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  },
+  {
+   "code": "600829",
+   "name": "人民同泰",
+   "board": 1,
+   "sec_plates": [
+    "医药"
+   ],
+   "tag": "涨停",
+   "tag_code": "LIMIT_UP",
+   "keywords": [
+    "医药商业",
+    "流感",
+    "超跌反弹"
+   ],
+   "reason": "行业原因：\n据央视新闻，国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需防范重点场所发生聚集性疫情风险。\n公司原因：\n1、据2026年8月8日半年报，公司销售收入在黑龙江省医药流通市场位居首位，产品阿奇霉素分散片适用于上呼吸道感染。\n2、据2026年8月8日半年报，公司依托批零一体化渠道协同与现代化物流配送体系，报告期内新增经营品规3,100余个、拓展新客户300余户；持续布局DTP专业药房及院边店承接处方外流。\n3、据2026年11月20日股票交易异常波动公告，公司股票11月17日至19日连续3个交易日收盘价格跌幅偏离值累计达20%；据同花顺iFinD数据，此前5个交易日累计涨跌幅为-21.26%，今日修复。\n\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）"
+  }
+ ]
+}
